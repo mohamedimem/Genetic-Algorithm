@@ -1,0 +1,5 @@
+gene1,gene2,jaccard_similarity
+CASP10,CASP9,1.0
+CASP8,CASP7,1.0
+TNF,TNFSF10,0.5
+CHUK,BIRC3,1.0

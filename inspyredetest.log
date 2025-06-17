@@ -1,0 +1,121 @@
+2025-06-10 18:16:05,235 - generating initial population
+2025-06-10 18:16:05,238 - evaluating initial population
+2025-06-10 18:17:25,470 - population size is now 3
+2025-06-10 18:17:25,470 - archiving initial population
+2025-06-10 18:17:25,470 - archive size is now 3
+2025-06-10 18:17:25,471 - population size is now 3
+2025-06-10 18:17:25,471 - observation using testObservers at generation 0 and evaluation 3
+2025-06-10 18:17:25,471 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-10 18:17:25,471 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
+2025-06-10 18:17:25,471 - ['PRHOXNB', 'FHIT', 'NME6', 'NFKB1', 'GMPR', 'CD79A', 'PARN', 'PPP3R1', 'PAPOLG', 'AKT3', 'EXOSC3', 'TP53', 'PIK3CA', 'RPS6KA3', 'PPP2R5E', 'CNOT10', 'CDC20', 'POLE4', 'PRKAR2A', 'DFFA', 'TNFRSF10D', 'ATM', 'ADCY8', 'PKM2', 'LYN', 'IL1A', 'MAPK1', 'CD79B', 'PIK3R1', 'GO:0012354', 'POLR2J2', 'NME4'] : 0.17289996600434301
+2025-06-10 18:17:25,471 - ['CDC26', 'TRAF2', 'PTPN6', 'FBXO5', 'CALM2', 'CHP2', 'CR2', 'PDE5A', 'ENTPD2'] : 0.16288516952957216
+2025-06-10 18:17:25,640 - termination test using generation_termination at generation 0 and evaluation 3
+2025-06-10 18:17:25,640 - selection using tournament_selection at generation 0 and evaluation 3
+2025-06-10 18:17:25,640 - selected 2 candidates
+2025-06-10 18:17:25,640 - variation using n_point_crossover at generation 0 and evaluation 3
+2025-06-10 18:17:25,640 - variation using mutate_gene at generation 0 and evaluation 3
+2025-06-10 18:17:25,699 - Finished with child num after mutate ['EHBP1', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
+2025-06-10 18:17:25,759 - Finished with child num after mutate ['ATP10D', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
+2025-06-10 18:17:25,759 - created 2 offspring
+2025-06-10 18:17:25,759 - evaluation using fitness at generation 0 and evaluation 3
+2025-06-10 18:19:15,379 - replacement using steady_state_replacement at generation 0 and evaluation 5
+2025-06-10 18:19:15,379 - population size is now 3
+2025-06-10 18:19:15,379 - migration using default_migration at generation 0 and evaluation 5
+2025-06-10 18:19:15,379 - population size is now 3
+2025-06-10 18:19:15,379 - archival using population_archiver at generation 0 and evaluation 5
+2025-06-10 18:19:15,379 - archive size is now 3
+2025-06-10 18:19:15,379 - population size is now 3
+2025-06-10 18:19:15,379 - observation using testObservers at generation 1 and evaluation 5
+2025-06-10 18:19:15,379 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-10 18:19:15,381 - ['EHBP1', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.1718937293935906
+2025-06-10 18:19:15,381 - ['ATP10D', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17212360915971936
+2025-06-10 18:19:15,381 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
+2025-06-10 18:19:15,382 - termination test using generation_termination at generation 1 and evaluation 5
+2025-06-10 18:19:15,382 - selection using tournament_selection at generation 1 and evaluation 5
+2025-06-10 18:19:15,382 - selected 2 candidates
+2025-06-10 18:19:15,382 - variation using n_point_crossover at generation 1 and evaluation 5
+2025-06-10 18:19:15,382 - variation using mutate_gene at generation 1 and evaluation 5
+2025-06-10 18:19:15,445 - Finished with child num after mutate ['ROCK1', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
+2025-06-10 18:19:15,503 - Finished with child num after mutate ['CACNA1I', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
+2025-06-10 18:19:15,503 - created 2 offspring
+2025-06-10 18:19:15,503 - evaluation using fitness at generation 1 and evaluation 5
+2025-06-10 18:19:37,162 - replacement using steady_state_replacement at generation 1 and evaluation 7
+2025-06-10 18:19:37,162 - population size is now 3
+2025-06-10 18:19:37,162 - migration using default_migration at generation 1 and evaluation 7
+2025-06-10 18:19:37,162 - population size is now 3
+2025-06-10 18:19:37,162 - archival using population_archiver at generation 1 and evaluation 7
+2025-06-10 18:19:37,162 - archive size is now 3
+2025-06-10 18:19:37,162 - population size is now 3
+2025-06-10 18:19:37,162 - observation using testObservers at generation 2 and evaluation 7
+2025-06-10 18:19:37,162 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-10 18:19:37,163 - ['ROCK1', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17267766718209848
+2025-06-10 18:19:37,163 - ['CACNA1I', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17125730177655368
+2025-06-10 18:19:37,163 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
+2025-06-10 18:19:37,165 - termination test using generation_termination at generation 2 and evaluation 7
+2025-06-10 18:19:37,166 - selection using tournament_selection at generation 2 and evaluation 7
+2025-06-10 18:19:37,166 - selected 2 candidates
+2025-06-10 18:19:37,166 - variation using n_point_crossover at generation 2 and evaluation 7
+2025-06-10 18:19:37,166 - variation using mutate_gene at generation 2 and evaluation 7
+2025-06-10 18:19:37,224 - Finished with child num after mutate ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:37,311 - Finished with child num after mutate ['SKP1', 'BANF1', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:37,311 - created 2 offspring
+2025-06-10 18:19:37,311 - evaluation using fitness at generation 2 and evaluation 7
+2025-06-10 18:19:39,329 - replacement using steady_state_replacement at generation 2 and evaluation 9
+2025-06-10 18:19:39,329 - population size is now 3
+2025-06-10 18:19:39,329 - migration using default_migration at generation 2 and evaluation 9
+2025-06-10 18:19:39,329 - population size is now 3
+2025-06-10 18:19:39,329 - archival using population_archiver at generation 2 and evaluation 9
+2025-06-10 18:19:39,329 - archive size is now 3
+2025-06-10 18:19:39,329 - population size is now 3
+2025-06-10 18:19:39,329 - observation using testObservers at generation 3 and evaluation 9
+2025-06-10 18:19:39,329 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-10 18:19:39,330 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
+2025-06-10 18:19:39,330 - ['SKP1', 'BANF1', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.17699647551583392
+2025-06-10 18:19:39,330 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
+2025-06-10 18:19:39,331 - termination test using generation_termination at generation 3 and evaluation 9
+2025-06-10 18:19:39,331 - selection using tournament_selection at generation 3 and evaluation 9
+2025-06-10 18:19:39,331 - selected 2 candidates
+2025-06-10 18:19:39,331 - variation using n_point_crossover at generation 3 and evaluation 9
+2025-06-10 18:19:39,331 - variation using mutate_gene at generation 3 and evaluation 9
+2025-06-10 18:19:39,391 - Finished with child num after mutate ['SKP1', 'GLUD1', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:39,450 - Finished with child num after mutate ['SKP1', 'CHD7', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:39,450 - created 2 offspring
+2025-06-10 18:19:39,450 - evaluation using fitness at generation 3 and evaluation 9
+2025-06-10 18:19:41,295 - replacement using steady_state_replacement at generation 3 and evaluation 11
+2025-06-10 18:19:41,295 - population size is now 3
+2025-06-10 18:19:41,295 - migration using default_migration at generation 3 and evaluation 11
+2025-06-10 18:19:41,295 - population size is now 3
+2025-06-10 18:19:41,295 - archival using population_archiver at generation 3 and evaluation 11
+2025-06-10 18:19:41,295 - archive size is now 3
+2025-06-10 18:19:41,295 - population size is now 3
+2025-06-10 18:19:41,295 - observation using testObservers at generation 4 and evaluation 11
+2025-06-10 18:19:41,295 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-10 18:19:41,296 - ['SKP1', 'GLUD1', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.17531713056969295
+2025-06-10 18:19:41,296 - ['SKP1', 'CHD7', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1795330460636088
+2025-06-10 18:19:41,296 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
+2025-06-10 18:19:41,297 - termination test using generation_termination at generation 4 and evaluation 11
+2025-06-10 18:19:41,297 - selection using tournament_selection at generation 4 and evaluation 11
+2025-06-10 18:19:41,297 - selected 2 candidates
+2025-06-10 18:19:41,297 - variation using n_point_crossover at generation 4 and evaluation 11
+2025-06-10 18:19:41,297 - variation using mutate_gene at generation 4 and evaluation 11
+2025-06-10 18:19:41,364 - Finished with child num after mutate ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:41,422 - Finished with child num after mutate ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'] 
+2025-06-10 18:19:41,423 - created 2 offspring
+2025-06-10 18:19:41,423 - evaluation using fitness at generation 4 and evaluation 11
+2025-06-10 18:19:42,541 - replacement using steady_state_replacement at generation 4 and evaluation 13
+2025-06-10 18:19:42,541 - population size is now 3
+2025-06-10 18:19:42,541 - migration using default_migration at generation 4 and evaluation 13
+2025-06-10 18:19:42,541 - population size is now 3
+2025-06-10 18:19:42,541 - archival using population_archiver at generation 4 and evaluation 13
+2025-06-10 18:19:42,541 - archive size is now 3
+2025-06-10 18:19:42,541 - population size is now 3
+2025-06-10 18:19:42,541 - observation using testObservers at generation 5 and evaluation 13
+2025-06-10 18:19:42,542 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-10 18:19:42,542 - ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1857052532366953
+2025-06-10 18:19:42,542 - ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'] : 0.18158979056743038
+2025-06-10 18:19:42,542 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
+2025-06-10 18:19:42,544 - termination test using generation_termination at generation 5 and evaluation 13
+2025-06-10 18:19:42,544 - termination from generation_termination at generation 5 and evaluation 13
+2025-06-10 18:19:42,545 - Population final: 
+[<Individual: candidate = ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'], fitness = 0.1857052532366953, birthdate = 1749575982.5410216>, <Individual: candidate = ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'], fitness = 0.18158979056743038, birthdate = 1749575982.5410216>, <Individual: candidate = ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'], fitness = 0.1833504035513176, birthdate = 1749575979.3292916>]
+2025-06-10 18:19:42,545 - Best Solution: ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1857052532366953
