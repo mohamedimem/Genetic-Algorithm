@@ -1,0 +1,302 @@
+2025-06-20 00:32:28,476 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:32:28,565 - Finished with child num after mutate ['SH2D1A', 'ADCY2', 'PPP2R5E', 'ADCY4', 'GRB2', 'NFKB1', 'TNFRSF1A', 'IRAK4', 'PRKX', 'MAD2L2', 'BAD', 'POLR2K'] 
+2025-06-20 00:32:28,628 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'POLD2', 'DFFB', 'IMPDH2', 'BCL2L1', 'POLR2F', 'AIFM1', 'CALM1', 'NPR1', 'POLR2C', 'TNFSF10'] 
+2025-06-20 00:32:28,629 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:32:28,687 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'DFFB', 'IMPDH2', 'TNFSF10', 'PRKAG3', 'POLR2F', 'CALM1', 'NPR1', 'POLR2C', 'AIFM1', 'POLD2'] 
+2025-06-20 00:32:28,742 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'DFFB', 'IMPDH2', 'TNFSF10', 'PRKAG1', 'POLR2F', 'CALM1', 'NPR1', 'POLR2C', 'AIFM1', 'POLD2'] 
+2025-06-20 00:32:28,742 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:32:28,817 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'GMPR2', 'IMPDH2', 'BCL2L1', 'POLR2F', 'CALM1', 'NPR1', 'POLR2C', 'AIFM1', 'POLD2'] 
+2025-06-20 00:32:28,910 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'DDX51', 'IMPDH2', 'POLR2F', 'PRKAG3', 'CALM1', 'AIFM1', 'NPR1', 'POLR2C', 'TNFSF10'] 
+2025-06-20 00:32:28,910 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:32:28,972 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'SETDB1', 'IMPDH2', 'TNFSF10', 'POLR2F', 'PRKAG3', 'BAD', 'NPR1', 'POLR2C', 'AIFM1'] 
+2025-06-20 00:32:29,044 - Finished with child num after mutate ['AKT2', 'PPP3R1', 'ADCY2', 'ADCY4', 'GRB2', 'NFKB1', 'TNFRSF1A', 'IRAK4', 'PRKX', 'SHANK1', 'POLR2K', 'CALM1'] 
+2025-06-20 00:32:29,044 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:32:29,113 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'DFFB', 'IMPDH2', 'TNFSF10', 'DUSP1', 'POLR2F', 'CALM1', 'POLR2C', 'AIFM1', 'POLD2'] 
+2025-06-20 00:32:29,189 - Finished with child num after mutate ['PPP3R1', 'ANAPC5', 'IMPDH2', 'SETDB1', 'POLR2F', 'PRKAG3', 'BAD', 'AIFM1', 'NPR1', 'TNFSF10'] 
+2025-06-20 00:32:29,189 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:32:29,264 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'NEDD4', 'IMPDH2', 'POLR2F', 'PRKAG3', 'CALM1', 'NPR1', 'POLR2C', 'TNFSF10', 'POLD2'] 
+2025-06-20 00:32:29,331 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'GMPR2', 'IMPDH2', 'FDXACB1', 'POLR2F', 'CALM1', 'NPR1', 'POLR2C', 'AIFM1'] 
+2025-06-20 00:32:29,332 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:32:29,419 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'NPR1', 'IMPDH2', 'POLR2F', 'PRKAG3', 'CALM1', 'NEDD4', 'POLR2C', 'CWC22', 'POLD2'] 
+2025-06-20 00:32:29,477 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'NPR1', 'IMPDH2', 'POLR2F', 'PRKAG3', 'CALM1', 'NEDD4', 'POLR2C', 'SETD2', 'POLD2'] 
+2025-06-20 00:32:29,478 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:32:29,541 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'RPUSD2', 'CWC22', 'POLR2F', 'PRKAG3', 'CALM1', 'NEDD4', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,603 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'IMPDH2', 'POLR2F', 'PRKAG3', 'CALM1', 'NPR1', 'POLR2C', 'SF3A2', 'POLD2'] 
+2025-06-20 00:32:29,603 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:32:29,674 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'INTS2', 'POLR2F', 'PRKAG3', 'CALM1', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,733 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'POLR2F', 'PRKAG3', 'CALM1', 'NEDD4', 'SETD2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,734 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:32:29,798 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'NPR1', 'POLR2F', 'PRKAG3', 'CALM1', 'MYLK', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,868 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'DHX37', 'POLR2F', 'PRKAG3', 'CALM1', 'SETD2', 'SF3A2', 'NPR1', 'POLD2'] 
+2025-06-20 00:32:29,868 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:32:29,922 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'OR1Q1', 'POLR2F', 'PRKAG3', 'CALM1', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,976 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'NPSR1', 'POLR2F', 'PRKAG3', 'CALM1', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:29,976 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:32:30,031 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'POLR2F', 'PRKAG3', 'STOML2', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,084 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'POLR2F', 'CALM1', 'NPR1', 'POLR2C', 'CDC6', 'POLD2'] 
+2025-06-20 00:32:30,084 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:32:30,153 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'POLR2F', 'PRKAG3', 'HMGCLL1', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,219 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'POLR2F', 'PRKAG3', 'TAF2', 'SF3A2', 'NPR1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,219 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:32:30,346 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'CDC6', 'POLR2F', 'CALM1', 'RBFOX2', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,530 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'CDC6', 'POLR2F', 'CALM1', 'MTA2', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,530 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:32:30,627 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'CDC6', 'POLR2F', 'CALM1', 'MYLK', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,703 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'CDC6', 'POLR2F', 'CALM1', 'SYK', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,703 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:32:30,764 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'NFYB', 'POLR2F', 'CALM1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,829 - Finished with child num after mutate ['RNF215', 'POLR2L', 'ELL2', 'POLR2F', 'CALM1', 'SYK', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,829 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:32:30,889 - Finished with child num after mutate ['DNAJC1', 'POLR2L', 'ELL2', 'POLR2C', 'POLR2F', 'CALM1', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:30,949 - Finished with child num after mutate ['AJUBA', 'POLR2L', 'ELL2', 'POLR2F', 'CALM1', 'SYK', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:30,949 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:32:31,009 - Finished with child num after mutate ['PPP3R1', 'POLR2L', 'ELL2', 'CDC6', 'POLR2F', 'CALM1', 'UBLCP1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,067 - Finished with child num after mutate ['EIF4G1', 'POLR2L', 'ELL2', 'POLR2C', 'POLR2F', 'CALM1', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,067 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:32:31,131 - Finished with child num after mutate ['SMNDC1', 'POLR2L', 'ELL2', 'POLR2C', 'POLR2F', 'CALM1', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,190 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'GCFC2', 'POLR2F', 'CALM1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,190 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:32:31,251 - Finished with child num after mutate ['MRPS11', 'POLR2L', 'ELL2', 'POLR2F', 'CALM1', 'SYK', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,306 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'AK2', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,306 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:32:31,362 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'ALG3', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,418 - Finished with child num after mutate ['RAD51C', 'POLR2L', 'ELL2', 'POLR2F', 'CALM1', 'SYK', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,418 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:32:31,480 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'ADCY5', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,542 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'CLPX', 'POLR2F', 'CALM1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:31,542 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:32:31,610 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'CDC6', 'POLR2F', 'PRKACG', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,681 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'TULP3', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,681 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:32:31,745 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CLPX', 'POLR2C', 'POLR2F', 'GTF2H2', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,807 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'CDC6', 'POLR2F', 'PRKAG1', 'GCFC2', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,807 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:32:31,874 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'PA2G4', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,965 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'SOD2', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:31,965 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:32:32,045 - Finished with child num after mutate ['ELL2', 'POLR2C', 'SMNDC1', 'CDC6', 'POLR2F', 'TSFM', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:32,099 - Finished with child num after mutate ['NFYB', 'POLR2L', 'TSPYL2', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,100 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:32:32,160 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'PRKACG', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,217 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'TAF1D', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,217 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:32:32,274 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'SDAD1', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,329 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'RTCB', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,329 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:32:32,384 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'NACC1', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:32,443 - Finished with child num after mutate ['NFYB', 'POLR2L', 'ELL2', 'PRKAR2A', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,443 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:32:32,504 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'XRCC5', 'NACC1', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:32,559 - Finished with child num after mutate ['POLR1D', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,560 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:32:32,622 - Finished with child num after mutate ['NACC1', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,684 - Finished with child num after mutate ['POLR2L', 'ELL2', 'NACC1', 'SMNDC1', 'BRIX1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,684 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:32:32,760 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SIRT5', 'SMNDC1', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:32,828 - Finished with child num after mutate ['POLR2L', 'UMPS', 'POLR2C', 'SMNDC1', 'POLR2F', 'CDC6', 'NFYB', 'POLD2'] 
+2025-06-20 00:32:32,828 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:32:32,892 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'NACC1', 'SMNDC1', 'CDC6', 'HDHD2', 'POLD2'] 
+2025-06-20 00:32:32,952 - Finished with child num after mutate ['POLR2L', 'ELL2', 'NDUFA4', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:32,952 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:32:33,009 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2C', 'SMNDC1', 'SNRPD1', 'CDC6', 'BRIX1', 'POLD2'] 
+2025-06-20 00:32:33,067 - Finished with child num after mutate ['POLR2L', 'ELL2', 'DDIT3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,067 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:32:33,122 - Finished with child num after mutate ['POLR2L', 'ELL2', 'PGM5', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,180 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SLC39A2', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,180 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:32:33,237 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'PIH1D2', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,402 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'POLD2', 'CDC6', 'POLR2C', 'MRPS12'] 
+2025-06-20 00:32:33,402 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:32:33,485 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'TIMM21', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,540 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'ZC3H8', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,540 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:32:33,598 - Finished with child num after mutate ['POLR2L', 'ELL2', 'NACC1', 'SMNDC1', 'COQ2', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,656 - Finished with child num after mutate ['CPSF3', 'POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,656 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:32:33,710 - Finished with child num after mutate ['POLR2L', 'ELL2', 'PABPN1', 'POLR2F', 'ZC3H8', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,764 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'MYB', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,764 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:32:33,818 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'HSP90AA1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,872 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'ESRP1'] 
+2025-06-20 00:32:33,873 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:32:33,927 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'KLC1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,982 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'MED14', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:33,982 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:32:34,039 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'RPL7L1'] 
+2025-06-20 00:32:34,094 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'GTF2H1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,094 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:32:34,177 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'RPF2'] 
+2025-06-20 00:32:34,246 - Finished with child num after mutate ['ART3', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,247 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:32:34,400 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'EIF2AK4'] 
+2025-06-20 00:32:34,507 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'TFB2M', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,507 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:32:34,563 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'CDH1'] 
+2025-06-20 00:32:34,637 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'METAP1D'] 
+2025-06-20 00:32:34,637 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:32:34,691 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'POLD2', 'PABPN1', 'ZC3H8', 'POLR2C', 'NAA38'] 
+2025-06-20 00:32:34,745 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'PPARGC1A', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,746 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:32:34,800 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'NECAB2', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,853 - Finished with child num after mutate ['POLR2L', 'ELL2', 'TAF4', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,853 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:32:34,912 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'YY1', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,974 - Finished with child num after mutate ['POLR2L', 'RAD54B', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:34,974 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:32:35,039 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'YY1', 'PABPN1', 'ZC3H8', 'POLR2C', 'CAPZA2'] 
+2025-06-20 00:32:35,104 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMYD1', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:35,104 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:32:35,165 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'ZC3H8', 'CDC6', 'POLR2C', 'POLD2', 'MED19'] 
+2025-06-20 00:32:35,223 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'YY1', 'PABPN1', 'POLR2C', 'RPA3'] 
+2025-06-20 00:32:35,223 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:32:35,277 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'MCEE'] 
+2025-06-20 00:32:35,330 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'POLR2F', 'YY1', 'CDC6', 'POLR2C', 'POLD2', 'NASP'] 
+2025-06-20 00:32:35,330 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:32:35,385 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'POLR2F', 'PABPN1', 'RPA3', 'NCBP2L', 'POLR2C'] 
+2025-06-20 00:32:35,438 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'ZC3H8', 'KDELR2', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:35,438 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:32:35,491 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SMNDC1', 'RPS15A', 'POLR2F', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:35,546 - Finished with child num after mutate ['POLR2L', 'PGK1', 'CPSF3', 'SMNDC1', 'PABPN1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:35,546 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:32:35,615 - Finished with child num after mutate ['POLR2L', 'EEF1A1', 'SMNDC1', 'NCBP2L', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:35,682 - Finished with child num after mutate ['POLR2L', 'FKBPL', 'CPSF3', 'SMNDC1', 'PABPN1', 'CDC6', 'POLR2C', 'POLD2'] 
+2025-06-20 00:32:35,683 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:32:35,761 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SRSF3', 'YY1', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:35,884 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'SMNDC1', 'POLR2F', 'CDC6', 'POLR2C', 'POLD2', 'RPL39L'] 
+2025-06-20 00:32:35,885 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:32:36,014 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PRPH2', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,154 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'SLC2A12', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,154 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:32:36,220 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'EIF3G', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,277 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'RPL27', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,277 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:32:36,358 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SRSF3', 'CPSF3', 'HNRNPUL1', 'RPA3', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:36,413 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'MRPL4', 'PABPN1', 'POLR2C'] 
+2025-06-20 00:32:36,414 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:32:36,470 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'DIMT1', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,524 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'RPL39L', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,525 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:32:36,580 - Finished with child num after mutate ['POLR2L', 'ELL2', 'RPS5', 'CPSF3', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,637 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SRSF3', 'POLR2F', 'EZH2', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:36,637 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:32:36,690 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SRSF3', 'POLR2F', 'TANGO6', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:36,743 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'TTC32', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,743 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:32:36,797 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SRSF3', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'CDK7'] 
+2025-06-20 00:32:36,855 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'PRPF19', 'YY1', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:36,855 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:32:36,931 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'FARS2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,987 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'MRPL11', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:36,987 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:32:37,046 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'SRSF3', 'PRPF19', 'PABPN1', 'RPA3', 'POLR2C', 'EEF2'] 
+2025-06-20 00:32:37,121 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'POLR2F', 'SIAH2', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,121 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:32:37,178 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'PRPF19', 'DDX1', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,232 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'RNASEH1', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:37,233 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:32:37,285 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'HCCS'] 
+2025-06-20 00:32:37,339 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'KBTBD13'] 
+2025-06-20 00:32:37,339 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:32:37,408 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'CPSF3', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'RPL13A'] 
+2025-06-20 00:32:37,465 - Finished with child num after mutate ['POLR2L', 'WDR3', 'ELL2', 'SRSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,465 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:32:37,519 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'LIN28A'] 
+2025-06-20 00:32:37,577 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'ZNHIT2', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:37,578 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:32:37,633 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'TTC32', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:37,695 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'RPL37A', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:37,695 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:32:37,749 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SRSF3', 'CPSF3', 'AK9', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,812 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CPSF3', 'PRPF19', 'CALM3', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,812 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:32:37,865 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'ELP3', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:37,933 - Finished with child num after mutate ['POLR2L', 'ELL2', 'PRPF19', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'ZRANB3'] 
+2025-06-20 00:32:37,933 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:32:38,018 - Finished with child num after mutate ['POLR2L', 'ELL2', 'EXOSC10', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,106 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'DUSP13'] 
+2025-06-20 00:32:38,107 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:32:38,165 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'ADCY3', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,231 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'PHGDH', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,232 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:32:38,380 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'RWDD4', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,450 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'RBM24', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,450 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:32:38,504 - Finished with child num after mutate ['POLR2L', 'ELL2', 'PSAT1', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,560 - Finished with child num after mutate ['POLR2L', 'ELL2', 'CTDSPL', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,560 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:32:38,613 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'POLR2C', 'ART3'] 
+2025-06-20 00:32:38,691 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'DOT1L', 'ZC3H8', 'POLR2F', 'PABPN1', 'RPA3'] 
+2025-06-20 00:32:38,691 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:32:38,751 - Finished with child num after mutate ['POLR2L', 'ELL2', 'GAPDHS', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,840 - Finished with child num after mutate ['POLR2L', 'ELL2', 'POLR2F', 'CPSF4', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,841 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:32:38,905 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'THNSL2'] 
+2025-06-20 00:32:38,963 - Finished with child num after mutate ['POLR2L', 'ELL2', 'INTS4', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:38,963 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:32:39,016 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'BUB3'] 
+2025-06-20 00:32:39,070 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'RNF111'] 
+2025-06-20 00:32:39,070 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:32:39,124 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'CD2BP2'] 
+2025-06-20 00:32:39,178 - Finished with child num after mutate ['POLR2L', 'ELL2', 'SHMT2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,178 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:32:39,232 - Finished with child num after mutate ['POLR2L', 'CDK7', 'ELL2', 'POTEI', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,284 - Finished with child num after mutate ['POLR2L', 'ELL2', 'FARSB', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,285 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:32:39,341 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'XRN2'] 
+2025-06-20 00:32:39,394 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'CCDC102A'] 
+2025-06-20 00:32:39,394 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:32:39,448 - Finished with child num after mutate ['POLR2L', 'ELL2', 'EP300', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,503 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'SMARCA2'] 
+2025-06-20 00:32:39,503 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:32:39,556 - Finished with child num after mutate ['POLR2L', 'ELL2', 'PGK2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,609 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'NAT10'] 
+2025-06-20 00:32:39,609 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:32:39,665 - Finished with child num after mutate ['POLR2L', 'ELL2', 'ADD3', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,718 - Finished with child num after mutate ['POLR2L', 'ELL2', 'AIRE', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,718 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:32:39,772 - Finished with child num after mutate ['POLR2L', 'TRHDE', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,827 - Finished with child num after mutate ['PRPF31', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:39,827 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:32:39,890 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'RPA3', 'ZC3H8', 'POLR2C', 'HEATR1'] 
+2025-06-20 00:32:39,976 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'POLR2C', 'ERCC8'] 
+2025-06-20 00:32:39,976 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:32:40,046 - Finished with child num after mutate ['ATF4', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,099 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'CCAR1'] 
+2025-06-20 00:32:40,100 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:32:40,157 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'PRDX4'] 
+2025-06-20 00:32:40,210 - Finished with child num after mutate ['POLR2L', 'MFAP1', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,210 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:32:40,262 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'LONRF3'] 
+2025-06-20 00:32:40,315 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'TAF1D'] 
+2025-06-20 00:32:40,315 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:32:40,373 - Finished with child num after mutate ['NME8', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,425 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'ZC3H8', 'POLR2C', 'EXO1'] 
+2025-06-20 00:32:40,425 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:32:40,478 - Finished with child num after mutate ['RUVBL2', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,532 - Finished with child num after mutate ['POLR2L', 'ELL2', 'HSPA1B', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,532 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:32:40,587 - Finished with child num after mutate ['MLLT3', 'POLR2L', 'ELL2', 'ZC3H8', 'POLR2F', 'PABPN1', 'RPA3'] 
+2025-06-20 00:32:40,641 - Finished with child num after mutate ['POLR2L', 'DDX1', 'ELL2', 'CPSF3', 'PRPF19', 'PABPN1', 'POLR2C', 'TAF7L'] 
+2025-06-20 00:32:40,641 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:32:40,695 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'CTPS1'] 
+2025-06-20 00:32:40,748 - Finished with child num after mutate ['POLR2L', 'ELL2', 'RUVBL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'NFXL1'] 
+2025-06-20 00:32:40,748 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:32:40,802 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'HSPA5'] 
+2025-06-20 00:32:40,855 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'FARSA'] 
+2025-06-20 00:32:40,857 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:32:40,910 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'MED4'] 
+2025-06-20 00:32:40,967 - Finished with child num after mutate ['ACTRT1', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:40,968 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:32:41,035 - Finished with child num after mutate ['POLR2L', 'EP400', 'ELL2', 'CPSF3', 'POLR2F', 'PABPN1', 'ZC3H8', 'POLR2C'] 
+2025-06-20 00:32:41,110 - Finished with child num after mutate ['POLR2L', 'ELL2', 'RUVBL2', 'PRPF19', 'PABPN1', 'RPA3', 'POLR2C', 'PHF7'] 
+2025-06-20 00:32:41,110 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:32:41,179 - Finished with child num after mutate ['ADHFE1', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:41,242 - Finished with child num after mutate ['POLR2L', 'ELL2', 'RUVBL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'PHF6'] 
+2025-06-20 00:32:41,242 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:32:41,304 - Finished with child num after mutate ['POLR2L', 'CPSF4', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'EBNA1BP2'] 
+2025-06-20 00:32:41,360 - Finished with child num after mutate ['POLR2L', 'ELL2', 'TIAL1', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:41,360 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:32:41,414 - Finished with child num after mutate ['POLR2L', 'ELL2', 'RUVBL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C', 'ATM'] 
+2025-06-20 00:32:41,467 - Finished with child num after mutate ['RPL10', 'POLR2L', 'ELL2', 'POLR2F', 'PABPN1', 'RPA3', 'POLR2C'] 
+2025-06-20 00:32:41,467 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:32:41,467 - Run 12 COMPLETED - Fitness: 0.394530 - Size: 7 - Duration: 0:00:14.949484

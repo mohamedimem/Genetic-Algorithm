@@ -1,0 +1,484 @@
+GENETIC ALGORITHM MULTI-RUN EXPERIMENT RESULTS
+================================================================================
+Start Time: 2025-06-19 23:56:15
+Total Experiments: 60 (20 runs × 3 metrics)
+================================================================================
+
+
+==================== JACCARD_MAX RESULTS ====================
+
+Run 1 - JACCARD_MAX
+Fitness: 0.401249
+Duration: 0:00:14.584285
+Community Size: 6
+Best Solution: TNFRSF1A, PPIF, TGFB1, NFKBIA, TP53, RIPK3
+--------------------------------------------------------------------------------
+
+Run 2 - JACCARD_MAX
+Fitness: 0.362928
+Duration: 0:00:14.127089
+Community Size: 7
+Best Solution: CAT, TNS1, CXCL8, PRTN3, CREB1, MAPK1, HMOX1
+--------------------------------------------------------------------------------
+
+Run 3 - JACCARD_MAX
+Fitness: 0.240889
+Duration: 0:00:13.637122
+Community Size: 16
+Best Solution: RAP2A, MAPK13, PIK3CA, MAPK3, MAPK1, HDAC1, PI3, MLH1, FLG, FGFR1, RASD2, PIK3CG, GSK3B, NFKBIA, AGO2, CDC25B
+--------------------------------------------------------------------------------
+
+Run 4 - JACCARD_MAX
+Fitness: 0.325547
+Duration: 0:00:14.423790
+Community Size: 8
+Best Solution: FAS, FOXO3, CTSD, TLR4, GRB2, NFKB1, GAPDH, MAPK1
+--------------------------------------------------------------------------------
+
+Run 5 - JACCARD_MAX
+Fitness: 0.282080
+Duration: 0:00:12.514973
+Community Size: 6
+Best Solution: CREBBP, EPO, EPOR, EIF2AK3, NFKBIA, HDAC5
+--------------------------------------------------------------------------------
+
+Run 6 - JACCARD_MAX
+Fitness: 0.487093
+Duration: 0:00:13.533113
+Community Size: 8
+Best Solution: PSME2, PPP2R5B, PPP2R5D, ANAPC2, PPP2R5E, RBX1, AURKA, SKP1
+--------------------------------------------------------------------------------
+
+Run 7 - JACCARD_MAX
+Fitness: 0.394363
+Duration: 0:00:13.166595
+Community Size: 6
+Best Solution: CREBBP, SPI1, SKP1, IKBKB, NFKBIA, IRF1
+--------------------------------------------------------------------------------
+
+Run 8 - JACCARD_MAX
+Fitness: 0.380336
+Duration: 0:00:13.700364
+Community Size: 10
+Best Solution: RELB, CD74, CCL2, NFKBIA, TLR7, NFKB1, TLR6, BCL2A1, TNFRSF1A, CXCL8
+--------------------------------------------------------------------------------
+
+Run 9 - JACCARD_MAX
+Fitness: 0.339593
+Duration: 0:00:14.934959
+Community Size: 8
+Best Solution: FN1, MAPK3, TNFRSF10A, PTGS2, TIMP1, FOSB, NFKBIA, MAPK1
+--------------------------------------------------------------------------------
+
+Run 10 - JACCARD_MAX
+Fitness: 0.477100
+Duration: 0:00:12.589611
+Community Size: 9
+Best Solution: BUB1, PPP2R5B, SKP1, CDC6, DLGAP5, FBXO5, AURKA, GMNN, PSMB4
+--------------------------------------------------------------------------------
+
+Run 11 - JACCARD_MAX
+Fitness: 0.323377
+Duration: 0:00:12.916791
+Community Size: 7
+Best Solution: IRAK2, PSMB10, LTBR, CFLAR, NFKBIA, SKP1, TNFRSF1A
+--------------------------------------------------------------------------------
+
+Run 12 - JACCARD_MAX
+Fitness: 0.560011
+Duration: 0:00:12.768557
+Community Size: 6
+Best Solution: POLR2F, SF3B6, POLR2C, SNRPC, GPKOW, POLR2I
+--------------------------------------------------------------------------------
+
+Run 13 - JACCARD_MAX
+Fitness: 0.483235
+Duration: 0:00:12.989769
+Community Size: 8
+Best Solution: HSPA8, FUS, CDC5L, POLR2L, DDX5, SNRPB2, CPSF3, POLR2I
+--------------------------------------------------------------------------------
+
+Run 14 - JACCARD_MAX
+Fitness: 0.388066
+Duration: 0:00:12.621069
+Community Size: 7
+Best Solution: ASB6, SKP1, MAPK12, FBXO9, SIAH1, CDC34, AKT1
+--------------------------------------------------------------------------------
+
+Run 15 - JACCARD_MAX
+Fitness: 0.325307
+Duration: 0:00:13.021781
+Community Size: 6
+Best Solution: SKP1, DDIT3, UBE2D4, SMAD3, MAPK1, UBE2E3
+--------------------------------------------------------------------------------
+
+Run 16 - JACCARD_MAX
+Fitness: 0.372978
+Duration: 0:00:15.307102
+Community Size: 10
+Best Solution: GADD45B, BCL3, IL4, PTGS2, CD4, TIMP1, NFKBIA, ETS1, GAPDH, MMP9
+--------------------------------------------------------------------------------
+
+Run 17 - JACCARD_MAX
+Fitness: 0.382274
+Duration: 0:00:15.473582
+Community Size: 11
+Best Solution: PSMB6, CDK1, CUL1, UBE2D1, PSMD8, PSMA2, PSMB7, NFKBIA, ODC1, AURKA, HSP90AB1
+--------------------------------------------------------------------------------
+
+Run 18 - JACCARD_MAX
+Fitness: 0.304611
+Duration: 0:00:12.953260
+Community Size: 6
+Best Solution: GDA, CDA, RNASEH2A, GAPDH, ADAT2, DHODH
+--------------------------------------------------------------------------------
+
+Run 19 - JACCARD_MAX
+Fitness: 0.373661
+Duration: 0:00:14.718098
+Community Size: 7
+Best Solution: COL1A1, SMAD2, MAPK14, ITGB4, LOX, MAPK1, BMP4
+--------------------------------------------------------------------------------
+
+Run 20 - JACCARD_MAX
+Fitness: 0.338345
+Duration: 0:00:14.512004
+Community Size: 7
+Best Solution: PPP3CA, PLCG1, MTOR, PRKCZ, NFKBIA, PIK3R2, RIPK2
+--------------------------------------------------------------------------------
+
+
+JACCARD_MAX SUMMARY:
+  Completed runs: 20/20
+  Best fitness:   0.560011 (Run 12)
+  Worst fitness:  0.240889 (Run 3)
+  Average fitness: 0.377152
+  Best solution size: 6 genes
+  Best solution: POLR2F, SF3B6, POLR2C, SNRPC, GPKOW, POLR2I
+
+================================================================================
+
+
+==================== ADAMIC_MAX RESULTS ====================
+
+Run 1 - ADAMIC_MAX
+Fitness: 0.284984
+Duration: 0:00:15.721229
+Community Size: 5
+Best Solution: FH, ATIC, OXCT1, GAPDH, YWHAE
+--------------------------------------------------------------------------------
+
+Run 2 - ADAMIC_MAX
+Fitness: 0.407615
+Duration: 0:00:12.720700
+Community Size: 7
+Best Solution: PHF5A, BUD31, SNRPG, POLR2C, LSM5, PQBP1, U2AF1L4
+--------------------------------------------------------------------------------
+
+Run 3 - ADAMIC_MAX
+Fitness: 0.294697
+Duration: 0:00:12.867157
+Community Size: 6
+Best Solution: PPP3CB, TGFBR1, PPP3CC, TAB1, MAP2K5, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 4 - ADAMIC_MAX
+Fitness: 0.282409
+Duration: 0:00:12.592565
+Community Size: 10
+Best Solution: EGF, FAS, TNFRSF10A, NFKB1, TRAF2, GSK3B, MAPK10, REM1, FGF4, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 5 - ADAMIC_MAX
+Fitness: 0.226054
+Duration: 0:00:14.068020
+Community Size: 16
+Best Solution: CREBBP, PPP3CB, NGF, BCL3, CORO1A, TNFRSF10A, PSMB10, CALM1, ALB, XIAP, NFKBIA, SPI1, NFKB1, INS, ODC1, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 6 - ADAMIC_MAX
+Fitness: 0.330255
+Duration: 0:00:13.966270
+Community Size: 5
+Best Solution: GJA1, ENO1, MAPK1, CAT, DUT
+--------------------------------------------------------------------------------
+
+Run 7 - ADAMIC_MAX
+Fitness: 0.310612
+Duration: 0:00:15.172891
+Community Size: 8
+Best Solution: NGFR, PLK1, UBC, ERBB2, NFKB1, MAPK1, AURKA, BAD
+--------------------------------------------------------------------------------
+
+Run 8 - ADAMIC_MAX
+Fitness: 0.298352
+Duration: 0:00:14.518342
+Community Size: 15
+Best Solution: CREBBP, ENO1, MAPK3, APOA1, DDX5, YBX1, MPO, POLR2I, CLU, NFKBIA, AGO2, SRC, GAPDH, MAPK1, NRAS
+--------------------------------------------------------------------------------
+
+Run 9 - ADAMIC_MAX
+Fitness: 0.392869
+Duration: 0:00:13.507060
+Community Size: 8
+Best Solution: POLR2B, POLR2F, SF3B6, HNRNPA3, MRPL27, POLR2C, PABPN1, RBX1
+--------------------------------------------------------------------------------
+
+Run 10 - ADAMIC_MAX
+Fitness: 0.395544
+Duration: 0:00:13.327757
+Community Size: 9
+Best Solution: PIK3CA, IL2, IL4, BIRC2, HGF, TRAF2, INS, FYN, TNFRSF1A
+--------------------------------------------------------------------------------
+
+Run 11 - ADAMIC_MAX
+Fitness: 0.303247
+Duration: 0:00:14.520123
+Community Size: 6
+Best Solution: GUCY2F, ADCY1, PDE1C, CALM1, PVALB, PDE1B
+--------------------------------------------------------------------------------
+
+Run 12 - ADAMIC_MAX
+Fitness: 0.280913
+Duration: 0:00:13.359897
+Community Size: 17
+Best Solution: UBB, GADD45B, PIK3CA, TNFRSF1A, MAPK12, IL4, JUN, MAPK11, RASD1, RASD2, PRKCI, SIRT1, NFKBIA, IRAK1, NFKBIE, MAPK1, SOS2
+--------------------------------------------------------------------------------
+
+Run 13 - ADAMIC_MAX
+Fitness: 0.258890
+Duration: 0:00:13.271126
+Community Size: 11
+Best Solution: IGF1, CDK1, CAT, PRKCD, TNFRSF10A, SIRT4, NFKBIA, CASP9, MMP2, YWHAE, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 14 - ADAMIC_MAX
+Fitness: 0.598408
+Duration: 0:00:13.118281
+Community Size: 8
+Best Solution: SNRPD3, SNRPB2, POLR2H, PRPF19, POLR2C, SNRPC, WDR33, SUGP1
+--------------------------------------------------------------------------------
+
+Run 15 - ADAMIC_MAX
+Fitness: 0.599081
+Duration: 0:00:12.788432
+Community Size: 9
+Best Solution: DDX39A, PAPOLA, SF3B6, SNRPA, SNRPB2, SRSF6, SRSF2, SNRPC, HNRNPR
+--------------------------------------------------------------------------------
+
+Run 16 - ADAMIC_MAX
+Fitness: 0.355749
+Duration: 0:00:13.350377
+Community Size: 8
+Best Solution: HERC2, UBA52, FBXL12, PSMD10, ANAPC7, BTRC, RBX1, RPA3
+--------------------------------------------------------------------------------
+
+Run 17 - ADAMIC_MAX
+Fitness: 0.285369
+Duration: 0:00:12.913772
+Community Size: 10
+Best Solution: PPP3CB, GUCY2F, CYCS, SOD1, CDK2, MAPK12, HMOX1, GAPDH, REM1, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 18 - ADAMIC_MAX
+Fitness: 0.394934
+Duration: 0:00:14.220528
+Community Size: 9
+Best Solution: FBL, EMG1, NMD3, RPF1, EXOSC10, DDX49, POLR2C, EXOSC5, TRMT6
+--------------------------------------------------------------------------------
+
+Run 19 - ADAMIC_MAX
+Fitness: 0.375801
+Duration: 0:00:15.278002
+Community Size: 6
+Best Solution: BIRC3, PSMA3, PSMA2, NFKBIA, TNFSF13B, PSMB7
+--------------------------------------------------------------------------------
+
+Run 20 - ADAMIC_MAX
+Fitness: 0.543922
+Duration: 0:00:15.682135
+Community Size: 7
+Best Solution: MPHOSPH10, PDCD11, DDX5, DDX49, FBL, EXOSC5, ESF1
+--------------------------------------------------------------------------------
+
+
+ADAMIC_MAX SUMMARY:
+  Completed runs: 20/20
+  Best fitness:   0.599081 (Run 15)
+  Worst fitness:  0.226054 (Run 5)
+  Average fitness: 0.360985
+  Best solution size: 9 genes
+  Best solution: DDX39A, PAPOLA, SF3B6, SNRPA, SNRPB2, SRSF6, SRSF2, SNRPC, HNRNPR
+
+================================================================================
+
+
+==================== GAUSSIAN_MAX RESULTS ====================
+
+Run 1 - GAUSSIAN_MAX
+Fitness: 0.243239
+Duration: 0:00:14.183210
+Community Size: 10
+Best Solution: PPP3CA, UBB, PRKAA1, PPP2R5B, PPP2R5D, KLHL20, PSMA5, BTRC, AURKA, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 2 - GAUSSIAN_MAX
+Fitness: 0.295457
+Duration: 0:00:14.137464
+Community Size: 6
+Best Solution: PPP3CA, DUSP1, CAT, MAPK12, GRB2, JUN
+--------------------------------------------------------------------------------
+
+Run 3 - GAUSSIAN_MAX
+Fitness: 0.300701
+Duration: 0:00:12.487191
+Community Size: 7
+Best Solution: RBMX, THOC2, POLR2B, IWS1, SNAPC1, SRRM1, POLR2I
+--------------------------------------------------------------------------------
+
+Run 4 - GAUSSIAN_MAX
+Fitness: 0.338463
+Duration: 0:00:14.200008
+Community Size: 8
+Best Solution: BCL3, BCL2L11, PI3, GZMB, GRB2, CFLAR, MAPK1, NGFR
+--------------------------------------------------------------------------------
+
+Run 5 - GAUSSIAN_MAX
+Fitness: 0.435860
+Duration: 0:00:13.736832
+Community Size: 7
+Best Solution: UBB, RPL18A, SKP1, CUL1, PSMA3, PSMA2, AURKA
+--------------------------------------------------------------------------------
+
+Run 6 - GAUSSIAN_MAX
+Fitness: 0.205898
+Duration: 0:00:13.007009
+Community Size: 26
+Best Solution: DUSP1, HMOX1, MAPK12, PRKCZ, GSK3B, PDGFRB, GSK3A, SMURF1, PPP2CB, RPS6KA1, NOD1, PPP3R1, ZAP70, PIK3CB, TRIB2, ACVR2A, PRKACA, IL1B, ATAD2B, SKP1, PLCG1, TGFB1, HSP90AA1, YAP1, PTEN, VEGFA
+--------------------------------------------------------------------------------
+
+Run 7 - GAUSSIAN_MAX
+Fitness: 0.322363
+Duration: 0:00:12.924279
+Community Size: 4
+Best Solution: SKP1, G2E3, CUL3, SIAH2
+--------------------------------------------------------------------------------
+
+Run 8 - GAUSSIAN_MAX
+Fitness: 0.367456
+Duration: 0:00:13.127747
+Community Size: 9
+Best Solution: PPP3CA, PPP3CB, MAPK14, SKP1, SYK, NFKBIA, NFKB1, PPP3R1, CDC34
+--------------------------------------------------------------------------------
+
+Run 9 - GAUSSIAN_MAX
+Fitness: 0.311025
+Duration: 0:00:13.047558
+Community Size: 6
+Best Solution: PPP3CA, DUSP1, MAPK13, NFKB1, PPP3R1, PPP1R15A
+--------------------------------------------------------------------------------
+
+Run 10 - GAUSSIAN_MAX
+Fitness: 0.397897
+Duration: 0:00:13.745636
+Community Size: 9
+Best Solution: ESR1, GNA11, MAPK14, CFTR, NR3C1, IL4, TGFB1, SIRT1, SMAD3
+--------------------------------------------------------------------------------
+
+Run 11 - GAUSSIAN_MAX
+Fitness: 0.425312
+Duration: 0:00:14.135074
+Community Size: 5
+Best Solution: FN1, CTSC, CAP1, MAPK1, CTSG
+--------------------------------------------------------------------------------
+
+Run 12 - GAUSSIAN_MAX
+Fitness: 0.361547
+Duration: 0:00:13.454845
+Community Size: 9
+Best Solution: POLE2, RAD51B, ATM, POLR3A, YEATS4, POLK, POLR2C, POLR2I, HNRNPL
+--------------------------------------------------------------------------------
+
+Run 13 - GAUSSIAN_MAX
+Fitness: 0.449794
+Duration: 0:00:12.113511
+Community Size: 7
+Best Solution: TXNL4A, DDX39A, SRSF9, UPF3B, SSRP1, POLR2I, SRSF6
+--------------------------------------------------------------------------------
+
+Run 14 - GAUSSIAN_MAX
+Fitness: 0.294003
+Duration: 0:00:14.744803
+Community Size: 10
+Best Solution: RHOBTB2, PPP2CB, RAC3, MAPK12, PPP2R5D, SOS2, PPP3CC, RIPK3, MAPK1, PPP3R1
+--------------------------------------------------------------------------------
+
+Run 15 - GAUSSIAN_MAX
+Fitness: 0.406733
+Duration: 0:00:13.221789
+Community Size: 5
+Best Solution: FN1, VCL, MAPK14, SLC9A1, MAPK1
+--------------------------------------------------------------------------------
+
+Run 16 - GAUSSIAN_MAX
+Fitness: 0.313452
+Duration: 0:00:13.185695
+Community Size: 7
+Best Solution: RPL14, RPL27A, RPL19, CCT5, EDF1, AHCY, MRPS10
+--------------------------------------------------------------------------------
+
+Run 17 - GAUSSIAN_MAX
+Fitness: 0.394516
+Duration: 0:00:12.735466
+Community Size: 7
+Best Solution: SKP1, PSMD10, KEAP1, NFKBIA, IRAK1, CUL2, FBXO30
+--------------------------------------------------------------------------------
+
+Run 18 - GAUSSIAN_MAX
+Fitness: 0.354034
+Duration: 0:00:12.897397
+Community Size: 4
+Best Solution: POLR2C, NME4, AK9, PKLR
+--------------------------------------------------------------------------------
+
+Run 19 - GAUSSIAN_MAX
+Fitness: 0.151957
+Duration: 0:00:13.668382
+Community Size: 25
+Best Solution: POLR2B, ADCY3, AR, LYN, IL4, PAF1, AIF1, PPP2R5B, BCL3, PPP1CA, ERBB2, PPP1CB, POLR2C, ODC1, PPP3R1, GUCY1A2, YWHAQ, NME3, ADCY9, PTPN18, POLR2F, TGFB1, SLC11A1, MAPK1, RASL11A
+--------------------------------------------------------------------------------
+
+Run 20 - GAUSSIAN_MAX
+Fitness: 0.282916
+Duration: 0:00:12.737490
+Community Size: 6
+Best Solution: NME3, RIPK2, MAPK12, RAC2, ADCY10, MAPK1
+--------------------------------------------------------------------------------
+
+
+GAUSSIAN_MAX SUMMARY:
+  Completed runs: 20/20
+  Best fitness:   0.449794 (Run 13)
+  Worst fitness:  0.151957 (Run 19)
+  Average fitness: 0.332631
+  Best solution size: 7 genes
+  Best solution: TXNL4A, DDX39A, SRSF9, UPF3B, SSRP1, POLR2I, SRSF6
+
+================================================================================
+
+
+=== OVERALL EXPERIMENT SUMMARY ===
+Total runs completed: 60/60
+Completion time: 2025-06-20 00:09:54
+Results saved to: GA_MultiRun_Results_20250619_235615.txt
+
+BEST OVERALL SOLUTION:
+  Metric: ADAMIC_MAX
+  Run: 15
+  Fitness: 0.599081
+  Community Size: 9 genes
+  Duration: 0:00:12.788432
+  Solution: DDX39A, PAPOLA, SF3B6, SNRPA, SNRPB2, SRSF6, SRSF2, SNRPC, HNRNPR
+
+================================================================================
+EXPERIMENT COMPLETED

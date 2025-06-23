@@ -1,0 +1,15 @@
+GENETIC ALGORITHM MULTI-RUN EXPERIMENT RESULTS
+================================================================================
+Start Time: 2025-06-19 23:54:48
+Total Experiments: 60 (20 runs × 3 metrics)
+================================================================================
+
+
+==================== JACCARD_MAX RESULTS ====================
+
+Run 1 - JACCARD_MAX - ERROR: name 'log_result_to_file' is not defined
+--------------------------------------------------------------------------------
+
+Run 2 - JACCARD_MAX - ERROR: name 'log_result_to_file' is not defined
+--------------------------------------------------------------------------------
+

@@ -1,121 +1,139 @@
-2025-06-10 18:16:05,235 - generating initial population
-2025-06-10 18:16:05,238 - evaluating initial population
-2025-06-10 18:17:25,470 - population size is now 3
-2025-06-10 18:17:25,470 - archiving initial population
-2025-06-10 18:17:25,470 - archive size is now 3
-2025-06-10 18:17:25,471 - population size is now 3
-2025-06-10 18:17:25,471 - observation using testObservers at generation 0 and evaluation 3
-2025-06-10 18:17:25,471 - ------ ----- ----- Generation num ----- ----- ----- 0
-2025-06-10 18:17:25,471 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
-2025-06-10 18:17:25,471 - ['PRHOXNB', 'FHIT', 'NME6', 'NFKB1', 'GMPR', 'CD79A', 'PARN', 'PPP3R1', 'PAPOLG', 'AKT3', 'EXOSC3', 'TP53', 'PIK3CA', 'RPS6KA3', 'PPP2R5E', 'CNOT10', 'CDC20', 'POLE4', 'PRKAR2A', 'DFFA', 'TNFRSF10D', 'ATM', 'ADCY8', 'PKM2', 'LYN', 'IL1A', 'MAPK1', 'CD79B', 'PIK3R1', 'GO:0012354', 'POLR2J2', 'NME4'] : 0.17289996600434301
-2025-06-10 18:17:25,471 - ['CDC26', 'TRAF2', 'PTPN6', 'FBXO5', 'CALM2', 'CHP2', 'CR2', 'PDE5A', 'ENTPD2'] : 0.16288516952957216
-2025-06-10 18:17:25,640 - termination test using generation_termination at generation 0 and evaluation 3
-2025-06-10 18:17:25,640 - selection using tournament_selection at generation 0 and evaluation 3
-2025-06-10 18:17:25,640 - selected 2 candidates
-2025-06-10 18:17:25,640 - variation using n_point_crossover at generation 0 and evaluation 3
-2025-06-10 18:17:25,640 - variation using mutate_gene at generation 0 and evaluation 3
-2025-06-10 18:17:25,699 - Finished with child num after mutate ['EHBP1', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
-2025-06-10 18:17:25,759 - Finished with child num after mutate ['ATP10D', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
-2025-06-10 18:17:25,759 - created 2 offspring
-2025-06-10 18:17:25,759 - evaluation using fitness at generation 0 and evaluation 3
-2025-06-10 18:19:15,379 - replacement using steady_state_replacement at generation 0 and evaluation 5
-2025-06-10 18:19:15,379 - population size is now 3
-2025-06-10 18:19:15,379 - migration using default_migration at generation 0 and evaluation 5
-2025-06-10 18:19:15,379 - population size is now 3
-2025-06-10 18:19:15,379 - archival using population_archiver at generation 0 and evaluation 5
-2025-06-10 18:19:15,379 - archive size is now 3
-2025-06-10 18:19:15,379 - population size is now 3
-2025-06-10 18:19:15,379 - observation using testObservers at generation 1 and evaluation 5
-2025-06-10 18:19:15,379 - ------ ----- ----- Generation num ----- ----- ----- 1
-2025-06-10 18:19:15,381 - ['EHBP1', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.1718937293935906
-2025-06-10 18:19:15,381 - ['ATP10D', 'PRHOXNB', 'CD79A', 'GO:0012354', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17212360915971936
-2025-06-10 18:19:15,381 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
-2025-06-10 18:19:15,382 - termination test using generation_termination at generation 1 and evaluation 5
-2025-06-10 18:19:15,382 - selection using tournament_selection at generation 1 and evaluation 5
-2025-06-10 18:19:15,382 - selected 2 candidates
-2025-06-10 18:19:15,382 - variation using n_point_crossover at generation 1 and evaluation 5
-2025-06-10 18:19:15,382 - variation using mutate_gene at generation 1 and evaluation 5
-2025-06-10 18:19:15,445 - Finished with child num after mutate ['ROCK1', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
-2025-06-10 18:19:15,503 - Finished with child num after mutate ['CACNA1I', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] 
-2025-06-10 18:19:15,503 - created 2 offspring
-2025-06-10 18:19:15,503 - evaluation using fitness at generation 1 and evaluation 5
-2025-06-10 18:19:37,162 - replacement using steady_state_replacement at generation 1 and evaluation 7
-2025-06-10 18:19:37,162 - population size is now 3
-2025-06-10 18:19:37,162 - migration using default_migration at generation 1 and evaluation 7
-2025-06-10 18:19:37,162 - population size is now 3
-2025-06-10 18:19:37,162 - archival using population_archiver at generation 1 and evaluation 7
-2025-06-10 18:19:37,162 - archive size is now 3
-2025-06-10 18:19:37,162 - population size is now 3
-2025-06-10 18:19:37,162 - observation using testObservers at generation 2 and evaluation 7
-2025-06-10 18:19:37,162 - ------ ----- ----- Generation num ----- ----- ----- 2
-2025-06-10 18:19:37,163 - ['ROCK1', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17267766718209848
-2025-06-10 18:19:37,163 - ['CACNA1I', 'PRHOXNB', 'CD79A', 'MAPK1', 'TP53', 'PRKAR2A', 'PPP3R1', 'AKT3', 'LYN', 'EXOSC3', 'ATP10D', 'PAPOLG', 'POLR2J2', 'NME4', 'CDC20', 'PIK3CA', 'ADCY8', 'CD79B', 'DFFA', 'RPS6KA3', 'NFKB1', 'TNFRSF10D', 'CNOT10', 'GMPR', 'PKM2', 'PARN', 'IL1A', 'FHIT', 'POLE4', 'PIK3R1', 'PPP2R5E', 'ATM'] : 0.17125730177655368
-2025-06-10 18:19:37,163 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
-2025-06-10 18:19:37,165 - termination test using generation_termination at generation 2 and evaluation 7
-2025-06-10 18:19:37,166 - selection using tournament_selection at generation 2 and evaluation 7
-2025-06-10 18:19:37,166 - selected 2 candidates
-2025-06-10 18:19:37,166 - variation using n_point_crossover at generation 2 and evaluation 7
-2025-06-10 18:19:37,166 - variation using mutate_gene at generation 2 and evaluation 7
-2025-06-10 18:19:37,224 - Finished with child num after mutate ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:37,311 - Finished with child num after mutate ['SKP1', 'BANF1', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:37,311 - created 2 offspring
-2025-06-10 18:19:37,311 - evaluation using fitness at generation 2 and evaluation 7
-2025-06-10 18:19:39,329 - replacement using steady_state_replacement at generation 2 and evaluation 9
-2025-06-10 18:19:39,329 - population size is now 3
-2025-06-10 18:19:39,329 - migration using default_migration at generation 2 and evaluation 9
-2025-06-10 18:19:39,329 - population size is now 3
-2025-06-10 18:19:39,329 - archival using population_archiver at generation 2 and evaluation 9
-2025-06-10 18:19:39,329 - archive size is now 3
-2025-06-10 18:19:39,329 - population size is now 3
-2025-06-10 18:19:39,329 - observation using testObservers at generation 3 and evaluation 9
-2025-06-10 18:19:39,329 - ------ ----- ----- Generation num ----- ----- ----- 3
-2025-06-10 18:19:39,330 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
-2025-06-10 18:19:39,330 - ['SKP1', 'BANF1', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.17699647551583392
-2025-06-10 18:19:39,330 - ['POLR2D', 'POLR2B', 'SKP1', 'POLE4', 'NT5C2', 'EDC3', 'PDE6H', 'CPEB1', 'ANAPC4', 'TNFRSF10A', 'ANAPC11', 'PTPN6', 'PPP2CA'] : 0.17420359189976795
-2025-06-10 18:19:39,331 - termination test using generation_termination at generation 3 and evaluation 9
-2025-06-10 18:19:39,331 - selection using tournament_selection at generation 3 and evaluation 9
-2025-06-10 18:19:39,331 - selected 2 candidates
-2025-06-10 18:19:39,331 - variation using n_point_crossover at generation 3 and evaluation 9
-2025-06-10 18:19:39,331 - variation using mutate_gene at generation 3 and evaluation 9
-2025-06-10 18:19:39,391 - Finished with child num after mutate ['SKP1', 'GLUD1', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:39,450 - Finished with child num after mutate ['SKP1', 'CHD7', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:39,450 - created 2 offspring
-2025-06-10 18:19:39,450 - evaluation using fitness at generation 3 and evaluation 9
-2025-06-10 18:19:41,295 - replacement using steady_state_replacement at generation 3 and evaluation 11
-2025-06-10 18:19:41,295 - population size is now 3
-2025-06-10 18:19:41,295 - migration using default_migration at generation 3 and evaluation 11
-2025-06-10 18:19:41,295 - population size is now 3
-2025-06-10 18:19:41,295 - archival using population_archiver at generation 3 and evaluation 11
-2025-06-10 18:19:41,295 - archive size is now 3
-2025-06-10 18:19:41,295 - population size is now 3
-2025-06-10 18:19:41,295 - observation using testObservers at generation 4 and evaluation 11
-2025-06-10 18:19:41,295 - ------ ----- ----- Generation num ----- ----- ----- 4
-2025-06-10 18:19:41,296 - ['SKP1', 'GLUD1', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.17531713056969295
-2025-06-10 18:19:41,296 - ['SKP1', 'CHD7', 'BANF1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1795330460636088
-2025-06-10 18:19:41,296 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
-2025-06-10 18:19:41,297 - termination test using generation_termination at generation 4 and evaluation 11
-2025-06-10 18:19:41,297 - selection using tournament_selection at generation 4 and evaluation 11
-2025-06-10 18:19:41,297 - selected 2 candidates
-2025-06-10 18:19:41,297 - variation using n_point_crossover at generation 4 and evaluation 11
-2025-06-10 18:19:41,297 - variation using mutate_gene at generation 4 and evaluation 11
-2025-06-10 18:19:41,364 - Finished with child num after mutate ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:41,422 - Finished with child num after mutate ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'] 
-2025-06-10 18:19:41,423 - created 2 offspring
-2025-06-10 18:19:41,423 - evaluation using fitness at generation 4 and evaluation 11
-2025-06-10 18:19:42,541 - replacement using steady_state_replacement at generation 4 and evaluation 13
-2025-06-10 18:19:42,541 - population size is now 3
-2025-06-10 18:19:42,541 - migration using default_migration at generation 4 and evaluation 13
-2025-06-10 18:19:42,541 - population size is now 3
-2025-06-10 18:19:42,541 - archival using population_archiver at generation 4 and evaluation 13
-2025-06-10 18:19:42,541 - archive size is now 3
-2025-06-10 18:19:42,541 - population size is now 3
-2025-06-10 18:19:42,541 - observation using testObservers at generation 5 and evaluation 13
-2025-06-10 18:19:42,542 - ------ ----- ----- Generation num ----- ----- ----- 5
-2025-06-10 18:19:42,542 - ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1857052532366953
-2025-06-10 18:19:42,542 - ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'] : 0.18158979056743038
-2025-06-10 18:19:42,542 - ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1833504035513176
-2025-06-10 18:19:42,544 - termination test using generation_termination at generation 5 and evaluation 13
-2025-06-10 18:19:42,544 - termination from generation_termination at generation 5 and evaluation 13
-2025-06-10 18:19:42,545 - Population final: 
-[<Individual: candidate = ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'], fitness = 0.1857052532366953, birthdate = 1749575982.5410216>, <Individual: candidate = ['SKP1', 'BANF1', 'ANAPC4', 'MGAM', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'CHD7', 'PTPN6', 'TNFRSF10A'], fitness = 0.18158979056743038, birthdate = 1749575982.5410216>, <Individual: candidate = ['SKP1', 'RELB', 'CPEB1', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'], fitness = 0.1833504035513176, birthdate = 1749575979.3292916>]
-2025-06-10 18:19:42,545 - Best Solution: ['SKP1', 'KPNA4', 'ANAPC4', 'POLR2D', 'POLR2B', 'ANAPC11', 'POLE4', 'EDC3', 'RELB', 'NT5C2', 'PDE6H', 'PTPN6', 'TNFRSF10A'] : 0.1857052532366953
+2025-06-19 23:39:29,777 - generating initial population
+2025-06-19 23:39:29,797 - evaluating initial population
+2025-06-19 23:39:29,810 - population size is now 30
+2025-06-19 23:39:29,810 - archiving initial population
+2025-06-19 23:39:29,810 - archive size is now 30
+2025-06-19 23:39:29,810 - population size is now 30
+2025-06-19 23:39:29,811 - observation using testObservers at generation 0 and evaluation 30
+2025-06-19 23:39:29,811 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-19 23:39:29,812 - ['CAMK2A', 'SOS2', 'YWHAQ', 'BCL10', 'LYN', 'PRPS2', 'PDE7A', 'PIK3R5', 'AK1', 'AIFM1', 'ADCY5', 'SMC3', 'NME6', 'PDE3A', 'PDE8A', 'C1D', 'POLR2D', 'LSM5', 'PRUNE', 'CPEB1'] : 0.006154166841738222
+2025-06-19 23:39:29,812 - ['DCP1B', 'CDC16', 'FAS', 'GUCY1A2', 'PPP1CA', 'CAMK2G', 'ZNRD1', 'TNFRSF10A', 'POLE4', 'ENTPD5', 'CASP6', 'PPP2R5C', 'TNFRSF10C', 'MOS', 'BIRC3', 'EDC3', 'AK5', 'PIK3CG', 'GMPS', 'POLR1A', 'PDE4B', 'RAC2', 'POLR3B', 'AR', 'NFKB1', 'ATIC', 'PPP3R2', 'SKP1', 'NME7', 'WDR61', 'PAPD7', 'POLR2L', 'TRAF2'] : 0.03664028791564208
+2025-06-19 23:39:29,812 - ['IRAK4', 'PIK3R2', 'DCPS', 'CD22', 'CALM1', 'PIK3CB', 'JUN', 'CCNE1', 'CHP', 'GUCY2F', 'ADCY1', 'SOS2', 'ADCY1', 'NFATC1', 'IGF1R', 'FHIT', 'NT5C3', 'FBXO5', 'LSM2', 'AURKA', 'GMPR', 'PRKAR2A', 'POLR3GL', 'PDE6C', 'CNOT10', 'PPP3CA', 'FAS', 'EXOG', 'PPP3R2', 'CHP2', 'PPP2CB', 'AK7', 'IFITM1', 'CNOT3'] : 0.035166510774966436
+2025-06-19 23:39:29,812 - ['NGF', 'REC8', 'AKT2', 'IL3RA', 'AMPD1', 'YWHAQ', 'PDE7B', 'DFFA', 'PLCZ1', 'NUDT2', 'ADCY4', 'PPP2CA', 'NFATC3', 'ADCY2', 'CNOT7', 'SKP1', 'PKM2', 'PDE7A', 'POLR2C', 'PPP1CA', 'PAPOLB', 'MAPK3', 'PPP1CC', 'ITPR1', 'IKBKG', 'FOS', 'AMPD3', 'SMC1A', 'CNOT4', 'DCP1B', 'NT5C', 'WDR61', 'NTRK1', 'NUDT5', 'ALLC', 'NME1', 'PPP3CC', 'AMPD2'] : 0.018562429868654383
+2025-06-19 23:39:29,812 - ['ENTPD6', 'NFATC3', 'GUK1', 'CNOT6L', 'PAPD7', 'DAPP1', 'IRAK2', 'PRKX', 'PAPSS2', 'IKBKB', 'LOC650621', 'ANAPC13', 'PPP2R5A', 'AMPD2', 'RELA', 'NUDT9', 'PRKAR2A', 'AKT1', 'PIK3CA', 'RQCD1', 'PRKACA', 'CHP2', 'POLR3H', 'LSM4', 'PLCZ1', 'DIS3', 'LOC651610', 'NFATC2', 'CANT1', 'BAD', 'SKIV2L', 'PPP3CB', 'POLR2J', 'TRAF2', 'YWHAB', 'CYCS', 'EXOSC3', 'INPP5D'] : 0.0014680247584621066
+2025-06-19 23:39:29,812 - ['NT5C2', 'MAP2K2', 'YWHAB', 'POLD1', 'PPP2R1A', 'SKP1', 'GO:0012354', 'PDE2A', 'POLR3GL', 'LYN', 'BCL10', 'POLE3', 'DCPS', 'POLR3F', 'LSM3', 'RPS6KA2', 'PDE6G', 'IMPDH1', 'TNFRSF10D', 'PPP1CA', 'PRKACA', 'EXOG', 'CALML5', 'CPEB1', 'ADSSL1', 'PPP2R5D', 'CNOT8', 'HRAS', 'PRKAR2B', 'ENO1', 'PRIM2', 'GUK1', 'NME5', 'POLD3', 'CALM3', 'SOS1', 'PRKAR1B', 'CASP7', 'PDE4B'] : 0.011866847358285054
+2025-06-19 23:39:29,813 - ['NT5C3', 'ANAPC4', 'RAF1', 'PDE6B', 'STAG3', 'PPP2R1A', '', 'ADCY2', 'PDE10A', 'CUL1', 'PTTG2', 'CNOT7', 'PRKAR2B', 'PIK3R2', 'RIPK1', 'HPRT1', 'ADCY9', 'POLR2J3', 'ADCY5', 'NRAS', 'FAS', 'CALML3', 'PDE6A', 'AKT1', 'EXOSC4', 'EXOSC3', 'CALM1', 'NFKBIE', 'POLR2G', 'CDC27', 'NFATC1', 'YWHAB', 'TNF', 'CDK1', 'PRPS1', 'RAC1', 'CAMK2A', 'XRN2', 'PPP3CA'] : 0.003381481608021165
+2025-06-19 23:39:29,813 - ['ADA', 'NUDT9', 'ANAPC2', 'CALM3', 'EDC4', 'RELA', 'PDE8A', 'PKMYT1', 'PRKX', 'BUB1', 'CDC26', 'NFAT5', 'ANAPC4', 'ENO3', 'CNOT3', 'ADCY2', 'PPP3CC', 'CAMK2A', 'POLR3G', 'POLR2K', 'ENTPD1', 'LILRB3', 'CHP2', 'FADD', 'CD72', 'PPP3CA', 'PLCG2', 'SMC3', 'GDA', 'INS', 'POLR2J3', 'LOC651610', 'LOC650621', 'MAP3K14', 'ALLC', 'RAC3', 'ZNRD1'] : 0.0026679474677168526
+2025-06-19 23:39:29,813 - ['GRB2', 'STAG3', 'TNFSF10', 'IKBKB', 'PDE4A', 'ATIC', 'GMPS', 'TRADD', 'POLR3H', 'PIK3CA', 'SKIV2L2', 'HRAS', 'IRAK1', 'ADCY4'] : 0.01738417138306226
+2025-06-19 23:39:29,813 - ['POLR2C', 'DCP1B', 'RAC2', 'NT5C2', 'IKBKB', 'ENTPD4', 'FBXO43', 'AK4', 'ATIC', 'MAPK1', 'SYK', 'GUCY1A3', 'POLR1B', 'EDC3', 'ADSSL1', 'RPS6KA1', 'YWHAG', 'TNFRSF10B'] : 0.04149904515453523
+2025-06-19 23:39:29,813 - ['ENTPD2', 'CASP7', 'TNF', 'GUCY1B3', 'PGR', 'POLR2K', 'POLR3G', 'PARN', 'LSM4', 'NME7', 'POLR2G', 'PDE1C', 'GMPR', 'CASP3', 'TNFSF10', 'LSM1', 'PPP3CA', 'YWHAH', 'ZCCHC7', 'ANAPC11', 'RAC2', 'IL3', 'PPAT', 'IL1RAP'] : 0.004176165534688761
+2025-06-19 23:39:29,813 - ['INS', 'POLD4', 'PPP3CB', 'GMPR', 'PRKAR2B', 'PPP2R5B', 'PAPOLB', 'POLR2K', 'ADCY7', 'NFAT5', 'GART', 'ALLC', 'APRT', 'SPDYC', 'AK2', 'ADCY8', 'ZCCHC7', 'GUCY1B3', 'PRUNE', 'POLR2J3', 'CALM2', 'PRKACB', 'C1DP2', 'LSM2', 'YWHAH', 'ENDOG', 'CNOT6', 'EXOSC7'] : 0.003314783352206656
+2025-06-19 23:39:29,813 - ['FAS', 'PGR', 'GUK1', 'NPR2', 'MAP3K14', 'AIFM1', 'CSF2RB', 'POLE2', 'CNOT3', 'BID', 'NT5C1B', 'PPP2R5A', 'ADCY4', 'SMC1B', 'CHP2', 'CDC26', 'SPDYC', 'INS', 'AKT2', 'BIRC3', 'RELA', 'YWHAE'] : 0.0033204091222469936
+2025-06-19 23:39:29,813 - ['PPP3CA', 'CAMK2G', 'NTRK1', 'INPP5D', 'POLR2A', 'CCNE1', 'ENDOD1', 'POLR2K', 'EXOG', 'PIK3R5', 'ITPR3', 'NT5E', 'PPP2R5A', 'EXOSC10', 'POLD4', 'PRHOXNB', 'PAPSS1', 'EXOSC7', 'NFKBIB', 'FBXO5', 'RQCD1', 'PDE6G'] : 0.004176812971417495
+2025-06-19 23:39:29,813 - ['PRKACB', 'PRKACG', 'NT5M', 'IRAK1', 'CAPN2', 'POLE2', 'DIS3', 'PRKX', 'POLR2I', 'PRKAR2A', 'FOS', 'DCP2', 'ENTPD1', 'GUCY2D', 'PRKACA', 'PLK1', 'NUDT2', 'CPEB1', 'TRAF2', 'GMPR', 'MAP3K14', 'POLR2A', 'PAPD7', 'SKIV2L2'] : 0.011482265383397122
+2025-06-19 23:39:29,813 - ['PPP3R2', 'IRAK1', 'BCL10', 'TNFRSF10B', 'TNFRSF1A', 'EXOSC1', 'PIK3CG', 'ALLC', 'RAF1', 'ENTPD1', 'RPS6KA1', 'JUN', 'PTTG1', 'PRPS2', 'PIK3AP1', 'IMPDH1', 'FAS', 'ADCY1', 'LOC650621', 'AKT3', 'BAD', 'PAICS', 'POLR1D', 'PDE4B', 'POLR2G', 'SLK', 'PDE3A', 'ENDOD1', 'NGF', 'POLR3G', 'RELA', 'RRM2B'] : 0.012898886384537692
+2025-06-19 23:39:29,813 - ['PAPSS2', 'FBXO5', 'AR', 'GUCY2D', 'C1D', 'ADA', 'AK5', 'PIK3R3', 'CUL1', 'NRAS', 'NAA38', 'RQCD1', 'SKIV2L', 'PLCG2', 'PARN', 'PRIM2', 'PPP3R2', 'CDK1', 'PRPS1', 'CHP', 'HRAS', 'RRM2B', 'EXOSC6', 'TNFRSF10D', 'EXOSC2', 'NFATC4', 'PIK3CB', 'PDE6C', 'ENO1', 'MAP3K14', 'PPP3CC', 'CASP8', 'CD19', 'RPS6KA6'] : 0.009517000496199761
+2025-06-19 23:39:29,814 - ['PRPS1L1', 'TNFRSF1A', 'CNOT7', 'RIPK1', 'IL1RAP', 'NAA38', 'RPS6KA1', 'NFATC3', 'IGF1R', 'ESPL1', 'POLD3', 'CCNB1', 'GUCY1A3', 'PRKAR1A', 'ENTPD1', 'PDE7B', 'PPP3R2', 'PPP3CC', 'NFKBIB'] : 0.016756149182989684
+2025-06-19 23:39:29,814 - ['CNOT8', 'EXOSC8', 'ENTPD4', 'CNOT2', 'REC8', 'ADCY8', 'IKBKG', 'MAPK12', 'PPP3CC', 'RELA', 'CD72', 'PPP3R2', 'PAPSS1', 'SKIV2L', 'TNFRSF10C', 'GUCY2D', 'EXOSC4', 'IL3RA'] : 0.03578811198307241
+2025-06-19 23:39:29,814 - ['PDE7A', 'EXOG', 'CALM1', 'PTPN6', 'PRKX', 'POLR2A', 'ADK', 'AMPD2', 'GO:0012354', 'EXOSC8', 'DCK', 'SOS1', 'IMPDH2', 'IKBKB', 'PIK3R1', 'EXOSC4', 'AMPD3', 'PDE1A', 'TRAF2', 'NT5C1A', 'SKIV2L2', 'IRAK4', 'SMC1B', 'RAC1', 'PAPOLG', 'NME4', 'PTTG1', 'IL1RAP'] : 0.014649399146194939
+2025-06-19 23:39:29,814 - ['RPS6KA1', 'POLR3B', 'ADCY9', 'CHP2', 'PPAT', 'CNOT4', 'ZNRD1', 'CNOT8', 'AKT3', 'CARD11', 'POLR1D', 'PRPS2', 'FCGR2B', 'PDE6G', 'IRAK1', 'MOS', 'CASP7', 'LSM5', 'MAD2L2', 'RASGRP3', 'PIK3CD', 'NT5C', 'POLE', 'ADCY6', 'HSPD1', 'CHP', 'AKT3', 'GMPR2', 'NFATC2', 'POLR2L', 'ITPR2', 'CALML6', 'CD79B', 'FASLG', 'CALM2', 'SMC3', 'PIK3CA'] : 0.00684162649252806
+2025-06-19 23:39:29,814 - ['SLK', 'PAPSS1', 'ENTPD2', 'PPP1CC', 'DFFA', 'CAMK2D', 'POLR2E', 'PDE6B', 'FBXO5', 'TNF', 'PDE9A', 'CALM3', 'POLD2', 'CDC25C'] : 0.013309459244603672
+2025-06-19 23:39:29,814 - ['PDE1B', 'ADCY8', 'POLD1', 'GDA', 'AMPD3', 'POLE3', 'PPP3CB', 'IGF1', 'AMPD2', 'ENPP1', 'BUB1', 'NRAS', 'ATM', 'CCNB2', 'POLD4', 'CCNE1', 'PARN', 'ANAPC10', 'FASLG', 'XRN1', 'PDE3A', 'NFKBIA', 'ADCY2'] : 0.02915524245274597
+2025-06-19 23:39:29,814 - ['POLR3C', 'NFKBIA', 'GUCY1B3', 'PAPSS2', 'MAP2K1', 'IKBKG', 'AIFM1', 'TTC37', 'CALM2'] : 0.03868023076463083
+2025-06-19 23:39:29,814 - ['PDE4B', 'RPS6KA6', 'TRADD', 'GMPR2', 'NGF', 'HPRT1', 'HRAS', 'CASP8', 'BCL2', 'PDE1B', 'NT5C1A', 'PDE6B', 'NFKB1', 'PIK3R3', 'FCGR2B', 'NRAS', 'PIK3CB', 'CASP7', 'CALML5', 'CDC26', 'CYCS'] : 0.03869266512228894
+2025-06-19 23:39:29,814 - ['PNPT1', 'TP53', 'CHP2', 'C1DP3', 'CD79A', 'PDE5A', 'PIK3CD', 'LILRB3', 'AK4', 'IL3RA', 'TNF'] : 0.04250200941053012
+2025-06-19 23:39:29,814 - ['IRAK3', 'ADSSL1', 'ADCY4', 'XRN2', 'CDK1', 'IL3', 'ADCY5', 'PDE4C', 'PAPOLA', 'MAP2K1', 'CAMK2A', 'POLD3', 'PIK3R5', 'BCL2L1', 'BLNK'] : 0.008461813790677139
+2025-06-19 23:39:29,814 - ['TP53', 'DIS3', 'IL1R1', 'NFKBIA', 'ITPR3', 'ITPA', 'PAPOLA', 'PDE11A', 'ADCY6', 'PPP2CA', 'POLR3A', 'ENPP1', 'ADCY2', 'PRHOXNB', 'LSM7', 'POLR3K', 'POLR2J', 'ADCY9', 'POLR1D', 'ADCY7', 'PIK3CB', 'SGOL1', 'MAD2L1', 'TNFRSF10B', 'C1DP3', 'PDE6C', 'POLR3D', 'NPR2', 'PPP3CC', 'IKBKB', 'PPP3R1', 'GUCY2D'] : 0.018769009255785077
+2025-06-19 23:39:29,814 - ['TNFRSF1A', 'ITPR3', 'POLR3H', 'CD72', 'PKM2', 'FBXW11', 'PIK3CD', 'FADD', 'POLR1E', 'POLR1A', 'EXOG', 'PPP3R2', 'GUCY1A3'] : 0.00906604570985097
+2025-06-19 23:39:29,815 - ['ADCY6', 'PPP3R1', 'PRKACG', 'PPP2CA', 'NPR1', 'PPP3R2', 'DIS3', 'SPDYA', 'CD19', 'TNFRSF10D', 'IRAK1', 'MAP2K1', 'PRKX', 'NUDT5', 'CASP10', 'APAF1', 'AMPD1'] : 0.01814884925823335
+2025-06-19 23:39:30,039 - termination test using generation_termination at generation 0 and evaluation 30
+2025-06-19 23:39:30,039 - selection using tournament_selection at generation 0 and evaluation 30
+2025-06-19 23:39:30,040 - selected 2 candidates
+2025-06-19 23:39:30,040 - variation using n_point_crossover at generation 0 and evaluation 30
+2025-06-19 23:39:30,040 - variation using mutate_gene at generation 0 and evaluation 30
+2025-06-19 23:39:30,108 - Finished with child num after mutate ['CLEC4D', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] 
+2025-06-19 23:39:30,177 - Finished with child num after mutate ['CLPS', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] 
+2025-06-19 23:39:30,177 - created 2 offspring
+2025-06-19 23:39:30,177 - evaluation using fitness at generation 0 and evaluation 30
+2025-06-19 23:39:30,178 - replacement using steady_state_replacement at generation 0 and evaluation 32
+2025-06-19 23:39:30,178 - population size is now 30
+2025-06-19 23:39:30,178 - migration using default_migration at generation 0 and evaluation 32
+2025-06-19 23:39:30,178 - population size is now 30
+2025-06-19 23:39:30,178 - archival using population_archiver at generation 0 and evaluation 32
+2025-06-19 23:39:30,178 - archive size is now 30
+2025-06-19 23:39:30,178 - population size is now 30
+2025-06-19 23:39:30,178 - observation using testObservers at generation 1 and evaluation 32
+2025-06-19 23:39:30,179 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-19 23:39:30,180 - ['CLEC4D', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.048415727801927086
+2025-06-19 23:39:30,181 - ['CLPS', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.0469487019075473
+2025-06-19 23:39:30,181 - ['INS', 'POLD4', 'PPP3CB', 'GMPR', 'PRKAR2B', 'PPP2R5B', 'PAPOLB', 'POLR2K', 'ADCY7', 'NFAT5', 'GART', 'ALLC', 'APRT', 'SPDYC', 'AK2', 'ADCY8', 'ZCCHC7', 'GUCY1B3', 'PRUNE', 'POLR2J3', 'CALM2', 'PRKACB', 'C1DP2', 'LSM2', 'YWHAH', 'ENDOG', 'CNOT6', 'EXOSC7'] : 0.003314783352206656
+2025-06-19 23:39:30,181 - ['FAS', 'PGR', 'GUK1', 'NPR2', 'MAP3K14', 'AIFM1', 'CSF2RB', 'POLE2', 'CNOT3', 'BID', 'NT5C1B', 'PPP2R5A', 'ADCY4', 'SMC1B', 'CHP2', 'CDC26', 'SPDYC', 'INS', 'AKT2', 'BIRC3', 'RELA', 'YWHAE'] : 0.0033204091222469936
+2025-06-19 23:39:30,181 - ['NT5C3', 'ANAPC4', 'RAF1', 'PDE6B', 'STAG3', 'PPP2R1A', '', 'ADCY2', 'PDE10A', 'CUL1', 'PTTG2', 'CNOT7', 'PRKAR2B', 'PIK3R2', 'RIPK1', 'HPRT1', 'ADCY9', 'POLR2J3', 'ADCY5', 'NRAS', 'FAS', 'CALML3', 'PDE6A', 'AKT1', 'EXOSC4', 'EXOSC3', 'CALM1', 'NFKBIE', 'POLR2G', 'CDC27', 'NFATC1', 'YWHAB', 'TNF', 'CDK1', 'PRPS1', 'RAC1', 'CAMK2A', 'XRN2', 'PPP3CA'] : 0.003381481608021165
+2025-06-19 23:39:30,181 - ['ENTPD2', 'CASP7', 'TNF', 'GUCY1B3', 'PGR', 'POLR2K', 'POLR3G', 'PARN', 'LSM4', 'NME7', 'POLR2G', 'PDE1C', 'GMPR', 'CASP3', 'TNFSF10', 'LSM1', 'PPP3CA', 'YWHAH', 'ZCCHC7', 'ANAPC11', 'RAC2', 'IL3', 'PPAT', 'IL1RAP'] : 0.004176165534688761
+2025-06-19 23:39:30,181 - ['PPP3CA', 'CAMK2G', 'NTRK1', 'INPP5D', 'POLR2A', 'CCNE1', 'ENDOD1', 'POLR2K', 'EXOG', 'PIK3R5', 'ITPR3', 'NT5E', 'PPP2R5A', 'EXOSC10', 'POLD4', 'PRHOXNB', 'PAPSS1', 'EXOSC7', 'NFKBIB', 'FBXO5', 'RQCD1', 'PDE6G'] : 0.004176812971417495
+2025-06-19 23:39:30,181 - ['CAMK2A', 'SOS2', 'YWHAQ', 'BCL10', 'LYN', 'PRPS2', 'PDE7A', 'PIK3R5', 'AK1', 'AIFM1', 'ADCY5', 'SMC3', 'NME6', 'PDE3A', 'PDE8A', 'C1D', 'POLR2D', 'LSM5', 'PRUNE', 'CPEB1'] : 0.006154166841738222
+2025-06-19 23:39:30,181 - ['RPS6KA1', 'POLR3B', 'ADCY9', 'CHP2', 'PPAT', 'CNOT4', 'ZNRD1', 'CNOT8', 'AKT3', 'CARD11', 'POLR1D', 'PRPS2', 'FCGR2B', 'PDE6G', 'IRAK1', 'MOS', 'CASP7', 'LSM5', 'MAD2L2', 'RASGRP3', 'PIK3CD', 'NT5C', 'POLE', 'ADCY6', 'HSPD1', 'CHP', 'AKT3', 'GMPR2', 'NFATC2', 'POLR2L', 'ITPR2', 'CALML6', 'CD79B', 'FASLG', 'CALM2', 'SMC3', 'PIK3CA'] : 0.00684162649252806
+2025-06-19 23:39:30,181 - ['IRAK3', 'ADSSL1', 'ADCY4', 'XRN2', 'CDK1', 'IL3', 'ADCY5', 'PDE4C', 'PAPOLA', 'MAP2K1', 'CAMK2A', 'POLD3', 'PIK3R5', 'BCL2L1', 'BLNK'] : 0.008461813790677139
+2025-06-19 23:39:30,181 - ['TNFRSF1A', 'ITPR3', 'POLR3H', 'CD72', 'PKM2', 'FBXW11', 'PIK3CD', 'FADD', 'POLR1E', 'POLR1A', 'EXOG', 'PPP3R2', 'GUCY1A3'] : 0.00906604570985097
+2025-06-19 23:39:30,182 - ['PAPSS2', 'FBXO5', 'AR', 'GUCY2D', 'C1D', 'ADA', 'AK5', 'PIK3R3', 'CUL1', 'NRAS', 'NAA38', 'RQCD1', 'SKIV2L', 'PLCG2', 'PARN', 'PRIM2', 'PPP3R2', 'CDK1', 'PRPS1', 'CHP', 'HRAS', 'RRM2B', 'EXOSC6', 'TNFRSF10D', 'EXOSC2', 'NFATC4', 'PIK3CB', 'PDE6C', 'ENO1', 'MAP3K14', 'PPP3CC', 'CASP8', 'CD19', 'RPS6KA6'] : 0.009517000496199761
+2025-06-19 23:39:30,182 - ['PRKACB', 'PRKACG', 'NT5M', 'IRAK1', 'CAPN2', 'POLE2', 'DIS3', 'PRKX', 'POLR2I', 'PRKAR2A', 'FOS', 'DCP2', 'ENTPD1', 'GUCY2D', 'PRKACA', 'PLK1', 'NUDT2', 'CPEB1', 'TRAF2', 'GMPR', 'MAP3K14', 'POLR2A', 'PAPD7', 'SKIV2L2'] : 0.011482265383397122
+2025-06-19 23:39:30,182 - ['NT5C2', 'MAP2K2', 'YWHAB', 'POLD1', 'PPP2R1A', 'SKP1', 'GO:0012354', 'PDE2A', 'POLR3GL', 'LYN', 'BCL10', 'POLE3', 'DCPS', 'POLR3F', 'LSM3', 'RPS6KA2', 'PDE6G', 'IMPDH1', 'TNFRSF10D', 'PPP1CA', 'PRKACA', 'EXOG', 'CALML5', 'CPEB1', 'ADSSL1', 'PPP2R5D', 'CNOT8', 'HRAS', 'PRKAR2B', 'ENO1', 'PRIM2', 'GUK1', 'NME5', 'POLD3', 'CALM3', 'SOS1', 'PRKAR1B', 'CASP7', 'PDE4B'] : 0.011866847358285054
+2025-06-19 23:39:30,182 - ['PPP3R2', 'IRAK1', 'BCL10', 'TNFRSF10B', 'TNFRSF1A', 'EXOSC1', 'PIK3CG', 'ALLC', 'RAF1', 'ENTPD1', 'RPS6KA1', 'JUN', 'PTTG1', 'PRPS2', 'PIK3AP1', 'IMPDH1', 'FAS', 'ADCY1', 'LOC650621', 'AKT3', 'BAD', 'PAICS', 'POLR1D', 'PDE4B', 'POLR2G', 'SLK', 'PDE3A', 'ENDOD1', 'NGF', 'POLR3G', 'RELA', 'RRM2B'] : 0.012898886384537692
+2025-06-19 23:39:30,182 - ['SLK', 'PAPSS1', 'ENTPD2', 'PPP1CC', 'DFFA', 'CAMK2D', 'POLR2E', 'PDE6B', 'FBXO5', 'TNF', 'PDE9A', 'CALM3', 'POLD2', 'CDC25C'] : 0.013309459244603672
+2025-06-19 23:39:30,182 - ['PDE7A', 'EXOG', 'CALM1', 'PTPN6', 'PRKX', 'POLR2A', 'ADK', 'AMPD2', 'GO:0012354', 'EXOSC8', 'DCK', 'SOS1', 'IMPDH2', 'IKBKB', 'PIK3R1', 'EXOSC4', 'AMPD3', 'PDE1A', 'TRAF2', 'NT5C1A', 'SKIV2L2', 'IRAK4', 'SMC1B', 'RAC1', 'PAPOLG', 'NME4', 'PTTG1', 'IL1RAP'] : 0.014649399146194939
+2025-06-19 23:39:30,182 - ['PRPS1L1', 'TNFRSF1A', 'CNOT7', 'RIPK1', 'IL1RAP', 'NAA38', 'RPS6KA1', 'NFATC3', 'IGF1R', 'ESPL1', 'POLD3', 'CCNB1', 'GUCY1A3', 'PRKAR1A', 'ENTPD1', 'PDE7B', 'PPP3R2', 'PPP3CC', 'NFKBIB'] : 0.016756149182989684
+2025-06-19 23:39:30,182 - ['GRB2', 'STAG3', 'TNFSF10', 'IKBKB', 'PDE4A', 'ATIC', 'GMPS', 'TRADD', 'POLR3H', 'PIK3CA', 'SKIV2L2', 'HRAS', 'IRAK1', 'ADCY4'] : 0.01738417138306226
+2025-06-19 23:39:30,182 - ['ADCY6', 'PPP3R1', 'PRKACG', 'PPP2CA', 'NPR1', 'PPP3R2', 'DIS3', 'SPDYA', 'CD19', 'TNFRSF10D', 'IRAK1', 'MAP2K1', 'PRKX', 'NUDT5', 'CASP10', 'APAF1', 'AMPD1'] : 0.01814884925823335
+2025-06-19 23:39:30,182 - ['NGF', 'REC8', 'AKT2', 'IL3RA', 'AMPD1', 'YWHAQ', 'PDE7B', 'DFFA', 'PLCZ1', 'NUDT2', 'ADCY4', 'PPP2CA', 'NFATC3', 'ADCY2', 'CNOT7', 'SKP1', 'PKM2', 'PDE7A', 'POLR2C', 'PPP1CA', 'PAPOLB', 'MAPK3', 'PPP1CC', 'ITPR1', 'IKBKG', 'FOS', 'AMPD3', 'SMC1A', 'CNOT4', 'DCP1B', 'NT5C', 'WDR61', 'NTRK1', 'NUDT5', 'ALLC', 'NME1', 'PPP3CC', 'AMPD2'] : 0.018562429868654383
+2025-06-19 23:39:30,182 - ['TP53', 'DIS3', 'IL1R1', 'NFKBIA', 'ITPR3', 'ITPA', 'PAPOLA', 'PDE11A', 'ADCY6', 'PPP2CA', 'POLR3A', 'ENPP1', 'ADCY2', 'PRHOXNB', 'LSM7', 'POLR3K', 'POLR2J', 'ADCY9', 'POLR1D', 'ADCY7', 'PIK3CB', 'SGOL1', 'MAD2L1', 'TNFRSF10B', 'C1DP3', 'PDE6C', 'POLR3D', 'NPR2', 'PPP3CC', 'IKBKB', 'PPP3R1', 'GUCY2D'] : 0.018769009255785077
+2025-06-19 23:39:30,182 - ['PDE1B', 'ADCY8', 'POLD1', 'GDA', 'AMPD3', 'POLE3', 'PPP3CB', 'IGF1', 'AMPD2', 'ENPP1', 'BUB1', 'NRAS', 'ATM', 'CCNB2', 'POLD4', 'CCNE1', 'PARN', 'ANAPC10', 'FASLG', 'XRN1', 'PDE3A', 'NFKBIA', 'ADCY2'] : 0.02915524245274597
+2025-06-19 23:39:30,182 - ['IRAK4', 'PIK3R2', 'DCPS', 'CD22', 'CALM1', 'PIK3CB', 'JUN', 'CCNE1', 'CHP', 'GUCY2F', 'ADCY1', 'SOS2', 'ADCY1', 'NFATC1', 'IGF1R', 'FHIT', 'NT5C3', 'FBXO5', 'LSM2', 'AURKA', 'GMPR', 'PRKAR2A', 'POLR3GL', 'PDE6C', 'CNOT10', 'PPP3CA', 'FAS', 'EXOG', 'PPP3R2', 'CHP2', 'PPP2CB', 'AK7', 'IFITM1', 'CNOT3'] : 0.035166510774966436
+2025-06-19 23:39:30,182 - ['CNOT8', 'EXOSC8', 'ENTPD4', 'CNOT2', 'REC8', 'ADCY8', 'IKBKG', 'MAPK12', 'PPP3CC', 'RELA', 'CD72', 'PPP3R2', 'PAPSS1', 'SKIV2L', 'TNFRSF10C', 'GUCY2D', 'EXOSC4', 'IL3RA'] : 0.03578811198307241
+2025-06-19 23:39:30,183 - ['DCP1B', 'CDC16', 'FAS', 'GUCY1A2', 'PPP1CA', 'CAMK2G', 'ZNRD1', 'TNFRSF10A', 'POLE4', 'ENTPD5', 'CASP6', 'PPP2R5C', 'TNFRSF10C', 'MOS', 'BIRC3', 'EDC3', 'AK5', 'PIK3CG', 'GMPS', 'POLR1A', 'PDE4B', 'RAC2', 'POLR3B', 'AR', 'NFKB1', 'ATIC', 'PPP3R2', 'SKP1', 'NME7', 'WDR61', 'PAPD7', 'POLR2L', 'TRAF2'] : 0.03664028791564208
+2025-06-19 23:39:30,183 - ['POLR3C', 'NFKBIA', 'GUCY1B3', 'PAPSS2', 'MAP2K1', 'IKBKG', 'AIFM1', 'TTC37', 'CALM2'] : 0.03868023076463083
+2025-06-19 23:39:30,183 - ['PDE4B', 'RPS6KA6', 'TRADD', 'GMPR2', 'NGF', 'HPRT1', 'HRAS', 'CASP8', 'BCL2', 'PDE1B', 'NT5C1A', 'PDE6B', 'NFKB1', 'PIK3R3', 'FCGR2B', 'NRAS', 'PIK3CB', 'CASP7', 'CALML5', 'CDC26', 'CYCS'] : 0.03869266512228894
+2025-06-19 23:39:30,183 - ['POLR2C', 'DCP1B', 'RAC2', 'NT5C2', 'IKBKB', 'ENTPD4', 'FBXO43', 'AK4', 'ATIC', 'MAPK1', 'SYK', 'GUCY1A3', 'POLR1B', 'EDC3', 'ADSSL1', 'RPS6KA1', 'YWHAG', 'TNFRSF10B'] : 0.04149904515453523
+2025-06-19 23:39:30,183 - ['PNPT1', 'TP53', 'CHP2', 'C1DP3', 'CD79A', 'PDE5A', 'PIK3CD', 'LILRB3', 'AK4', 'IL3RA', 'TNF'] : 0.04250200941053012
+2025-06-19 23:39:30,184 - termination test using generation_termination at generation 1 and evaluation 32
+2025-06-19 23:39:30,185 - selection using tournament_selection at generation 1 and evaluation 32
+2025-06-19 23:39:30,185 - selected 2 candidates
+2025-06-19 23:39:30,185 - variation using n_point_crossover at generation 1 and evaluation 32
+2025-06-19 23:39:30,185 - variation using mutate_gene at generation 1 and evaluation 32
+2025-06-19 23:39:30,255 - Finished with child num after mutate ['FCGR3B', 'CLPS', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] 
+2025-06-19 23:39:30,381 - Finished with child num after mutate ['CLEC4D', 'HP', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] 
+2025-06-19 23:39:30,382 - created 2 offspring
+2025-06-19 23:39:30,382 - evaluation using fitness at generation 1 and evaluation 32
+2025-06-19 23:39:30,383 - replacement using steady_state_replacement at generation 1 and evaluation 34
+2025-06-19 23:39:30,383 - population size is now 30
+2025-06-19 23:39:30,383 - migration using default_migration at generation 1 and evaluation 34
+2025-06-19 23:39:30,383 - population size is now 30
+2025-06-19 23:39:30,383 - archival using population_archiver at generation 1 and evaluation 34
+2025-06-19 23:39:30,383 - archive size is now 30
+2025-06-19 23:39:30,384 - population size is now 30
+2025-06-19 23:39:30,384 - observation using testObservers at generation 2 and evaluation 34
+2025-06-19 23:39:30,384 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-19 23:39:30,385 - ['FCGR3B', 'CLPS', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.05330980403894163
+2025-06-19 23:39:30,385 - ['CLEC4D', 'HP', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.05296341529360808
+2025-06-19 23:39:30,385 - ['NT5C3', 'ANAPC4', 'RAF1', 'PDE6B', 'STAG3', 'PPP2R1A', '', 'ADCY2', 'PDE10A', 'CUL1', 'PTTG2', 'CNOT7', 'PRKAR2B', 'PIK3R2', 'RIPK1', 'HPRT1', 'ADCY9', 'POLR2J3', 'ADCY5', 'NRAS', 'FAS', 'CALML3', 'PDE6A', 'AKT1', 'EXOSC4', 'EXOSC3', 'CALM1', 'NFKBIE', 'POLR2G', 'CDC27', 'NFATC1', 'YWHAB', 'TNF', 'CDK1', 'PRPS1', 'RAC1', 'CAMK2A', 'XRN2', 'PPP3CA'] : 0.003381481608021165
+2025-06-19 23:39:30,385 - ['ENTPD2', 'CASP7', 'TNF', 'GUCY1B3', 'PGR', 'POLR2K', 'POLR3G', 'PARN', 'LSM4', 'NME7', 'POLR2G', 'PDE1C', 'GMPR', 'CASP3', 'TNFSF10', 'LSM1', 'PPP3CA', 'YWHAH', 'ZCCHC7', 'ANAPC11', 'RAC2', 'IL3', 'PPAT', 'IL1RAP'] : 0.004176165534688761
+2025-06-19 23:39:30,385 - ['PPP3CA', 'CAMK2G', 'NTRK1', 'INPP5D', 'POLR2A', 'CCNE1', 'ENDOD1', 'POLR2K', 'EXOG', 'PIK3R5', 'ITPR3', 'NT5E', 'PPP2R5A', 'EXOSC10', 'POLD4', 'PRHOXNB', 'PAPSS1', 'EXOSC7', 'NFKBIB', 'FBXO5', 'RQCD1', 'PDE6G'] : 0.004176812971417495
+2025-06-19 23:39:30,385 - ['CAMK2A', 'SOS2', 'YWHAQ', 'BCL10', 'LYN', 'PRPS2', 'PDE7A', 'PIK3R5', 'AK1', 'AIFM1', 'ADCY5', 'SMC3', 'NME6', 'PDE3A', 'PDE8A', 'C1D', 'POLR2D', 'LSM5', 'PRUNE', 'CPEB1'] : 0.006154166841738222
+2025-06-19 23:39:30,385 - ['RPS6KA1', 'POLR3B', 'ADCY9', 'CHP2', 'PPAT', 'CNOT4', 'ZNRD1', 'CNOT8', 'AKT3', 'CARD11', 'POLR1D', 'PRPS2', 'FCGR2B', 'PDE6G', 'IRAK1', 'MOS', 'CASP7', 'LSM5', 'MAD2L2', 'RASGRP3', 'PIK3CD', 'NT5C', 'POLE', 'ADCY6', 'HSPD1', 'CHP', 'AKT3', 'GMPR2', 'NFATC2', 'POLR2L', 'ITPR2', 'CALML6', 'CD79B', 'FASLG', 'CALM2', 'SMC3', 'PIK3CA'] : 0.00684162649252806
+2025-06-19 23:39:30,386 - ['IRAK3', 'ADSSL1', 'ADCY4', 'XRN2', 'CDK1', 'IL3', 'ADCY5', 'PDE4C', 'PAPOLA', 'MAP2K1', 'CAMK2A', 'POLD3', 'PIK3R5', 'BCL2L1', 'BLNK'] : 0.008461813790677139
+2025-06-19 23:39:30,386 - ['TNFRSF1A', 'ITPR3', 'POLR3H', 'CD72', 'PKM2', 'FBXW11', 'PIK3CD', 'FADD', 'POLR1E', 'POLR1A', 'EXOG', 'PPP3R2', 'GUCY1A3'] : 0.00906604570985097
+2025-06-19 23:39:30,386 - ['PAPSS2', 'FBXO5', 'AR', 'GUCY2D', 'C1D', 'ADA', 'AK5', 'PIK3R3', 'CUL1', 'NRAS', 'NAA38', 'RQCD1', 'SKIV2L', 'PLCG2', 'PARN', 'PRIM2', 'PPP3R2', 'CDK1', 'PRPS1', 'CHP', 'HRAS', 'RRM2B', 'EXOSC6', 'TNFRSF10D', 'EXOSC2', 'NFATC4', 'PIK3CB', 'PDE6C', 'ENO1', 'MAP3K14', 'PPP3CC', 'CASP8', 'CD19', 'RPS6KA6'] : 0.009517000496199761
+2025-06-19 23:39:30,386 - ['PRKACB', 'PRKACG', 'NT5M', 'IRAK1', 'CAPN2', 'POLE2', 'DIS3', 'PRKX', 'POLR2I', 'PRKAR2A', 'FOS', 'DCP2', 'ENTPD1', 'GUCY2D', 'PRKACA', 'PLK1', 'NUDT2', 'CPEB1', 'TRAF2', 'GMPR', 'MAP3K14', 'POLR2A', 'PAPD7', 'SKIV2L2'] : 0.011482265383397122
+2025-06-19 23:39:30,386 - ['NT5C2', 'MAP2K2', 'YWHAB', 'POLD1', 'PPP2R1A', 'SKP1', 'GO:0012354', 'PDE2A', 'POLR3GL', 'LYN', 'BCL10', 'POLE3', 'DCPS', 'POLR3F', 'LSM3', 'RPS6KA2', 'PDE6G', 'IMPDH1', 'TNFRSF10D', 'PPP1CA', 'PRKACA', 'EXOG', 'CALML5', 'CPEB1', 'ADSSL1', 'PPP2R5D', 'CNOT8', 'HRAS', 'PRKAR2B', 'ENO1', 'PRIM2', 'GUK1', 'NME5', 'POLD3', 'CALM3', 'SOS1', 'PRKAR1B', 'CASP7', 'PDE4B'] : 0.011866847358285054
+2025-06-19 23:39:30,386 - ['PPP3R2', 'IRAK1', 'BCL10', 'TNFRSF10B', 'TNFRSF1A', 'EXOSC1', 'PIK3CG', 'ALLC', 'RAF1', 'ENTPD1', 'RPS6KA1', 'JUN', 'PTTG1', 'PRPS2', 'PIK3AP1', 'IMPDH1', 'FAS', 'ADCY1', 'LOC650621', 'AKT3', 'BAD', 'PAICS', 'POLR1D', 'PDE4B', 'POLR2G', 'SLK', 'PDE3A', 'ENDOD1', 'NGF', 'POLR3G', 'RELA', 'RRM2B'] : 0.012898886384537692
+2025-06-19 23:39:30,386 - ['SLK', 'PAPSS1', 'ENTPD2', 'PPP1CC', 'DFFA', 'CAMK2D', 'POLR2E', 'PDE6B', 'FBXO5', 'TNF', 'PDE9A', 'CALM3', 'POLD2', 'CDC25C'] : 0.013309459244603672
+2025-06-19 23:39:30,386 - ['PDE7A', 'EXOG', 'CALM1', 'PTPN6', 'PRKX', 'POLR2A', 'ADK', 'AMPD2', 'GO:0012354', 'EXOSC8', 'DCK', 'SOS1', 'IMPDH2', 'IKBKB', 'PIK3R1', 'EXOSC4', 'AMPD3', 'PDE1A', 'TRAF2', 'NT5C1A', 'SKIV2L2', 'IRAK4', 'SMC1B', 'RAC1', 'PAPOLG', 'NME4', 'PTTG1', 'IL1RAP'] : 0.014649399146194939
+2025-06-19 23:39:30,386 - ['PRPS1L1', 'TNFRSF1A', 'CNOT7', 'RIPK1', 'IL1RAP', 'NAA38', 'RPS6KA1', 'NFATC3', 'IGF1R', 'ESPL1', 'POLD3', 'CCNB1', 'GUCY1A3', 'PRKAR1A', 'ENTPD1', 'PDE7B', 'PPP3R2', 'PPP3CC', 'NFKBIB'] : 0.016756149182989684
+2025-06-19 23:39:30,386 - ['GRB2', 'STAG3', 'TNFSF10', 'IKBKB', 'PDE4A', 'ATIC', 'GMPS', 'TRADD', 'POLR3H', 'PIK3CA', 'SKIV2L2', 'HRAS', 'IRAK1', 'ADCY4'] : 0.01738417138306226
+2025-06-19 23:39:30,387 - ['ADCY6', 'PPP3R1', 'PRKACG', 'PPP2CA', 'NPR1', 'PPP3R2', 'DIS3', 'SPDYA', 'CD19', 'TNFRSF10D', 'IRAK1', 'MAP2K1', 'PRKX', 'NUDT5', 'CASP10', 'APAF1', 'AMPD1'] : 0.01814884925823335
+2025-06-19 23:39:30,387 - ['NGF', 'REC8', 'AKT2', 'IL3RA', 'AMPD1', 'YWHAQ', 'PDE7B', 'DFFA', 'PLCZ1', 'NUDT2', 'ADCY4', 'PPP2CA', 'NFATC3', 'ADCY2', 'CNOT7', 'SKP1', 'PKM2', 'PDE7A', 'POLR2C', 'PPP1CA', 'PAPOLB', 'MAPK3', 'PPP1CC', 'ITPR1', 'IKBKG', 'FOS', 'AMPD3', 'SMC1A', 'CNOT4', 'DCP1B', 'NT5C', 'WDR61', 'NTRK1', 'NUDT5', 'ALLC', 'NME1', 'PPP3CC', 'AMPD2'] : 0.018562429868654383
+2025-06-19 23:39:30,387 - ['TP53', 'DIS3', 'IL1R1', 'NFKBIA', 'ITPR3', 'ITPA', 'PAPOLA', 'PDE11A', 'ADCY6', 'PPP2CA', 'POLR3A', 'ENPP1', 'ADCY2', 'PRHOXNB', 'LSM7', 'POLR3K', 'POLR2J', 'ADCY9', 'POLR1D', 'ADCY7', 'PIK3CB', 'SGOL1', 'MAD2L1', 'TNFRSF10B', 'C1DP3', 'PDE6C', 'POLR3D', 'NPR2', 'PPP3CC', 'IKBKB', 'PPP3R1', 'GUCY2D'] : 0.018769009255785077
+2025-06-19 23:39:30,387 - ['PDE1B', 'ADCY8', 'POLD1', 'GDA', 'AMPD3', 'POLE3', 'PPP3CB', 'IGF1', 'AMPD2', 'ENPP1', 'BUB1', 'NRAS', 'ATM', 'CCNB2', 'POLD4', 'CCNE1', 'PARN', 'ANAPC10', 'FASLG', 'XRN1', 'PDE3A', 'NFKBIA', 'ADCY2'] : 0.02915524245274597
+2025-06-19 23:39:30,387 - ['IRAK4', 'PIK3R2', 'DCPS', 'CD22', 'CALM1', 'PIK3CB', 'JUN', 'CCNE1', 'CHP', 'GUCY2F', 'ADCY1', 'SOS2', 'ADCY1', 'NFATC1', 'IGF1R', 'FHIT', 'NT5C3', 'FBXO5', 'LSM2', 'AURKA', 'GMPR', 'PRKAR2A', 'POLR3GL', 'PDE6C', 'CNOT10', 'PPP3CA', 'FAS', 'EXOG', 'PPP3R2', 'CHP2', 'PPP2CB', 'AK7', 'IFITM1', 'CNOT3'] : 0.035166510774966436
+2025-06-19 23:39:30,387 - ['CNOT8', 'EXOSC8', 'ENTPD4', 'CNOT2', 'REC8', 'ADCY8', 'IKBKG', 'MAPK12', 'PPP3CC', 'RELA', 'CD72', 'PPP3R2', 'PAPSS1', 'SKIV2L', 'TNFRSF10C', 'GUCY2D', 'EXOSC4', 'IL3RA'] : 0.03578811198307241
+2025-06-19 23:39:30,387 - ['DCP1B', 'CDC16', 'FAS', 'GUCY1A2', 'PPP1CA', 'CAMK2G', 'ZNRD1', 'TNFRSF10A', 'POLE4', 'ENTPD5', 'CASP6', 'PPP2R5C', 'TNFRSF10C', 'MOS', 'BIRC3', 'EDC3', 'AK5', 'PIK3CG', 'GMPS', 'POLR1A', 'PDE4B', 'RAC2', 'POLR3B', 'AR', 'NFKB1', 'ATIC', 'PPP3R2', 'SKP1', 'NME7', 'WDR61', 'PAPD7', 'POLR2L', 'TRAF2'] : 0.03664028791564208
+2025-06-19 23:39:30,387 - ['POLR3C', 'NFKBIA', 'GUCY1B3', 'PAPSS2', 'MAP2K1', 'IKBKG', 'AIFM1', 'TTC37', 'CALM2'] : 0.03868023076463083
+2025-06-19 23:39:30,387 - ['PDE4B', 'RPS6KA6', 'TRADD', 'GMPR2', 'NGF', 'HPRT1', 'HRAS', 'CASP8', 'BCL2', 'PDE1B', 'NT5C1A', 'PDE6B', 'NFKB1', 'PIK3R3', 'FCGR2B', 'NRAS', 'PIK3CB', 'CASP7', 'CALML5', 'CDC26', 'CYCS'] : 0.03869266512228894
+2025-06-19 23:39:30,387 - ['POLR2C', 'DCP1B', 'RAC2', 'NT5C2', 'IKBKB', 'ENTPD4', 'FBXO43', 'AK4', 'ATIC', 'MAPK1', 'SYK', 'GUCY1A3', 'POLR1B', 'EDC3', 'ADSSL1', 'RPS6KA1', 'YWHAG', 'TNFRSF10B'] : 0.04149904515453523
+2025-06-19 23:39:30,387 - ['PNPT1', 'TP53', 'CHP2', 'C1DP3', 'CD79A', 'PDE5A', 'PIK3CD', 'LILRB3', 'AK4', 'IL3RA', 'TNF'] : 0.04250200941053012
+2025-06-19 23:39:30,388 - ['CLPS', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.0469487019075473
+2025-06-19 23:39:30,388 - ['CLEC4D', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.048415727801927086
+2025-06-19 23:39:30,390 - termination test using generation_termination at generation 2 and evaluation 34
+2025-06-19 23:39:30,390 - termination from generation_termination at generation 2 and evaluation 34
+2025-06-19 23:39:30,399 - Population final: 
+[<Individual: candidate = ['FCGR3B', 'CLPS', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'], fitness = 0.05330980403894163, birthdate = 1750372770.3832128>, <Individual: candidate = ['CLEC4D', 'HP', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'], fitness = 0.05296341529360808, birthdate = 1750372770.3832128>, <Individual: candidate = ['NT5C3', 'ANAPC4', 'RAF1', 'PDE6B', 'STAG3', 'PPP2R1A', '', 'ADCY2', 'PDE10A', 'CUL1', 'PTTG2', 'CNOT7', 'PRKAR2B', 'PIK3R2', 'RIPK1', 'HPRT1', 'ADCY9', 'POLR2J3', 'ADCY5', 'NRAS', 'FAS', 'CALML3', 'PDE6A', 'AKT1', 'EXOSC4', 'EXOSC3', 'CALM1', 'NFKBIE', 'POLR2G', 'CDC27', 'NFATC1', 'YWHAB', 'TNF', 'CDK1', 'PRPS1', 'RAC1', 'CAMK2A', 'XRN2', 'PPP3CA'], fitness = 0.003381481608021165, birthdate = 1750372769.8105347>, <Individual: candidate = ['ENTPD2', 'CASP7', 'TNF', 'GUCY1B3', 'PGR', 'POLR2K', 'POLR3G', 'PARN', 'LSM4', 'NME7', 'POLR2G', 'PDE1C', 'GMPR', 'CASP3', 'TNFSF10', 'LSM1', 'PPP3CA', 'YWHAH', 'ZCCHC7', 'ANAPC11', 'RAC2', 'IL3', 'PPAT', 'IL1RAP'], fitness = 0.004176165534688761, birthdate = 1750372769.8105347>, <Individual: candidate = ['PPP3CA', 'CAMK2G', 'NTRK1', 'INPP5D', 'POLR2A', 'CCNE1', 'ENDOD1', 'POLR2K', 'EXOG', 'PIK3R5', 'ITPR3', 'NT5E', 'PPP2R5A', 'EXOSC10', 'POLD4', 'PRHOXNB', 'PAPSS1', 'EXOSC7', 'NFKBIB', 'FBXO5', 'RQCD1', 'PDE6G'], fitness = 0.004176812971417495, birthdate = 1750372769.8105347>, <Individual: candidate = ['CAMK2A', 'SOS2', 'YWHAQ', 'BCL10', 'LYN', 'PRPS2', 'PDE7A', 'PIK3R5', 'AK1', 'AIFM1', 'ADCY5', 'SMC3', 'NME6', 'PDE3A', 'PDE8A', 'C1D', 'POLR2D', 'LSM5', 'PRUNE', 'CPEB1'], fitness = 0.006154166841738222, birthdate = 1750372769.8105347>, <Individual: candidate = ['RPS6KA1', 'POLR3B', 'ADCY9', 'CHP2', 'PPAT', 'CNOT4', 'ZNRD1', 'CNOT8', 'AKT3', 'CARD11', 'POLR1D', 'PRPS2', 'FCGR2B', 'PDE6G', 'IRAK1', 'MOS', 'CASP7', 'LSM5', 'MAD2L2', 'RASGRP3', 'PIK3CD', 'NT5C', 'POLE', 'ADCY6', 'HSPD1', 'CHP', 'AKT3', 'GMPR2', 'NFATC2', 'POLR2L', 'ITPR2', 'CALML6', 'CD79B', 'FASLG', 'CALM2', 'SMC3', 'PIK3CA'], fitness = 0.00684162649252806, birthdate = 1750372769.8105347>, <Individual: candidate = ['IRAK3', 'ADSSL1', 'ADCY4', 'XRN2', 'CDK1', 'IL3', 'ADCY5', 'PDE4C', 'PAPOLA', 'MAP2K1', 'CAMK2A', 'POLD3', 'PIK3R5', 'BCL2L1', 'BLNK'], fitness = 0.008461813790677139, birthdate = 1750372769.8105347>, <Individual: candidate = ['TNFRSF1A', 'ITPR3', 'POLR3H', 'CD72', 'PKM2', 'FBXW11', 'PIK3CD', 'FADD', 'POLR1E', 'POLR1A', 'EXOG', 'PPP3R2', 'GUCY1A3'], fitness = 0.00906604570985097, birthdate = 1750372769.8105347>, <Individual: candidate = ['PAPSS2', 'FBXO5', 'AR', 'GUCY2D', 'C1D', 'ADA', 'AK5', 'PIK3R3', 'CUL1', 'NRAS', 'NAA38', 'RQCD1', 'SKIV2L', 'PLCG2', 'PARN', 'PRIM2', 'PPP3R2', 'CDK1', 'PRPS1', 'CHP', 'HRAS', 'RRM2B', 'EXOSC6', 'TNFRSF10D', 'EXOSC2', 'NFATC4', 'PIK3CB', 'PDE6C', 'ENO1', 'MAP3K14', 'PPP3CC', 'CASP8', 'CD19', 'RPS6KA6'], fitness = 0.009517000496199761, birthdate = 1750372769.8105347>, <Individual: candidate = ['PRKACB', 'PRKACG', 'NT5M', 'IRAK1', 'CAPN2', 'POLE2', 'DIS3', 'PRKX', 'POLR2I', 'PRKAR2A', 'FOS', 'DCP2', 'ENTPD1', 'GUCY2D', 'PRKACA', 'PLK1', 'NUDT2', 'CPEB1', 'TRAF2', 'GMPR', 'MAP3K14', 'POLR2A', 'PAPD7', 'SKIV2L2'], fitness = 0.011482265383397122, birthdate = 1750372769.8105347>, <Individual: candidate = ['NT5C2', 'MAP2K2', 'YWHAB', 'POLD1', 'PPP2R1A', 'SKP1', 'GO:0012354', 'PDE2A', 'POLR3GL', 'LYN', 'BCL10', 'POLE3', 'DCPS', 'POLR3F', 'LSM3', 'RPS6KA2', 'PDE6G', 'IMPDH1', 'TNFRSF10D', 'PPP1CA', 'PRKACA', 'EXOG', 'CALML5', 'CPEB1', 'ADSSL1', 'PPP2R5D', 'CNOT8', 'HRAS', 'PRKAR2B', 'ENO1', 'PRIM2', 'GUK1', 'NME5', 'POLD3', 'CALM3', 'SOS1', 'PRKAR1B', 'CASP7', 'PDE4B'], fitness = 0.011866847358285054, birthdate = 1750372769.8105347>, <Individual: candidate = ['PPP3R2', 'IRAK1', 'BCL10', 'TNFRSF10B', 'TNFRSF1A', 'EXOSC1', 'PIK3CG', 'ALLC', 'RAF1', 'ENTPD1', 'RPS6KA1', 'JUN', 'PTTG1', 'PRPS2', 'PIK3AP1', 'IMPDH1', 'FAS', 'ADCY1', 'LOC650621', 'AKT3', 'BAD', 'PAICS', 'POLR1D', 'PDE4B', 'POLR2G', 'SLK', 'PDE3A', 'ENDOD1', 'NGF', 'POLR3G', 'RELA', 'RRM2B'], fitness = 0.012898886384537692, birthdate = 1750372769.8105347>, <Individual: candidate = ['SLK', 'PAPSS1', 'ENTPD2', 'PPP1CC', 'DFFA', 'CAMK2D', 'POLR2E', 'PDE6B', 'FBXO5', 'TNF', 'PDE9A', 'CALM3', 'POLD2', 'CDC25C'], fitness = 0.013309459244603672, birthdate = 1750372769.8105347>, <Individual: candidate = ['PDE7A', 'EXOG', 'CALM1', 'PTPN6', 'PRKX', 'POLR2A', 'ADK', 'AMPD2', 'GO:0012354', 'EXOSC8', 'DCK', 'SOS1', 'IMPDH2', 'IKBKB', 'PIK3R1', 'EXOSC4', 'AMPD3', 'PDE1A', 'TRAF2', 'NT5C1A', 'SKIV2L2', 'IRAK4', 'SMC1B', 'RAC1', 'PAPOLG', 'NME4', 'PTTG1', 'IL1RAP'], fitness = 0.014649399146194939, birthdate = 1750372769.8105347>, <Individual: candidate = ['PRPS1L1', 'TNFRSF1A', 'CNOT7', 'RIPK1', 'IL1RAP', 'NAA38', 'RPS6KA1', 'NFATC3', 'IGF1R', 'ESPL1', 'POLD3', 'CCNB1', 'GUCY1A3', 'PRKAR1A', 'ENTPD1', 'PDE7B', 'PPP3R2', 'PPP3CC', 'NFKBIB'], fitness = 0.016756149182989684, birthdate = 1750372769.8105347>, <Individual: candidate = ['GRB2', 'STAG3', 'TNFSF10', 'IKBKB', 'PDE4A', 'ATIC', 'GMPS', 'TRADD', 'POLR3H', 'PIK3CA', 'SKIV2L2', 'HRAS', 'IRAK1', 'ADCY4'], fitness = 0.01738417138306226, birthdate = 1750372769.8105347>, <Individual: candidate = ['ADCY6', 'PPP3R1', 'PRKACG', 'PPP2CA', 'NPR1', 'PPP3R2', 'DIS3', 'SPDYA', 'CD19', 'TNFRSF10D', 'IRAK1', 'MAP2K1', 'PRKX', 'NUDT5', 'CASP10', 'APAF1', 'AMPD1'], fitness = 0.01814884925823335, birthdate = 1750372769.8105347>, <Individual: candidate = ['NGF', 'REC8', 'AKT2', 'IL3RA', 'AMPD1', 'YWHAQ', 'PDE7B', 'DFFA', 'PLCZ1', 'NUDT2', 'ADCY4', 'PPP2CA', 'NFATC3', 'ADCY2', 'CNOT7', 'SKP1', 'PKM2', 'PDE7A', 'POLR2C', 'PPP1CA', 'PAPOLB', 'MAPK3', 'PPP1CC', 'ITPR1', 'IKBKG', 'FOS', 'AMPD3', 'SMC1A', 'CNOT4', 'DCP1B', 'NT5C', 'WDR61', 'NTRK1', 'NUDT5', 'ALLC', 'NME1', 'PPP3CC', 'AMPD2'], fitness = 0.018562429868654383, birthdate = 1750372769.8105347>, <Individual: candidate = ['TP53', 'DIS3', 'IL1R1', 'NFKBIA', 'ITPR3', 'ITPA', 'PAPOLA', 'PDE11A', 'ADCY6', 'PPP2CA', 'POLR3A', 'ENPP1', 'ADCY2', 'PRHOXNB', 'LSM7', 'POLR3K', 'POLR2J', 'ADCY9', 'POLR1D', 'ADCY7', 'PIK3CB', 'SGOL1', 'MAD2L1', 'TNFRSF10B', 'C1DP3', 'PDE6C', 'POLR3D', 'NPR2', 'PPP3CC', 'IKBKB', 'PPP3R1', 'GUCY2D'], fitness = 0.018769009255785077, birthdate = 1750372769.8105347>, <Individual: candidate = ['PDE1B', 'ADCY8', 'POLD1', 'GDA', 'AMPD3', 'POLE3', 'PPP3CB', 'IGF1', 'AMPD2', 'ENPP1', 'BUB1', 'NRAS', 'ATM', 'CCNB2', 'POLD4', 'CCNE1', 'PARN', 'ANAPC10', 'FASLG', 'XRN1', 'PDE3A', 'NFKBIA', 'ADCY2'], fitness = 0.02915524245274597, birthdate = 1750372769.8105347>, <Individual: candidate = ['IRAK4', 'PIK3R2', 'DCPS', 'CD22', 'CALM1', 'PIK3CB', 'JUN', 'CCNE1', 'CHP', 'GUCY2F', 'ADCY1', 'SOS2', 'ADCY1', 'NFATC1', 'IGF1R', 'FHIT', 'NT5C3', 'FBXO5', 'LSM2', 'AURKA', 'GMPR', 'PRKAR2A', 'POLR3GL', 'PDE6C', 'CNOT10', 'PPP3CA', 'FAS', 'EXOG', 'PPP3R2', 'CHP2', 'PPP2CB', 'AK7', 'IFITM1', 'CNOT3'], fitness = 0.035166510774966436, birthdate = 1750372769.8105347>, <Individual: candidate = ['CNOT8', 'EXOSC8', 'ENTPD4', 'CNOT2', 'REC8', 'ADCY8', 'IKBKG', 'MAPK12', 'PPP3CC', 'RELA', 'CD72', 'PPP3R2', 'PAPSS1', 'SKIV2L', 'TNFRSF10C', 'GUCY2D', 'EXOSC4', 'IL3RA'], fitness = 0.03578811198307241, birthdate = 1750372769.8105347>, <Individual: candidate = ['DCP1B', 'CDC16', 'FAS', 'GUCY1A2', 'PPP1CA', 'CAMK2G', 'ZNRD1', 'TNFRSF10A', 'POLE4', 'ENTPD5', 'CASP6', 'PPP2R5C', 'TNFRSF10C', 'MOS', 'BIRC3', 'EDC3', 'AK5', 'PIK3CG', 'GMPS', 'POLR1A', 'PDE4B', 'RAC2', 'POLR3B', 'AR', 'NFKB1', 'ATIC', 'PPP3R2', 'SKP1', 'NME7', 'WDR61', 'PAPD7', 'POLR2L', 'TRAF2'], fitness = 0.03664028791564208, birthdate = 1750372769.8105347>, <Individual: candidate = ['POLR3C', 'NFKBIA', 'GUCY1B3', 'PAPSS2', 'MAP2K1', 'IKBKG', 'AIFM1', 'TTC37', 'CALM2'], fitness = 0.03868023076463083, birthdate = 1750372769.8105347>, <Individual: candidate = ['PDE4B', 'RPS6KA6', 'TRADD', 'GMPR2', 'NGF', 'HPRT1', 'HRAS', 'CASP8', 'BCL2', 'PDE1B', 'NT5C1A', 'PDE6B', 'NFKB1', 'PIK3R3', 'FCGR2B', 'NRAS', 'PIK3CB', 'CASP7', 'CALML5', 'CDC26', 'CYCS'], fitness = 0.03869266512228894, birthdate = 1750372769.8105347>, <Individual: candidate = ['POLR2C', 'DCP1B', 'RAC2', 'NT5C2', 'IKBKB', 'ENTPD4', 'FBXO43', 'AK4', 'ATIC', 'MAPK1', 'SYK', 'GUCY1A3', 'POLR1B', 'EDC3', 'ADSSL1', 'RPS6KA1', 'YWHAG', 'TNFRSF10B'], fitness = 0.04149904515453523, birthdate = 1750372769.8105347>, <Individual: candidate = ['PNPT1', 'TP53', 'CHP2', 'C1DP3', 'CD79A', 'PDE5A', 'PIK3CD', 'LILRB3', 'AK4', 'IL3RA', 'TNF'], fitness = 0.04250200941053012, birthdate = 1750372769.8105347>, <Individual: candidate = ['CLPS', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'], fitness = 0.0469487019075473, birthdate = 1750372770.1782248>, <Individual: candidate = ['CLEC4D', 'AK4', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'], fitness = 0.048415727801927086, birthdate = 1750372770.1782248>]
+2025-06-19 23:39:30,399 - Best Solution: ['FCGR3B', 'CLPS', 'LILRB3', 'TP53', 'PDE5A', 'IL3RA', 'CD79A', 'CHP2', 'PIK3CD', 'TNF', 'C1DP3'] : 0.05330980403894163

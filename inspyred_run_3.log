@@ -1,0 +1,302 @@
+2025-06-20 00:30:14,629 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:30:14,687 - Finished with child num after mutate ['YWHAE', 'ENO1', 'ACTR6', 'ENPP1', 'ANAPC10', 'BLNK', 'NFKBIB'] 
+2025-06-20 00:30:14,748 - Finished with child num after mutate ['PRKACG', 'ADK', 'NFKB1', 'GAPDH', 'NT5C', 'MAD2L1'] 
+2025-06-20 00:30:14,749 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:30:14,803 - Finished with child num after mutate ['PRKACG', 'ADK', 'NFKB1', 'NT5C', 'MMP19', 'GAPDH'] 
+2025-06-20 00:30:14,856 - Finished with child num after mutate ['YWHAE', 'ENO1', 'PLCG1', 'ANAPC10', 'ACTR6', 'MAD2L1', 'NFKBIB'] 
+2025-06-20 00:30:14,857 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:30:14,913 - Finished with child num after mutate ['DHH', 'ADK', 'NT5C', 'MMP19', 'GAPDH', 'PLCG1'] 
+2025-06-20 00:30:14,967 - Finished with child num after mutate ['YWHAE', 'ENO1', 'NFKB1', 'ANAPC10', 'ACTR6', 'DUX4L5', 'NFKBIB'] 
+2025-06-20 00:30:14,968 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:30:15,023 - Finished with child num after mutate ['PRKACG', 'ADK', 'NFKB1', 'MAD2L1', 'GAPDH', 'SF3A2'] 
+2025-06-20 00:30:15,079 - Finished with child num after mutate ['UCK1', 'ADK', 'NFKB1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:15,079 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:30:15,133 - Finished with child num after mutate ['PRKACG', 'A2M', 'ADK', 'NFKB1', 'GAPDH', 'MAD2L1'] 
+2025-06-20 00:30:15,188 - Finished with child num after mutate ['ADK', 'NT5C', 'DHH', 'GAPDH', 'ROS1', 'PLCG1'] 
+2025-06-20 00:30:15,188 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:30:15,243 - Finished with child num after mutate ['ADK', 'PMPCB', 'UCK1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:15,297 - Finished with child num after mutate ['PRKACG', 'ADK', 'NFKB1', 'NT5C', 'GAPDH', 'TMEM132D'] 
+2025-06-20 00:30:15,297 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:30:15,346 - Finished with child num after mutate ['PRKACG', 'ADK', 'NFKB1', 'NT5C', 'AASDH'] 
+2025-06-20 00:30:15,400 - Finished with child num after mutate ['NFKB1', 'FIG4', 'ADK', 'GAPDH'] 
+2025-06-20 00:30:15,400 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:30:15,455 - Finished with child num after mutate ['ADK', 'ATAD2', 'UCK1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:15,508 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PMPCB'] 
+2025-06-20 00:30:15,508 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:30:15,562 - Finished with child num after mutate ['ADK', 'TBX6', 'UCK1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:15,616 - Finished with child num after mutate ['ADK', 'MSN', 'UCK1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:15,616 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:30:15,670 - Finished with child num after mutate ['NKX2-3', 'ADK', 'GAPDH', 'PMPCB'] 
+2025-06-20 00:30:15,724 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH'] 
+2025-06-20 00:30:15,724 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:30:15,783 - Finished with child num after mutate ['EFCAB2', 'ADK', 'GAPDH', 'PMPCB'] 
+2025-06-20 00:30:15,837 - Finished with child num after mutate ['NFKB1', 'PPIF', 'FGF7', 'GAPDH'] 
+2025-06-20 00:30:15,838 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:30:15,891 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'KLK13'] 
+2025-06-20 00:30:15,946 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'NKX2-5'] 
+2025-06-20 00:30:15,946 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:30:16,002 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NKX2-5', 'TIMM44', 'TPT1'] 
+2025-06-20 00:30:16,056 - Finished with child num after mutate ['DMTN', 'MSN', 'ADK', 'GAPDH'] 
+2025-06-20 00:30:16,056 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:30:16,111 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'HRAS'] 
+2025-06-20 00:30:16,168 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'PDE5A'] 
+2025-06-20 00:30:16,168 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:30:16,222 - Finished with child num after mutate ['ADK', 'DHH', 'UCK1', 'NT5C', 'GAPDH'] 
+2025-06-20 00:30:16,275 - Finished with child num after mutate ['ADK', 'UCK1', 'NT5C', 'VMP1', 'GAPDH'] 
+2025-06-20 00:30:16,275 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:30:16,325 - Finished with child num after mutate ['UMPS', 'ADK', 'NFKB1', 'UCK1', 'NT5C'] 
+2025-06-20 00:30:16,378 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'CACNG2'] 
+2025-06-20 00:30:16,378 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:30:16,432 - Finished with child num after mutate ['ADK', 'UCK1', 'NT5C', 'ELOVL2', 'GAPDH'] 
+2025-06-20 00:30:16,485 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'SYT13'] 
+2025-06-20 00:30:16,485 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:30:16,539 - Finished with child num after mutate ['ADK', 'PMPCB', 'NFKB1', 'FGF14', 'GAPDH'] 
+2025-06-20 00:30:16,593 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PDXP', 'GAPDH'] 
+2025-06-20 00:30:16,593 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:30:16,646 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NKX2-5', 'CTU1', 'GAPDH'] 
+2025-06-20 00:30:16,699 - Finished with child num after mutate ['HRAS', 'NFKB1', 'PPIF', 'FOXK1', 'GAPDH'] 
+2025-06-20 00:30:16,699 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:30:16,753 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'FABP6'] 
+2025-06-20 00:30:16,806 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'HNRNPA2B1'] 
+2025-06-20 00:30:16,807 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:30:16,861 - Finished with child num after mutate ['HRAS', 'NFKB1', 'PPIF', 'HLA-A', 'GAPDH'] 
+2025-06-20 00:30:16,914 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'RANGAP1'] 
+2025-06-20 00:30:16,914 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:30:16,969 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GGT2', 'TPT1', 'GAPDH'] 
+2025-06-20 00:30:17,023 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'SGTB', 'GAPDH'] 
+2025-06-20 00:30:17,024 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:30:17,078 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'VPS51', 'GAPDH'] 
+2025-06-20 00:30:17,132 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'PSIP1'] 
+2025-06-20 00:30:17,132 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:30:17,187 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GGT2', 'PRDM10', 'GAPDH'] 
+2025-06-20 00:30:17,240 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'SIK1', 'GAPDH'] 
+2025-06-20 00:30:17,241 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:30:17,294 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'CD2', 'GAPDH'] 
+2025-06-20 00:30:17,348 - Finished with child num after mutate ['NFKB1', 'PPIF', 'SDHC', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:17,348 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:30:17,400 - Finished with child num after mutate ['NFKB1', 'PPIF', 'CATSPER3', 'TPT1', 'GAPDH'] 
+2025-06-20 00:30:17,455 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'ZSCAN4', 'GAPDH'] 
+2025-06-20 00:30:17,455 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:30:17,509 - Finished with child num after mutate ['NARS2', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:17,562 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'THBS3'] 
+2025-06-20 00:30:17,562 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:30:17,617 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'PPIE', 'GAPDH'] 
+2025-06-20 00:30:17,671 - Finished with child num after mutate ['NFKB1', 'PPIF', 'OCM', 'TPT1', 'GAPDH'] 
+2025-06-20 00:30:17,671 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:30:17,726 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'GAPDH', 'PRDM10', 'PTBP2'] 
+2025-06-20 00:30:17,782 - Finished with child num after mutate ['NFKB1', 'PPIF', 'CLIC1', 'GGT2', 'GAPDH'] 
+2025-06-20 00:30:17,782 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:30:17,837 - Finished with child num after mutate ['HRAS', 'NFKB1', 'PPIF', 'HNRNPA2B1', 'GAPDH', 'FGA'] 
+2025-06-20 00:30:17,892 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NCAN', 'TPT1', 'GAPDH'] 
+2025-06-20 00:30:17,892 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:30:17,947 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NDUFA5', 'GGT2', 'GAPDH'] 
+2025-06-20 00:30:18,002 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'GAPDH', 'PRDM10', 'GUCA1A'] 
+2025-06-20 00:30:18,002 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:30:18,057 - Finished with child num after mutate ['NFKB1', 'PPIF', 'MT1B', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:18,111 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PFKFB3', 'HNRNPA2B1', 'GAPDH'] 
+2025-06-20 00:30:18,112 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:30:18,167 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'QTRT1', 'GAPDH'] 
+2025-06-20 00:30:18,225 - Finished with child num after mutate ['LY6E', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:18,225 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:30:18,323 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'PPP1R9B', 'GAPDH'] 
+2025-06-20 00:30:18,424 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'RHOT2', 'GAPDH'] 
+2025-06-20 00:30:18,424 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:30:18,518 - Finished with child num after mutate ['HRAS', 'NFKB1', 'PPIF', 'POLR2G', 'GAPDH'] 
+2025-06-20 00:30:18,611 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PTK2B', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:18,611 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:30:18,674 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GGT2', 'AQP7', 'GAPDH'] 
+2025-06-20 00:30:18,728 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'MYLIP'] 
+2025-06-20 00:30:18,728 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:30:18,787 - Finished with child num after mutate ['AKR1C1', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:18,841 - Finished with child num after mutate ['NFKBIB', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:18,841 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:30:18,894 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'HNRNPH1'] 
+2025-06-20 00:30:18,949 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'ARG2', 'GAPDH'] 
+2025-06-20 00:30:18,949 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:30:19,035 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'AP2M1', 'GAPDH'] 
+2025-06-20 00:30:19,126 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'DAPK1'] 
+2025-06-20 00:30:19,127 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:30:19,194 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'CD80'] 
+2025-06-20 00:30:19,271 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'MYO9A', 'PRDM10', 'NFKBIB'] 
+2025-06-20 00:30:19,272 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:30:19,339 - Finished with child num after mutate ['NFKB1', 'PPIF', 'KIF3A', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:19,393 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TPT1', 'GAPDH', 'MAFB'] 
+2025-06-20 00:30:19,393 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:30:19,445 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'TFAP2D'] 
+2025-06-20 00:30:19,499 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PRDM10', 'YWHAE'] 
+2025-06-20 00:30:19,499 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:30:19,553 - Finished with child num after mutate ['NFKB1', 'GGT2', 'PRDM10', 'GAPDH', 'IFIT5'] 
+2025-06-20 00:30:19,607 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'EGLN1'] 
+2025-06-20 00:30:19,607 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:30:19,662 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'KCNK3', 'PRDM10', 'NFKBIB'] 
+2025-06-20 00:30:19,716 - Finished with child num after mutate ['NFKB1', 'PPIF', 'HNRNPA2B1', 'FOXE1', 'GAPDH'] 
+2025-06-20 00:30:19,716 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:30:19,785 - Finished with child num after mutate ['NFKB1', 'PPIF', 'MRPL2', 'HNRNPA2B1', 'GAPDH'] 
+2025-06-20 00:30:19,882 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'EDA', 'NFKBIB'] 
+2025-06-20 00:30:19,882 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:30:19,967 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'TNS1'] 
+2025-06-20 00:30:20,022 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PDZD2', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:20,023 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:30:20,079 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GALM', 'GAPDH', 'PRDM10'] 
+2025-06-20 00:30:20,134 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'VCAN'] 
+2025-06-20 00:30:20,134 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:30:20,190 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'NLRP12'] 
+2025-06-20 00:30:20,246 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'STT3B'] 
+2025-06-20 00:30:20,246 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:30:20,301 - Finished with child num after mutate ['NFKB1', 'CD3E', 'HNRNPA2B1', 'GAPDH'] 
+2025-06-20 00:30:20,358 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'LRG1'] 
+2025-06-20 00:30:20,358 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:30:20,412 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'GABARAPL1'] 
+2025-06-20 00:30:20,467 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'E2F3'] 
+2025-06-20 00:30:20,467 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:30:20,522 - Finished with child num after mutate ['AK7', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB'] 
+2025-06-20 00:30:20,576 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'TRRAP'] 
+2025-06-20 00:30:20,576 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:30:20,628 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'ITGB4'] 
+2025-06-20 00:30:20,679 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'LMNA'] 
+2025-06-20 00:30:20,679 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:30:20,733 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'MARVELD2'] 
+2025-06-20 00:30:20,792 - Finished with child num after mutate ['NFKB1', 'NFKBIB', 'TNS1', 'GAPDH', 'ZXDC'] 
+2025-06-20 00:30:20,792 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:30:20,885 - Finished with child num after mutate ['NFKB1', 'PPIF', 'OTX2', 'GAPDH', 'NFKBIB'] 
+2025-06-20 00:30:20,983 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'PLN'] 
+2025-06-20 00:30:20,983 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:30:21,074 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'HSPG2'] 
+2025-06-20 00:30:21,177 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'CXCL9'] 
+2025-06-20 00:30:21,177 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:30:21,267 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'PLAU'] 
+2025-06-20 00:30:21,369 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'HIPK2'] 
+2025-06-20 00:30:21,369 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:30:21,465 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'PIN1'] 
+2025-06-20 00:30:21,561 - Finished with child num after mutate ['NFKB1', 'PPIF', 'PSME3', 'NFKBIB'] 
+2025-06-20 00:30:21,561 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:30:21,649 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'MUS81'] 
+2025-06-20 00:30:21,725 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'GAPDH', 'NFKBIB', 'EGF'] 
+2025-06-20 00:30:21,725 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:30:21,778 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'EGF', 'GAPDH', 'NFKBIB', 'MAPK15'] 
+2025-06-20 00:30:21,835 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'HCFC1'] 
+2025-06-20 00:30:21,835 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:30:21,889 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'PANK2'] 
+2025-06-20 00:30:21,943 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'EGF', 'GAPDH', 'NFKBIB', 'MMP19'] 
+2025-06-20 00:30:21,943 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:30:21,999 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'MEN1'] 
+2025-06-20 00:30:22,053 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'EGF', 'GAPDH', 'PRDM10', 'EEFSEC'] 
+2025-06-20 00:30:22,053 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:30:22,108 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'CD36'] 
+2025-06-20 00:30:22,162 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'NTF3'] 
+2025-06-20 00:30:22,162 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:30:22,216 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'SMARCC2'] 
+2025-06-20 00:30:22,270 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'MIPEP'] 
+2025-06-20 00:30:22,270 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:30:22,324 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'ITGB4', 'GAPDH', 'NFKBIB', 'LPAR4'] 
+2025-06-20 00:30:22,377 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'CTCFL'] 
+2025-06-20 00:30:22,378 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:30:22,429 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'MEN1', 'NFKBIB', 'FDPS'] 
+2025-06-20 00:30:22,484 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'ING3'] 
+2025-06-20 00:30:22,484 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:30:22,537 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'EGF', 'GAPDH', 'PPOX'] 
+2025-06-20 00:30:22,589 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NFKBIB', 'GAPDH', 'SLC9C2'] 
+2025-06-20 00:30:22,589 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:30:22,644 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'OSCAR'] 
+2025-06-20 00:30:22,698 - Finished with child num after mutate ['MEFV', 'NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB'] 
+2025-06-20 00:30:22,698 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:30:22,750 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'ZBTB7B', 'GAPDH', 'NFKBIB'] 
+2025-06-20 00:30:22,805 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'INPP5D'] 
+2025-06-20 00:30:22,805 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:30:22,862 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'ACSS3'] 
+2025-06-20 00:30:22,915 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'AGPS'] 
+2025-06-20 00:30:22,915 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:30:22,971 - Finished with child num after mutate ['NFKB1', 'PPIF', 'LMNA', 'TNS1', 'GAPDH', 'CTSB'] 
+2025-06-20 00:30:23,022 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NFKBIB', 'GAPDH', 'IL6'] 
+2025-06-20 00:30:23,022 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:30:23,074 - Finished with child num after mutate ['NFKB1', 'LMNA', 'TNS1', 'GAPDH', 'NFKBIB', 'THBS4'] 
+2025-06-20 00:30:23,129 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'NAMPT'] 
+2025-06-20 00:30:23,129 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:30:23,183 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'MARCKSL1'] 
+2025-06-20 00:30:23,235 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'PRKACG'] 
+2025-06-20 00:30:23,236 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:30:23,289 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'EGF', 'GAPDH', 'NFKBIB', 'TUBB4A'] 
+2025-06-20 00:30:23,341 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'PSMD11'] 
+2025-06-20 00:30:23,341 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:30:23,392 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'PSMD11', 'SNRPB'] 
+2025-06-20 00:30:23,444 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'ATM'] 
+2025-06-20 00:30:23,444 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:30:23,495 - Finished with child num after mutate ['NFKB1', 'PPIF', 'ATM', 'GAPDH', 'NFKBIB', 'NAV3'] 
+2025-06-20 00:30:23,547 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'SEC61G'] 
+2025-06-20 00:30:23,547 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:30:23,599 - Finished with child num after mutate ['NFKB1', 'GAPDH', 'IL6', 'NFKBIB', 'ATOH1'] 
+2025-06-20 00:30:23,651 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'DKK3'] 
+2025-06-20 00:30:23,652 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:30:23,703 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'PSMD11', 'CDK18'] 
+2025-06-20 00:30:23,754 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'UBB'] 
+2025-06-20 00:30:23,754 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:30:23,806 - Finished with child num after mutate ['NFKB1', 'PPIF', 'ATM', 'GAPDH', 'NFKBIB', 'DEFA4'] 
+2025-06-20 00:30:23,862 - Finished with child num after mutate ['NFKB1', 'PPIF', 'ATM', 'GAPDH', 'NFKBIB', 'TGFB3'] 
+2025-06-20 00:30:23,862 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:30:23,914 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'IL24'] 
+2025-06-20 00:30:23,969 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'AGO2', 'PRDM10'] 
+2025-06-20 00:30:23,969 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:30:24,021 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'LGALS4'] 
+2025-06-20 00:30:24,076 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'SOD2'] 
+2025-06-20 00:30:24,076 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:30:24,130 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'LTBP3'] 
+2025-06-20 00:30:24,185 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TNS1', 'LMNA', 'GAPDH', 'NFKBIB', 'PIR'] 
+2025-06-20 00:30:24,185 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:30:24,237 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'PRDM10', 'NFKBIB', 'TNFRSF19'] 
+2025-06-20 00:30:24,289 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'TLR1'] 
+2025-06-20 00:30:24,289 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:30:24,346 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'ZNF436'] 
+2025-06-20 00:30:24,407 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'MAPK15'] 
+2025-06-20 00:30:24,407 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:30:24,468 - Finished with child num after mutate ['NFKB1', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'ARPC1B'] 
+2025-06-20 00:30:24,532 - Finished with child num after mutate ['PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'RBX1'] 
+2025-06-20 00:30:24,532 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:30:24,584 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'AGER'] 
+2025-06-20 00:30:24,636 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'PIK3C2G'] 
+2025-06-20 00:30:24,637 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:30:24,689 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'ARSA'] 
+2025-06-20 00:30:24,743 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'LMX1B'] 
+2025-06-20 00:30:24,743 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:30:24,797 - Finished with child num after mutate ['NFKB1', 'GAPDH', 'PRDM10', 'NFKBIB', 'CMTM3'] 
+2025-06-20 00:30:24,851 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'GGT1'] 
+2025-06-20 00:30:24,851 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:30:24,906 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'NFKBIB', 'WT1'] 
+2025-06-20 00:30:24,959 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'TLR1', 'IL6', 'BIRC2'] 
+2025-06-20 00:30:24,959 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:30:25,012 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'GDI2'] 
+2025-06-20 00:30:25,064 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'TLR9'] 
+2025-06-20 00:30:25,064 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:30:25,119 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'SPAG1'] 
+2025-06-20 00:30:25,172 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'FCGR1A'] 
+2025-06-20 00:30:25,172 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:30:25,225 - Finished with child num after mutate ['NFKB1', 'PPIF', 'TLR1', 'IL6', 'GAPDH', 'NFKBIB', 'AMH'] 
+2025-06-20 00:30:25,278 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'UBE2J1'] 
+2025-06-20 00:30:25,278 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:30:25,330 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'FKBP2'] 
+2025-06-20 00:30:25,383 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'ACTA1'] 
+2025-06-20 00:30:25,383 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:30:25,435 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'CCR3'] 
+2025-06-20 00:30:25,489 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'TLR1', 'IL6', 'GAPDH', 'UBE2E1'] 
+2025-06-20 00:30:25,489 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:30:25,540 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'TLR9', 'UBB', 'GAPDH', 'CCT7'] 
+2025-06-20 00:30:25,592 - Finished with child num after mutate ['NFKB1', 'PPIF', 'NFKBIB', 'GAPDH', 'TUBB3'] 
+2025-06-20 00:30:25,592 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:30:25,643 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'NFKBIB', 'TAB1'] 
+2025-06-20 00:30:25,698 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'IL6', 'GAPDH', 'PRDM10', 'CNTF'] 
+2025-06-20 00:30:25,698 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:30:25,752 - Finished with child num after mutate ['NFKB1', 'PPIF', 'GAPDH', 'PRDM10', 'NFKBIB', 'TCF21'] 
+2025-06-20 00:30:25,804 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'TAB1', 'NFKBIB', 'ATF3'] 
+2025-06-20 00:30:25,804 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:30:25,856 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'PRDM10', 'NFKBIB', 'MRC1'] 
+2025-06-20 00:30:25,910 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'UBB', 'GAPDH', 'TAB1', 'KAT5'] 
+2025-06-20 00:30:25,910 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:30:25,962 - Finished with child num after mutate ['NFKB1', 'PPIF', 'AGO2', 'GAPDH', 'TAB1', 'NFKBIB', 'USP38'] 
+2025-06-20 00:30:26,018 - Finished with child num after mutate ['NFKB1', 'PPIF', 'KAT5', 'UBB', 'GAPDH', 'TAB1', 'EXOC3'] 
+2025-06-20 00:30:26,018 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:30:26,070 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'TAB1', 'NFKBIB', 'EIF4EBP1'] 
+2025-06-20 00:30:26,123 - Finished with child num after mutate ['NFKB1', 'PPIF', 'IL6', 'GAPDH', 'NFKBIB', 'EIF4A1'] 
+2025-06-20 00:30:26,123 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:30:26,177 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'TAB1', 'NFKBIB', 'ARL16'] 
+2025-06-20 00:30:26,228 - Finished with child num after mutate ['NFKB1', 'PPIF', 'UBB', 'GAPDH', 'TAB1', 'NFKBIB', 'NOTCH2'] 
+2025-06-20 00:30:26,228 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:30:26,228 - Run 3 COMPLETED - Fitness: 0.340681 - Size: 6 - Duration: 0:00:13.311244

@@ -1,0 +1,302 @@
+2025-06-20 00:32:12,147 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:32:12,219 - Finished with child num after mutate ['SPEN', 'EXOSC10', 'SMC1A', 'ENPP1', 'TNFRSF10A', 'VAV2', 'IKBKB', 'PDE8B', 'ITPR2', 'NFKBIA', 'NT5C1A', 'PNPT1', 'RRM1', 'ADCY7', 'C1DP2', 'NT5C', 'PDE1C', 'CAMK2A', 'LOC650621', 'POLR3H', 'ZNRD1', 'PDE4C', 'IKBKG', 'RELA'] 
+2025-06-20 00:32:12,317 - Finished with child num after mutate ['AKT2', 'PRKACB', 'LSM3', 'IGF1', 'PIK3R2', 'ACSBG2', 'ZNRD1', 'SKP1', 'IRAK1', 'CCNB1', 'PDE1C', 'IL1RAP', 'NME3', 'POLR3B', 'CDK2'] 
+2025-06-20 00:32:12,317 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:32:12,393 - Finished with child num after mutate ['EXOSC10', 'CCNB2', 'PHF5A', 'ENPP1', 'TNFRSF10A', 'VAV2', 'IKBKB', 'PDE8B', 'ITPR2', 'NFKBIA', 'NT5C1A', 'PNPT1', 'RRM1', 'ADCY7', 'C1DP2', 'NT5C', 'PDE1C', 'CAMK2A', 'LOC650621', 'POLR3H', 'ZNRD1', 'PDE4C', 'IKBKG', 'RELA'] 
+2025-06-20 00:32:12,585 - Finished with child num after mutate ['ENO1', 'IGF1', 'PIK3CB', 'FKBP10', 'MYD88', 'POLR3K', 'MAPK1', 'CALM1', 'DCP1A', 'PPP3CA', 'TNFRSF10D'] 
+2025-06-20 00:32:12,586 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:32:12,672 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'HSF4', 'POLR3K', 'MAPK1', 'CALM1', 'PPP3CA', 'ITPR2', 'TNFRSF10D'] 
+2025-06-20 00:32:12,732 - Finished with child num after mutate ['EXOSC10', 'CCNB2', 'ENPP1', 'TNFRSF10A', 'TIMM23B', 'IKBKB', 'PDE8B', 'PHF5A', 'NFKBIA', 'NT5C1A', 'PNPT1', 'RRM1', 'ADCY7', 'C1DP2', 'NT5C', 'PDE1C', 'CAMK2A', 'LOC650621', 'POLR3H', 'ZNRD1', 'PDE4C', 'IKBKG', 'RELA', 'DCP1A'] 
+2025-06-20 00:32:12,732 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:32:12,796 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'CA2', 'POLR3K', 'MAPK1', 'CALM1', 'DCP1A', 'PPP3CA', 'TNFRSF10D'] 
+2025-06-20 00:32:12,867 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'RNF216', 'HSF4', 'MAPK1', 'CALM1', 'PPP3CA', 'ITPR2', 'TNFRSF10D'] 
+2025-06-20 00:32:12,868 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:32:12,931 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'VAT1', 'MAPK1', 'CALM1', 'DCP1A', 'PPP3CA', 'CA2', 'TNFRSF10D'] 
+2025-06-20 00:32:12,985 - Finished with child num after mutate ['EXOSC10', 'CCNB2', 'ENPP1', 'TNFRSF10A', 'TIMM23B', 'IKBKB', 'PDE8B', 'PHF5A', 'NFKBIA', 'NT5C1A', 'PNPT1', 'RRM1', 'AMPD3', 'C1DP2', 'NT5C', 'PDE1C', 'CAMK2A', 'LOC650621', 'POLR3H', 'ZNRD1', 'PDE4C', 'IKBKG', 'RELA', 'DCP1A'] 
+2025-06-20 00:32:12,986 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:32:13,045 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'VAT1', 'MAPK1', 'CALM1', 'S100A7', 'PPP3CA', 'CA2', 'TNFRSF10D'] 
+2025-06-20 00:32:13,118 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'GNAI3', 'MAPK1', 'CALM1', 'DCP1A', 'PPP3CA', 'CA2', 'TNFRSF10D'] 
+2025-06-20 00:32:13,118 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:32:13,251 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'MAPK1', 'CALM1', 'FMR1', 'GNAI3', 'PPP3CA', 'CA2', 'TNFRSF10D'] 
+2025-06-20 00:32:13,446 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'TIMP3', 'HSF4', 'MAPK1', 'CALM1', 'PPP3CA', 'ITPR2', 'TNFRSF10D'] 
+2025-06-20 00:32:13,447 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:32:13,560 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2', 'WDR13'] 
+2025-06-20 00:32:13,654 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2', 'TFAP2A'] 
+2025-06-20 00:32:13,654 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:32:13,726 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2', 'CD44'] 
+2025-06-20 00:32:13,794 - Finished with child num after mutate ['ENO1', 'IGF1', 'FKBP10', 'PIK3CB', 'MAPK1', 'CALM1', 'TAB1', 'GNAI3', 'PPP3CA', 'CA2', 'TNFRSF10D'] 
+2025-06-20 00:32:13,795 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:32:13,875 - Finished with child num after mutate ['ENO1', 'FGF10', 'FKBP10', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:13,946 - Finished with child num after mutate ['ENO1', 'KRT17', 'FKBP10', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:13,946 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:32:14,008 - Finished with child num after mutate ['ENO1', 'KRT17', 'RNPEP', 'PIK3CB', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,076 - Finished with child num after mutate ['ENO1', 'IGF1', 'CDS1', 'PIK3CB', 'VAT1', 'CALM1', 'GNAI3', 'PPP3CA', 'CA2', 'TAB1', 'TNFRSF10D'] 
+2025-06-20 00:32:14,076 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:32:14,144 - Finished with child num after mutate ['ENO1', 'KRT17', 'TSPYL1', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,203 - Finished with child num after mutate ['ENO1', 'SRSF12', 'FKBP10', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,204 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:32:14,337 - Finished with child num after mutate ['ENO1', 'KRT17', 'PRKAA1', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,420 - Finished with child num after mutate ['ENO1', 'KRT17', 'BOLA2', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,420 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:32:14,580 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'TYMS', 'CA2'] 
+2025-06-20 00:32:14,666 - Finished with child num after mutate ['ARNT', 'ENO1', 'KRT17', 'PIK3CB', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,667 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:32:14,753 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'ATP1B3', 'CA2'] 
+2025-06-20 00:32:14,821 - Finished with child num after mutate ['RTCB', 'ENO1', 'KRT17', 'PIK3CB', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,821 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:32:14,892 - Finished with child num after mutate ['ENO1', 'KRT17', 'TYMS', 'VAT1', 'CD44', 'S100A7', 'PLD2', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:14,980 - Finished with child num after mutate ['WT1', 'ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:14,981 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:32:15,038 - Finished with child num after mutate ['ENO1', 'KRT17', 'ANKRD37', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:15,100 - Finished with child num after mutate ['ENO1', 'KRT17', 'CLCN1', 'VAT1', 'RTCB', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:15,100 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:32:15,177 - Finished with child num after mutate ['ENO1', 'KRT17', 'RNF4', 'VAT1', 'CD44', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:15,250 - Finished with child num after mutate ['ENO1', 'KRT17', 'TYMS', 'VAT1', 'CD44', 'S100A7', 'ETV1', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:15,250 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:32:15,328 - Finished with child num after mutate ['ENO1', 'KRT17', 'SEMA5B', 'VAT1', 'RTCB', 'S100A7', 'TSPYL1', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:15,387 - Finished with child num after mutate ['ENO1', 'KRT17', 'MAP1LC3A', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:15,387 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:32:15,450 - Finished with child num after mutate ['ENO1', 'KRT17', 'TYMS', 'VAT1', 'CD44', 'S100A7', 'RGS6', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:15,511 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'MYF6', 'CA2'] 
+2025-06-20 00:32:15,512 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:32:15,600 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CA2', 'ASPSCR1'] 
+2025-06-20 00:32:15,673 - Finished with child num after mutate ['ENO1', 'KRT17', 'DNMT3A', 'VAT1', 'RTCB', 'CD44', 'MAPK1', 'CALM1', 'PPP3CA', 'CA2'] 
+2025-06-20 00:32:15,673 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:32:15,737 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'PRDM10', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:15,803 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'MAPK1', 'CALM1', 'UBE2Z', 'CA2'] 
+2025-06-20 00:32:15,803 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:32:15,866 - Finished with child num after mutate ['PPP1R27', 'ENO1', 'KRT17', 'VAT1', 'CD44', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:15,925 - Finished with child num after mutate ['PLCB4', 'ENO1', 'KRT17', 'VAT1', 'CD44', 'MAPK1', 'CALM1', 'CA2'] 
+2025-06-20 00:32:15,925 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:32:15,987 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'MAPK1', 'CALM1', 'CA2', 'ALPP'] 
+2025-06-20 00:32:16,046 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'SF3A3', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,046 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:32:16,107 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'CCDC120'] 
+2025-06-20 00:32:16,165 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'UBE2K', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,165 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:32:16,229 - Finished with child num after mutate ['KRT17', 'VAT1', 'CD44', 'MAPK1', 'CALM1', 'RHBDF2', 'CA2'] 
+2025-06-20 00:32:16,411 - Finished with child num after mutate ['ENO1', 'VAT1', 'OSR2', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,412 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:32:16,512 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CA2', 'ADCY9'] 
+2025-06-20 00:32:16,571 - Finished with child num after mutate ['ENO1', 'VAT1', 'PRKCB', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,571 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:32:16,638 - Finished with child num after mutate ['TBX2', 'ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,696 - Finished with child num after mutate ['ENO1', 'VAT1', 'MC1R', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,696 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:32:16,756 - Finished with child num after mutate ['ENO1', 'VAT1', 'DLG1', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,813 - Finished with child num after mutate ['ENO1', 'VAT1', 'RBMX2', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,813 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:32:16,871 - Finished with child num after mutate ['ENO1', 'VAT1', 'FANCM', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,932 - Finished with child num after mutate ['IGFBP5', 'ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:16,932 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:32:16,995 - Finished with child num after mutate ['ENO1', 'VAT1', 'PDGFRB', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:17,056 - Finished with child num after mutate ['ENO1', 'KRT17', 'VAT1', 'CD44', 'SEMA3F', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:17,056 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:32:17,121 - Finished with child num after mutate ['ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'CA2', 'EIF4A2'] 
+2025-06-20 00:32:17,182 - Finished with child num after mutate ['PRKCB', 'ENO1', 'KRT17', 'TRDN', 'CD44', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:17,182 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:32:17,240 - Finished with child num after mutate ['ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'GRN', 'CA2'] 
+2025-06-20 00:32:17,297 - Finished with child num after mutate ['ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'TESC', 'CA2'] 
+2025-06-20 00:32:17,298 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:32:17,380 - Finished with child num after mutate ['SCRG1', 'ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:17,446 - Finished with child num after mutate ['ENO1', 'VAT1', 'S100A7', 'MAPK1', 'CALM1', 'LPAR1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:17,447 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:32:17,508 - Finished with child num after mutate ['ENO1', 'VAT1', 'UBE2K', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:17,566 - Finished with child num after mutate ['ENO1', 'VAT1', 'SCX', 'CALM1', 'EIF4A2', 'CA2'] 
+2025-06-20 00:32:17,566 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:32:17,624 - Finished with child num after mutate ['CRP', 'ENO1', 'VAT1', 'MAPK1', 'CALM1', 'CA2', 'MYF6'] 
+2025-06-20 00:32:17,679 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'S100A1', 'CA2'] 
+2025-06-20 00:32:17,679 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:32:17,739 - Finished with child num after mutate ['PBRM1', 'ENO1', 'KRT17', 'VAT1', 'CD44', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:17,801 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SYCP1', 'CA2'] 
+2025-06-20 00:32:17,801 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:32:17,857 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'TAGLN', 'CA2'] 
+2025-06-20 00:32:17,915 - Finished with child num after mutate ['ENO1', 'MYH7B', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:17,915 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:32:17,971 - Finished with child num after mutate ['ENO1', 'BDNF', 'VAT1', 'GRN', 'S100A7', 'TAGLN', 'CA2'] 
+2025-06-20 00:32:18,032 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'IL3'] 
+2025-06-20 00:32:18,032 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:32:18,095 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'CRYL1', 'CA2'] 
+2025-06-20 00:32:18,167 - Finished with child num after mutate ['ENO1', 'UHMK1', 'VAT1', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:18,167 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:32:18,227 - Finished with child num after mutate ['ENO1', 'TBX21', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CA2'] 
+2025-06-20 00:32:18,284 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'RAB11B', 'CA2'] 
+2025-06-20 00:32:18,284 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:32:18,343 - Finished with child num after mutate ['ENO1', 'GRN', 'S100A7', 'MAPK1', 'TBX21', 'PRAME', 'CA2'] 
+2025-06-20 00:32:18,399 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'MAN2B1'] 
+2025-06-20 00:32:18,399 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:32:18,455 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'ATP2C1', 'MAPK1'] 
+2025-06-20 00:32:18,512 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'TUBB3'] 
+2025-06-20 00:32:18,513 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:32:18,568 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'LPAR1', 'MAPK1'] 
+2025-06-20 00:32:18,633 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'TSLP'] 
+2025-06-20 00:32:18,633 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:32:18,700 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'CSNK1G2', 'MAPK1'] 
+2025-06-20 00:32:18,762 - Finished with child num after mutate ['ENO1', 'AKAP9', 'S100A7', 'MAPK1', 'TBX21', 'CA2'] 
+2025-06-20 00:32:18,762 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:32:18,818 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'SF3A3', 'MAPK1'] 
+2025-06-20 00:32:18,909 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'STIP1'] 
+2025-06-20 00:32:18,909 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:32:19,008 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'PRDM14', 'MAPK1'] 
+2025-06-20 00:32:19,064 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SYK'] 
+2025-06-20 00:32:19,065 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:32:19,124 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'NMNAT1'] 
+2025-06-20 00:32:19,217 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1'] 
+2025-06-20 00:32:19,217 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:32:19,293 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'MLANA'] 
+2025-06-20 00:32:19,370 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'SYT1'] 
+2025-06-20 00:32:19,370 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:32:19,522 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'TNS1'] 
+2025-06-20 00:32:19,597 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'FGFR1'] 
+2025-06-20 00:32:19,597 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:32:19,668 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SMAD7'] 
+2025-06-20 00:32:19,745 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'SMN1', 'VAT1', 'GRN', 'S100A7', 'SERPINA1'] 
+2025-06-20 00:32:19,745 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:32:19,818 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'FBXW7'] 
+2025-06-20 00:32:19,909 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'COPG1', 'MAPK1'] 
+2025-06-20 00:32:19,909 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:32:19,992 - Finished with child num after mutate ['ENO1', 'BZW1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:20,069 - Finished with child num after mutate ['ENO1', 'AKAP3', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:20,069 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:32:20,129 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ALAS2'] 
+2025-06-20 00:32:20,193 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CPEB4'] 
+2025-06-20 00:32:20,193 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:32:20,311 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'NQO1'] 
+2025-06-20 00:32:20,494 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'EIF2AK1'] 
+2025-06-20 00:32:20,494 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:32:20,581 - Finished with child num after mutate ['ENO1', 'PHKG2', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:20,656 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'UBE2U'] 
+2025-06-20 00:32:20,656 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:32:20,716 - Finished with child num after mutate ['ENO1', 'C1R', 'MAN2B1', 'VAT1', 'GRN', 'S100A7'] 
+2025-06-20 00:32:20,775 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CTSD'] 
+2025-06-20 00:32:20,775 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:32:20,839 - Finished with child num after mutate ['ENO1', 'FBXW7', 'NCOA3', 'VAT1', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:20,900 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'MAPK1', 'SERPINA1', 'NTRK3'] 
+2025-06-20 00:32:20,900 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:32:20,957 - Finished with child num after mutate ['ENO1', 'MMP3', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:21,014 - Finished with child num after mutate ['ENO1', 'SCRG1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:21,014 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:32:21,069 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'FPR3'] 
+2025-06-20 00:32:21,129 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'PCBP2'] 
+2025-06-20 00:32:21,129 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:32:21,210 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'CASP5'] 
+2025-06-20 00:32:21,286 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'BRD3', 'MAPK1'] 
+2025-06-20 00:32:21,286 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:32:21,344 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ACP5'] 
+2025-06-20 00:32:21,400 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'TBC1D4'] 
+2025-06-20 00:32:21,401 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:32:21,457 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ARL15'] 
+2025-06-20 00:32:21,513 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SEC61B'] 
+2025-06-20 00:32:21,514 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:32:21,573 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'SDC1'] 
+2025-06-20 00:32:21,629 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CXCL8'] 
+2025-06-20 00:32:21,629 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:32:21,692 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'BTG3'] 
+2025-06-20 00:32:21,751 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'MAPK12'] 
+2025-06-20 00:32:21,752 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:32:21,823 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'RTKN'] 
+2025-06-20 00:32:21,885 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'UBE2C'] 
+2025-06-20 00:32:21,885 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:32:21,983 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'BCL10'] 
+2025-06-20 00:32:22,056 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'RASA2'] 
+2025-06-20 00:32:22,056 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:32:22,130 - Finished with child num after mutate ['ENO1', 'FBXW7', 'MKNK1', 'VAT1', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:22,192 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'MAPK1', 'RDX'] 
+2025-06-20 00:32:22,192 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:32:22,250 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'GSK3B'] 
+2025-06-20 00:32:22,313 - Finished with child num after mutate ['ENO1', 'CTSD', 'RDX', 'VAT1', 'GRN', 'MAPK1', 'ANKRD46'] 
+2025-06-20 00:32:22,313 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:32:22,374 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CCR3'] 
+2025-06-20 00:32:22,433 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'POTEJ'] 
+2025-06-20 00:32:22,433 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:32:22,491 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'MAPK1', 'RABEPK'] 
+2025-06-20 00:32:22,549 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'NAGK'] 
+2025-06-20 00:32:22,549 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:32:22,619 - Finished with child num after mutate ['ENO1', 'CTSD', 'RDX', 'VAT1', 'GRN', 'MAPK1', 'SMAD4'] 
+2025-06-20 00:32:22,686 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ZSCAN1'] 
+2025-06-20 00:32:22,686 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:32:22,771 - Finished with child num after mutate ['ENO1', 'WDR41', 'MAN2B1', 'VAT1', 'GRN', 'S100A7'] 
+2025-06-20 00:32:22,831 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ERBB4'] 
+2025-06-20 00:32:22,831 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:32:22,890 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'APOB'] 
+2025-06-20 00:32:22,948 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'PPP1R9B'] 
+2025-06-20 00:32:22,948 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:32:23,004 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'PRKCI'] 
+2025-06-20 00:32:23,060 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'HSPB2'] 
+2025-06-20 00:32:23,060 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:32:23,147 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'LRPAP1'] 
+2025-06-20 00:32:23,203 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SIRT7'] 
+2025-06-20 00:32:23,203 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:32:23,258 - Finished with child num after mutate ['ENO1', 'PLA2G4C', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:23,436 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'WT1'] 
+2025-06-20 00:32:23,436 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:32:23,494 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'BMP2'] 
+2025-06-20 00:32:23,552 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'UBE2D2'] 
+2025-06-20 00:32:23,553 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:32:23,609 - Finished with child num after mutate ['ENO1', 'FGF16', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:23,666 - Finished with child num after mutate ['ENO1', 'RASGEF1B', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:23,667 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:32:23,723 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ACTN1'] 
+2025-06-20 00:32:23,791 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CTSK'] 
+2025-06-20 00:32:23,791 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:32:23,851 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'CSNK1A1L'] 
+2025-06-20 00:32:23,907 - Finished with child num after mutate ['ENO1', 'CTSD', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'LGALS1'] 
+2025-06-20 00:32:23,907 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:32:23,963 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'MAPK1', 'MAOB'] 
+2025-06-20 00:32:24,021 - Finished with child num after mutate ['ENO1', 'CTSD', 'LGALS1', 'MAN2B1', 'PTPRG', 'MAPK1'] 
+2025-06-20 00:32:24,021 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:32:24,089 - Finished with child num after mutate ['ENO1', 'CTSD', 'LGALS1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'RUNX2'] 
+2025-06-20 00:32:24,170 - Finished with child num after mutate ['ENO1', 'CTSD', 'LGALS1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'GRB2'] 
+2025-06-20 00:32:24,170 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:32:24,257 - Finished with child num after mutate ['SDC1', 'CTSD', 'GRN', 'S100A7', 'CTSK', 'MAPK1'] 
+2025-06-20 00:32:24,362 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'S100A7', 'MAPK1', 'FGF10'] 
+2025-06-20 00:32:24,362 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:32:24,443 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'IGF2R'] 
+2025-06-20 00:32:24,527 - Finished with child num after mutate ['ENO1', 'CTSD', 'LGALS1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'ZBTB18'] 
+2025-06-20 00:32:24,527 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:32:24,584 - Finished with child num after mutate ['ENO1', 'CTSD', 'RDX', 'VAT1', 'GRN', 'MAPK1', 'VRK2'] 
+2025-06-20 00:32:24,643 - Finished with child num after mutate ['ENO1', 'CTSD', 'LGALS1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'IL2RA'] 
+2025-06-20 00:32:24,644 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:32:24,699 - Finished with child num after mutate ['ENO1', 'CTSD', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'NOBOX'] 
+2025-06-20 00:32:24,757 - Finished with child num after mutate ['ENO1', 'UBB', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:24,758 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:32:24,828 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'KIF16B'] 
+2025-06-20 00:32:24,901 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'NTRK1'] 
+2025-06-20 00:32:24,901 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:32:24,994 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'GYPC'] 
+2025-06-20 00:32:25,058 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ADAT1'] 
+2025-06-20 00:32:25,058 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:32:25,137 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'EIF4EBP1'] 
+2025-06-20 00:32:25,221 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CLU'] 
+2025-06-20 00:32:25,222 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:32:25,300 - Finished with child num after mutate ['ENO1', 'CTSD', 'MAN2B1', 'GRN', 'CLU', 'S100A7', 'MAPK1', 'POTEJ'] 
+2025-06-20 00:32:25,357 - Finished with child num after mutate ['ENO1', 'GH2', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:25,357 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:32:25,433 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'P2RY8'] 
+2025-06-20 00:32:25,503 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'CD44'] 
+2025-06-20 00:32:25,503 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:32:25,560 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'S100A7', 'MAPK1', 'AKAP1'] 
+2025-06-20 00:32:25,617 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'GRN', 'CLU', 'S100A7', 'MAPK1', 'RHO'] 
+2025-06-20 00:32:25,617 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:32:25,689 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'KLHL24'] 
+2025-06-20 00:32:25,744 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'UBE2T'] 
+2025-06-20 00:32:25,744 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:32:25,802 - Finished with child num after mutate ['ENO1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'MDM2'] 
+2025-06-20 00:32:25,852 - Finished with child num after mutate ['ENO1', 'CTSD', 'VAT1', 'GRN', 'CD44', 'SERPINI1'] 
+2025-06-20 00:32:25,853 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:32:25,914 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'ATP12A'] 
+2025-06-20 00:32:25,978 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'PUM1'] 
+2025-06-20 00:32:25,978 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:32:26,091 - Finished with child num after mutate ['ENO1', 'CORO1A', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1'] 
+2025-06-20 00:32:26,148 - Finished with child num after mutate ['ENO1', 'CTSD', 'MAN2B1', 'GRN', 'S100A7', 'MAPK1', 'IL36B'] 
+2025-06-20 00:32:26,149 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:32:26,206 - Finished with child num after mutate ['ENO1', 'CTSD', 'GRN', 'S100A7', 'MAPK1', 'SERPINA1', 'CCNG2'] 
+2025-06-20 00:32:26,263 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'PC', 'MAPK1'] 
+2025-06-20 00:32:26,263 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:32:26,319 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'COL4A6'] 
+2025-06-20 00:32:26,375 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'DOCK5'] 
+2025-06-20 00:32:26,376 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:32:26,433 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'WSCD1'] 
+2025-06-20 00:32:26,517 - Finished with child num after mutate ['ENO1', 'MAN2B1', 'VAT1', 'GRN', 'S100A7', 'MAPK1', 'HSF5'] 
+2025-06-20 00:32:26,517 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:32:26,517 - Run 11 COMPLETED - Fitness: 0.313729 - Size: 6 - Duration: 0:00:16.208574

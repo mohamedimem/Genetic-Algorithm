@@ -1,0 +1,302 @@
+2025-06-20 00:34:11,779 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:34:11,834 - Finished with child num after mutate ['RBX1', 'FBXO17', 'PPP2R5B', 'DCP1B', 'ADCY1'] 
+2025-06-20 00:34:11,888 - Finished with child num after mutate ['RBX1', 'ANAPC7', 'PPP2R5B', 'DCP1B', 'ADCY1'] 
+2025-06-20 00:34:11,888 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:34:11,943 - Finished with child num after mutate ['CHERP', 'PPP3R2', 'CALML6', 'PRKACA', 'GSK3B', 'TNFRSF10A', 'POLD4', 'PTTG2', 'PRPS1L1', 'PRKX', 'PRIM2', 'CNOT6L', 'ANAPC2', 'SPDYC', 'POLR2C', 'CDC27'] 
+2025-06-20 00:34:12,013 - Finished with child num after mutate ['GSK3B', 'ITPR1', 'NPR1', 'MAPK3', 'CDC16', 'PDE11A', 'NT5C1B', 'PDE8B', 'NT5E', 'GMPR', 'CD79A', 'AGFG2', 'POLR3G', 'NFATC4', 'NT5C1A', 'IMPDH1', 'CNOT6', 'CNOT7', 'POLR2E', 'RAC3', 'PRKAR2B', 'FASLG', 'FBXO43', 'PPP2R1B', 'NUDT5', 'RBX1', 'GUCY2F', 'SPDYA', 'VAV1', 'BCL2L1', 'ENTPD8', 'POLR2K', 'PPP2R5C', 'PRKAR1A'] 
+2025-06-20 00:34:12,013 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:34:12,111 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'NDUFB4', 'FBXO17', 'ADCY1'] 
+2025-06-20 00:34:12,196 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'DNAJA4', 'FBXO17', 'ADCY1'] 
+2025-06-20 00:34:12,196 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:34:12,275 - Finished with child num after mutate ['NDUFB4', 'RBX1', 'PPP2R5B', 'FBXO17', 'KDM2B'] 
+2025-06-20 00:34:12,330 - Finished with child num after mutate ['DNAJA4', 'RBX1', 'PPP2R5B', 'FBXO17', 'PHC3'] 
+2025-06-20 00:34:12,330 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:34:12,393 - Finished with child num after mutate ['DNAJA4', 'RBX1', 'PPP2R5B', 'FBXO17', 'DVL3'] 
+2025-06-20 00:34:12,448 - Finished with child num after mutate ['TRIM63', 'RBX1', 'PPP2R5B', 'PHC3', 'FBXO17'] 
+2025-06-20 00:34:12,448 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:34:12,504 - Finished with child num after mutate ['ANKRD37', 'FBXO17', 'NDUFB4', 'RBX1'] 
+2025-06-20 00:34:12,556 - Finished with child num after mutate ['UBOX5', 'TRIM63', 'PPP2R5B', 'PHC3'] 
+2025-06-20 00:34:12,557 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:34:12,609 - Finished with child num after mutate ['TRAT1', 'RBX1', 'DVL3', 'PPP2R5B', 'FBXO17'] 
+2025-06-20 00:34:12,663 - Finished with child num after mutate ['TRIM63', 'RBX1', 'PPP2R5B', 'CUL1', 'FBXO17'] 
+2025-06-20 00:34:12,663 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:34:12,715 - Finished with child num after mutate ['MCM10', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO17'] 
+2025-06-20 00:34:12,780 - Finished with child num after mutate ['SLC38A2', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO17'] 
+2025-06-20 00:34:12,780 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:34:12,833 - Finished with child num after mutate ['ZBTB16', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO17'] 
+2025-06-20 00:34:12,915 - Finished with child num after mutate ['HMG20A', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO17'] 
+2025-06-20 00:34:12,915 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:34:12,980 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO17', 'WWOX'] 
+2025-06-20 00:34:13,032 - Finished with child num after mutate ['RBX1', 'DVL3', 'PPP2R5B', 'FBXL16', 'FBXO17'] 
+2025-06-20 00:34:13,032 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:34:13,087 - Finished with child num after mutate ['LIMD1', 'PPP2R5B', 'FBXO17', 'RBX1'] 
+2025-06-20 00:34:13,140 - Finished with child num after mutate ['FBXO17', 'TRIM63', 'CUL1', 'RBX1', 'CHRM3'] 
+2025-06-20 00:34:13,140 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:34:13,192 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO17', 'UBE2M'] 
+2025-06-20 00:34:13,245 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO17', 'PRAME'] 
+2025-06-20 00:34:13,245 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:34:13,299 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'ZNF44', 'FBXO17'] 
+2025-06-20 00:34:13,352 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'AMN1', 'FBXO17'] 
+2025-06-20 00:34:13,352 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:34:13,411 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'DNAJA2', 'FBXO17'] 
+2025-06-20 00:34:13,480 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'WDFY2', 'FBXO17'] 
+2025-06-20 00:34:13,480 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:34:13,545 - Finished with child num after mutate ['FBXO17', 'DVL3', 'PPP2R5B', 'RBX1', 'MITD1'] 
+2025-06-20 00:34:13,597 - Finished with child num after mutate ['RBX1', 'CUL1', 'CREBBP', 'FBXO17', 'FBXL16'] 
+2025-06-20 00:34:13,598 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:34:13,676 - Finished with child num after mutate ['TM9SF3', 'CUL1', 'FBXO17', 'RBX1'] 
+2025-06-20 00:34:13,740 - Finished with child num after mutate ['FBXO17', 'TRIM63', 'PPP2R5B', 'RBX1', 'DDIT3'] 
+2025-06-20 00:34:13,740 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:34:13,810 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'DTX3L', 'FBXO17'] 
+2025-06-20 00:34:13,901 - Finished with child num after mutate ['UBE2S', 'RBX1', 'PPP2R5B', 'CUL1', 'FBXO17'] 
+2025-06-20 00:34:13,902 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:34:13,955 - Finished with child num after mutate ['FBXO17', 'CUL1', 'PPP2R5B', 'RBX1', 'TOPBP1'] 
+2025-06-20 00:34:14,008 - Finished with child num after mutate ['RBX1', 'TUBB8', 'UBE2S', 'FBXO17', 'DTX3L'] 
+2025-06-20 00:34:14,008 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:34:14,060 - Finished with child num after mutate ['FBXO17', 'CUL1', 'PPP2R5B', 'RBX1', 'GTF2H4'] 
+2025-06-20 00:34:14,113 - Finished with child num after mutate ['RBX1', 'DVL3', 'PPP2R5B', 'UBE2M', 'UBE2Q2'] 
+2025-06-20 00:34:14,114 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:34:14,166 - Finished with child num after mutate ['FBXO17', 'DTX3L', 'PPP2R5B', 'RBX1', 'GTF2H2'] 
+2025-06-20 00:34:14,218 - Finished with child num after mutate ['FBXO17', 'UBE2S', 'CUL1', 'RBX1', 'IFRD2'] 
+2025-06-20 00:34:14,218 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:34:14,276 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'YWHAQ', 'FBXO17'] 
+2025-06-20 00:34:14,431 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'KBTBD7', 'FBXO17'] 
+2025-06-20 00:34:14,431 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:34:14,487 - Finished with child num after mutate ['FBXO17', 'CUL1', 'PPP2R5B', 'RBX1', 'GSK3A'] 
+2025-06-20 00:34:14,555 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'FBXO9'] 
+2025-06-20 00:34:14,555 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:34:14,620 - Finished with child num after mutate ['GABARAPL2', 'UBE2S', 'CUL1', 'PPP2R5B'] 
+2025-06-20 00:34:14,690 - Finished with child num after mutate ['GSK3A', 'PPP2R5B', 'FBXO17', 'RBX1', 'ZFAND4'] 
+2025-06-20 00:34:14,691 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:34:14,745 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'PSME2'] 
+2025-06-20 00:34:14,813 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'SENP3'] 
+2025-06-20 00:34:14,813 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:34:14,866 - Finished with child num after mutate ['RBX1', 'TIMM10', 'PPP2R5B', 'CUL1', 'FBXO17'] 
+2025-06-20 00:34:14,920 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'GSK3A', 'PPP2R5E'] 
+2025-06-20 00:34:14,920 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:34:14,975 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'UBXN6'] 
+2025-06-20 00:34:15,033 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'GABARAPL2'] 
+2025-06-20 00:34:15,033 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:34:15,087 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'GSK3A', 'FBXL17'] 
+2025-06-20 00:34:15,140 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'EML6'] 
+2025-06-20 00:34:15,140 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:34:15,194 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'FBXO6'] 
+2025-06-20 00:34:15,257 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'WEE1'] 
+2025-06-20 00:34:15,257 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:34:15,318 - Finished with child num after mutate ['PPP2R5E', 'CUL1', 'PPP2R5B', 'RBX1', 'GTF2H1'] 
+2025-06-20 00:34:15,376 - Finished with child num after mutate ['GSK3A', 'PPP2R5B', 'CUL1', 'ANKK1'] 
+2025-06-20 00:34:15,376 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:34:15,458 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'SDCBP'] 
+2025-06-20 00:34:15,528 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'MAML2'] 
+2025-06-20 00:34:15,528 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:34:15,608 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'TIMM13'] 
+2025-06-20 00:34:15,663 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'RNF14'] 
+2025-06-20 00:34:15,663 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:34:15,717 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'RHOBTB3'] 
+2025-06-20 00:34:15,770 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'DVL2'] 
+2025-06-20 00:34:15,770 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:34:15,836 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'PIK3C3'] 
+2025-06-20 00:34:15,895 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'TBL1XR1'] 
+2025-06-20 00:34:15,895 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:34:15,948 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'PSME2', 'FBXO9', 'EBF3'] 
+2025-06-20 00:34:16,001 - Finished with child num after mutate ['KBTBD7', 'FBXO9', 'CUL1', 'RBX1', 'UBD'] 
+2025-06-20 00:34:16,001 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:34:16,055 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'DVL2', 'FBXO30'] 
+2025-06-20 00:34:16,139 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'NKRF', 'CUL1', 'GSK3A'] 
+2025-06-20 00:34:16,139 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:34:16,235 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'BACE1'] 
+2025-06-20 00:34:16,288 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'UBE2G1'] 
+2025-06-20 00:34:16,288 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:34:16,347 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'TTC4'] 
+2025-06-20 00:34:16,461 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'BIRC5'] 
+2025-06-20 00:34:16,461 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:34:16,615 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'NDUFS6'] 
+2025-06-20 00:34:16,671 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'GSK3A', 'COX14'] 
+2025-06-20 00:34:16,671 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:34:16,749 - Finished with child num after mutate ['GSK3A', 'PPP2R5E', 'CUL1', 'RBX1', 'TPM4'] 
+2025-06-20 00:34:16,805 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'KCTD17'] 
+2025-06-20 00:34:16,805 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:34:16,879 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'FBXL17'] 
+2025-06-20 00:34:16,938 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'BIRC5', 'DVL2', 'HSPA1B'] 
+2025-06-20 00:34:16,939 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:34:16,991 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'CENPA'] 
+2025-06-20 00:34:17,044 - Finished with child num after mutate ['KLHL25', 'KBTBD7', 'CUL1', 'RBX1'] 
+2025-06-20 00:34:17,044 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:34:17,100 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'TMTC2'] 
+2025-06-20 00:34:17,153 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'IRF3'] 
+2025-06-20 00:34:17,153 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:34:17,205 - Finished with child num after mutate ['UBE2G1', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'CREB1'] 
+2025-06-20 00:34:17,258 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PSME2', 'FBXO9', 'WDR59'] 
+2025-06-20 00:34:17,258 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:34:17,311 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'BCL3', 'CUL1', 'GSK3A'] 
+2025-06-20 00:34:17,364 - Finished with child num after mutate ['FBXO9', 'CUL1', 'PPP2R5B', 'RBX1', 'UNKL'] 
+2025-06-20 00:34:17,364 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:34:17,419 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'NUDCD2'] 
+2025-06-20 00:34:17,472 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'UNKL', 'MED23'] 
+2025-06-20 00:34:17,472 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:34:17,524 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'LRRC41'] 
+2025-06-20 00:34:17,580 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'RPL35'] 
+2025-06-20 00:34:17,580 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:34:17,633 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'HDDC2'] 
+2025-06-20 00:34:17,687 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'UNKL', 'CDK4'] 
+2025-06-20 00:34:17,687 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:34:17,739 - Finished with child num after mutate ['RBX1', 'CUL1', 'FBXO9', 'FBXO30', 'RAB11A'] 
+2025-06-20 00:34:17,789 - Finished with child num after mutate ['GSK3A', 'PPP2R5E', 'PPP2R5B', 'RBX1', 'CENPU'] 
+2025-06-20 00:34:17,790 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:34:17,843 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'SMARCC2'] 
+2025-06-20 00:34:17,895 - Finished with child num after mutate ['RBX1', 'PTGS2', 'PPP2R5B', 'CUL1', 'PSME2', 'DVL2'] 
+2025-06-20 00:34:17,896 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:34:17,948 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'OASL'] 
+2025-06-20 00:34:18,000 - Finished with child num after mutate ['FBXO9', 'PPP2R5B', 'CUL1', 'RBX1', 'SNRPN'] 
+2025-06-20 00:34:18,001 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:34:18,053 - Finished with child num after mutate ['RBX1', 'CENPA', 'PPP2R5B', 'CUL1', 'PSME2', 'DVL2'] 
+2025-06-20 00:34:18,105 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'HUS1'] 
+2025-06-20 00:34:18,105 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:34:18,157 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'RPS16'] 
+2025-06-20 00:34:18,211 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'MRPL22'] 
+2025-06-20 00:34:18,211 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:34:18,269 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'GSK3A', 'FBXO30', 'DVL2', 'PRAME'] 
+2025-06-20 00:34:18,322 - Finished with child num after mutate ['PPP2R5E', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO5'] 
+2025-06-20 00:34:18,322 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:34:18,375 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'KDM6A'] 
+2025-06-20 00:34:18,428 - Finished with child num after mutate ['LRRC41', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'SNRPD2'] 
+2025-06-20 00:34:18,428 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:34:18,482 - Finished with child num after mutate ['LRRC41', 'UBE2G1', 'RBX1', 'CUL1', 'SERF2', 'FBXO9', 'FBXO30'] 
+2025-06-20 00:34:18,535 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'PSME2', 'FBXO9', 'DVL2', 'PSMB6'] 
+2025-06-20 00:34:18,535 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:34:18,589 - Finished with child num after mutate ['PPIG', 'RBX1', 'CUL1', 'PPP2R5B', 'PSME2', 'DVL2'] 
+2025-06-20 00:34:18,661 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'POLR2C'] 
+2025-06-20 00:34:18,661 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:34:18,744 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'CDK4'] 
+2025-06-20 00:34:18,816 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NOTCH1'] 
+2025-06-20 00:34:18,816 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:34:18,912 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'TTI1'] 
+2025-06-20 00:34:18,978 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'WWP2'] 
+2025-06-20 00:34:18,978 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:34:19,038 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'HYPK'] 
+2025-06-20 00:34:19,100 - Finished with child num after mutate ['UBE2G1', 'RBX1', 'PPP2R5B', 'PSME2', 'FBXO9', 'BCL9L'] 
+2025-06-20 00:34:19,100 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:34:19,157 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SNRPF'] 
+2025-06-20 00:34:19,217 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'NKRF'] 
+2025-06-20 00:34:19,217 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:34:19,270 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SNRPD3'] 
+2025-06-20 00:34:19,452 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'E2F6'] 
+2025-06-20 00:34:19,453 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:34:19,514 - Finished with child num after mutate ['LRRC41', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'TNFSF11'] 
+2025-06-20 00:34:19,579 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'USP32'] 
+2025-06-20 00:34:19,579 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:34:19,638 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'ZER1'] 
+2025-06-20 00:34:19,723 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'EIF4A1'] 
+2025-06-20 00:34:19,723 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:34:19,794 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'PER1'] 
+2025-06-20 00:34:19,848 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'UBE2S'] 
+2025-06-20 00:34:19,849 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:34:19,905 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'FBXO30', 'RPA1'] 
+2025-06-20 00:34:19,960 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'DVL2', 'UBA1'] 
+2025-06-20 00:34:19,960 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:34:20,019 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'UBB'] 
+2025-06-20 00:34:20,075 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'CUL1', 'PPP2R5B', 'FBXO9', 'WDR33'] 
+2025-06-20 00:34:20,075 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:34:20,132 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NAE1'] 
+2025-06-20 00:34:20,209 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NDUFB4'] 
+2025-06-20 00:34:20,209 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:34:20,264 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NCBP2L'] 
+2025-06-20 00:34:20,317 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SPSB3'] 
+2025-06-20 00:34:20,317 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:34:20,370 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'PSME2', 'FBXO9', 'DVL2', 'IRS1'] 
+2025-06-20 00:34:20,424 - Finished with child num after mutate ['RBX1', 'CUL1', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'USP33'] 
+2025-06-20 00:34:20,424 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:34:20,486 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'DRAP1'] 
+2025-06-20 00:34:20,551 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'PPP2R1B'] 
+2025-06-20 00:34:20,552 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:34:20,625 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'RPS15'] 
+2025-06-20 00:34:20,698 - Finished with child num after mutate ['PPP2R1B', 'RBX1', 'PPP2R5B', 'CUL1', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'NOTCH1'] 
+2025-06-20 00:34:20,699 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:34:20,769 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'UNG'] 
+2025-06-20 00:34:20,850 - Finished with child num after mutate ['PAQR6', 'RBX1', 'CUL1', 'PPP2R5B', 'PSME2', 'DVL2'] 
+2025-06-20 00:34:20,851 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:34:20,928 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'MAGEC2'] 
+2025-06-20 00:34:20,984 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'CCNG1'] 
+2025-06-20 00:34:20,984 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:34:21,047 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'EIF4A1'] 
+2025-06-20 00:34:21,123 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SMC1B'] 
+2025-06-20 00:34:21,123 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:34:21,186 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'MGRN1'] 
+2025-06-20 00:34:21,249 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'UBXN7'] 
+2025-06-20 00:34:21,250 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:34:21,314 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'CCT8'] 
+2025-06-20 00:34:21,370 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'CREB1'] 
+2025-06-20 00:34:21,370 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:34:21,426 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'LSM7'] 
+2025-06-20 00:34:21,479 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'EFCAB8'] 
+2025-06-20 00:34:21,480 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:34:21,532 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NUDCD2'] 
+2025-06-20 00:34:21,584 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'ATRIP'] 
+2025-06-20 00:34:21,584 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:34:21,640 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'DVL2', 'STIP1'] 
+2025-06-20 00:34:21,693 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'PSME2', 'UBB', 'FBXO30', 'DVL2', 'RNF2'] 
+2025-06-20 00:34:21,693 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:34:21,746 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'AICDA'] 
+2025-06-20 00:34:21,801 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'GMNN'] 
+2025-06-20 00:34:21,801 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:34:21,855 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'GABARAPL1'] 
+2025-06-20 00:34:21,908 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'UBE2S', 'PSME2', 'FBXO9', 'GMNN', 'YWHAB'] 
+2025-06-20 00:34:21,908 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:34:21,961 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'DRAP1'] 
+2025-06-20 00:34:22,013 - Finished with child num after mutate ['RBX1', 'CUL1', 'FBXO9', 'FBXO30', 'BOLA2'] 
+2025-06-20 00:34:22,013 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:34:22,068 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'DVL2', 'LYSMD4'] 
+2025-06-20 00:34:22,131 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'PSME2', 'UBB', 'FBXO30', 'DVL2', 'LTN1'] 
+2025-06-20 00:34:22,131 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:34:22,186 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'UQCR10'] 
+2025-06-20 00:34:22,241 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'KLC3'] 
+2025-06-20 00:34:22,241 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:34:22,298 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'PPIH'] 
+2025-06-20 00:34:22,375 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SERPINB2'] 
+2025-06-20 00:34:22,375 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:34:22,439 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'HACE1'] 
+2025-06-20 00:34:22,544 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'UBE2Q1'] 
+2025-06-20 00:34:22,544 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:34:22,612 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'SMARCA1'] 
+2025-06-20 00:34:22,671 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'FBXO9', 'FBXO30', 'DVL2', 'LMO7'] 
+2025-06-20 00:34:22,671 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:34:22,732 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'LMO7', 'DVL2', 'WSB1'] 
+2025-06-20 00:34:22,813 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'PSMD12'] 
+2025-06-20 00:34:22,813 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:34:22,892 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'CHTOP'] 
+2025-06-20 00:34:22,982 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'SNRPD1'] 
+2025-06-20 00:34:22,983 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:34:23,035 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'DVL2', 'DCAF10'] 
+2025-06-20 00:34:23,088 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'GMNN', 'DVL2', 'CCNT1'] 
+2025-06-20 00:34:23,088 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:34:23,140 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'FAR1'] 
+2025-06-20 00:34:23,233 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'UBB', 'PSME2', 'FBXO30', 'PSMD12', 'DVL2'] 
+2025-06-20 00:34:23,233 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:34:23,460 - Finished with child num after mutate ['FBXO9', 'PPP2R5B', 'CUL1', 'RBX1', 'AIRE'] 
+2025-06-20 00:34:23,601 - Finished with child num after mutate ['RBX1', 'KBTBD7', 'PPP2R5B', 'HACE1', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'LIMD1'] 
+2025-06-20 00:34:23,601 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:34:23,685 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'RPL9'] 
+2025-06-20 00:34:23,757 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'SNRNP27'] 
+2025-06-20 00:34:23,758 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:34:23,811 - Finished with child num after mutate ['RBX1', 'PSMD12', 'CUL1', 'PPP2R5B', 'UBB', 'FBXO9', 'FBXO30', 'DVL2', 'UNC13A'] 
+2025-06-20 00:34:23,866 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'DVL2', 'CHRM3'] 
+2025-06-20 00:34:23,866 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:34:23,920 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'PPP2R5D'] 
+2025-06-20 00:34:23,973 - Finished with child num after mutate ['RBX1', 'PSMD12', 'CUL1', 'PPP2R5B', 'UBB', 'PSME2', 'FBXO30', 'DVL2', 'POTEI'] 
+2025-06-20 00:34:23,974 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:34:24,052 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'PPP2R5D', 'PSME2', 'UBB', 'FBXO9', 'CDK7'] 
+2025-06-20 00:34:24,121 - Finished with child num after mutate ['RBX1', 'CUL1', 'PPP2R5B', 'FBXO9', 'FBXO30', 'DVL2', 'SDCBP'] 
+2025-06-20 00:34:24,121 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:34:24,212 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'PPP2R5D', 'FBXO9', 'DVL2', 'CHD6'] 
+2025-06-20 00:34:24,308 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'HACE1', 'UBB', 'PSME2', 'FBXO30', 'DVL2', 'FBXL17'] 
+2025-06-20 00:34:24,309 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:34:24,377 - Finished with child num after mutate ['RBX1', 'PSMD12', 'CUL1', 'PPP2R5B', 'PSME2', 'FBXO30', 'DVL2', 'SKP1'] 
+2025-06-20 00:34:24,437 - Finished with child num after mutate ['PSMB6', 'RBX1', 'PPP2R5B', 'PPP2R5D', 'UBB', 'PSME2', 'FBXO9', 'DVL2', 'GEN1'] 
+2025-06-20 00:34:24,437 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:34:24,504 - Finished with child num after mutate ['PSMB6', 'RBX1', 'CUL1', 'PPP2R5B', 'PPP2R5D', 'PSME2', 'FBXO9', 'DDIT3'] 
+2025-06-20 00:34:24,566 - Finished with child num after mutate ['RBX1', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO9', 'DVL2', 'NPHP3'] 
+2025-06-20 00:34:24,566 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:34:24,638 - Finished with child num after mutate ['RBX1', 'SKP1', 'PSMD12', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO30', 'DVL2', 'GTF2H2'] 
+2025-06-20 00:34:24,703 - Finished with child num after mutate ['RBX1', 'SKP1', 'PSMD12', 'PPP2R5B', 'CUL1', 'PSME2', 'FBXO30', 'DVL2', 'NDUFA5'] 
+2025-06-20 00:34:24,703 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:34:24,704 - Run 19 COMPLETED - Fitness: 0.457605 - Size: 8 - Duration: 0:00:14.909327

@@ -1,0 +1,302 @@
+2025-06-20 00:30:55,082 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:30:55,138 - Finished with child num after mutate ['TSSK3', 'FBXW11', 'MAPK1', 'ADCY5', 'PDE3A'] 
+2025-06-20 00:30:55,192 - Finished with child num after mutate ['CANX', 'TRAF2', 'PIK3R2', 'IFITM1', 'PRKX', 'CHP', 'RAC2', 'MAPK3', 'PPP3R1', 'DFFB', 'PIK3CD', 'PPP2R5B', 'PRPS1', 'ITPR3', 'TNFRSF10B', 'POLR2F', 'PDE9A', 'IKBKB', 'SMC1B', 'ITPR2', 'TTC37', 'PIK3R1', 'SLK', 'ANAPC13', 'YWHAQ', 'SOS1', 'CANT1', 'NT5C2', 'DIS3', 'ADCY1', 'PRKAR2A', 'NRAS', 'SKP1', 'NT5C3', 'IKBKG', 'RELA', 'AMPD3', 'CD22', 'MAD2L1', 'POLR3C'] 
+2025-06-20 00:30:55,193 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:30:55,253 - Finished with child num after mutate ['RPS6KA6', 'ADCY4', 'PNPT1', 'PPP2CB', 'POLR2I', 'AKT3', 'MAPK1', 'AKAP4', 'POLR1D', 'DFFA', 'AURKA', 'AK4', 'AIFM1', 'ZCCHC7'] 
+2025-06-20 00:30:55,312 - Finished with child num after mutate ['RPS6KA6', 'ADCY4', 'PNPT1', 'PPP2CB', 'POLR2I', 'AKT3', 'MAPK1', 'MYL12B', 'POLR1D', 'DFFA', 'AURKA', 'AK4', 'AIFM1', 'ZCCHC7'] 
+2025-06-20 00:30:55,312 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:30:55,368 - Finished with child num after mutate ['FBXW11', 'TSSK3', 'MAPK1', 'ADCY5', 'NEUROG3'] 
+2025-06-20 00:30:55,424 - Finished with child num after mutate ['RPS6KA6', 'ADCY4', 'PNPT1', 'PPP2CB', 'POLR2I', 'AKT3', 'MAPK1', 'LPAR1', 'POLR1D', 'DFFA', 'AURKA', 'AK4', 'AIFM1', 'ZCCHC7'] 
+2025-06-20 00:30:55,425 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:30:55,480 - Finished with child num after mutate ['FBXW11', 'TSSK3', 'MAPK1', 'ADCY5', 'MAP3K6'] 
+2025-06-20 00:30:55,537 - Finished with child num after mutate ['FBXW11', 'CLU', 'TSSK3', 'MAPK1', 'ADCY5'] 
+2025-06-20 00:30:55,537 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:30:55,592 - Finished with child num after mutate ['STC1', 'CLU', 'TSSK3', 'MAPK1', 'ADCY5'] 
+2025-06-20 00:30:55,649 - Finished with child num after mutate ['RPS6KA6', 'MYL12B', 'PNPT1', 'ADCY4', 'PPP2CB', 'POLR2I', 'AKT3', 'MAPK1', 'POLR1D', 'ACTR2', 'AURKA', 'AK4', 'AIFM1', 'ZCCHC7'] 
+2025-06-20 00:30:55,649 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:30:55,717 - Finished with child num after mutate ['BATF3', 'CLU', 'TSSK3', 'MAPK1', 'ADCY5'] 
+2025-06-20 00:30:55,781 - Finished with child num after mutate ['FBXW11', 'TSSK3', 'MAPK1', 'ADCY5', 'PDZK1IP1'] 
+2025-06-20 00:30:55,781 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:30:55,846 - Finished with child num after mutate ['CLU', 'LMAN1', 'MAPK1', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:55,906 - Finished with child num after mutate ['CLU', 'CLTCL1', 'MAPK1', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:55,906 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:30:55,960 - Finished with child num after mutate ['CLU', 'ARID4A', 'MAPK1', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:56,021 - Finished with child num after mutate ['CLU', 'SPATA13', 'MAPK1', 'ADCY5', 'BATF3'] 
+2025-06-20 00:30:56,022 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:30:56,111 - Finished with child num after mutate ['CLU', 'RAB42', 'MAPK1', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:56,190 - Finished with child num after mutate ['CLU', 'FZD2', 'MAPK1', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:56,190 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:30:56,248 - Finished with child num after mutate ['MAPK1', 'CLU', 'AURKB', 'ADCY5'] 
+2025-06-20 00:30:56,302 - Finished with child num after mutate ['WNT16', 'CLU', 'TSSK3', 'ADCY5', 'STC1'] 
+2025-06-20 00:30:56,302 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:30:56,362 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'BATF3'] 
+2025-06-20 00:30:56,421 - Finished with child num after mutate ['CLU', 'NKRF', 'MAPK1', 'ADCY5', 'BATF3'] 
+2025-06-20 00:30:56,421 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:30:56,502 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'UBE2A'] 
+2025-06-20 00:30:56,595 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'PIK3AP1'] 
+2025-06-20 00:30:56,595 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:30:56,692 - Finished with child num after mutate ['MAPK1', 'MICAL1', 'ADCY5', 'CTSC'] 
+2025-06-20 00:30:56,782 - Finished with child num after mutate ['MAPK1', 'CLU', 'ITGA6', 'ADCY5'] 
+2025-06-20 00:30:56,782 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:30:56,869 - Finished with child num after mutate ['ARHGAP9', 'MAPK1', 'CTSC'] 
+2025-06-20 00:30:56,943 - Finished with child num after mutate ['RASD2', 'SPATA13', 'CLU', 'BATF3'] 
+2025-06-20 00:30:56,943 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:30:56,999 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSC', 'ADCY5'] 
+2025-06-20 00:30:57,053 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'CAMKK2'] 
+2025-06-20 00:30:57,053 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:30:57,107 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'SUPT20H'] 
+2025-06-20 00:30:57,165 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'HNRNPA1'] 
+2025-06-20 00:30:57,165 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:30:57,220 - Finished with child num after mutate ['CLU', 'CTSC', 'MAPK1', 'ADCY5', 'NSF'] 
+2025-06-20 00:30:57,275 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC'] 
+2025-06-20 00:30:57,275 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:30:57,342 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'TNIP1'] 
+2025-06-20 00:30:57,423 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PTPRD', 'CTSC'] 
+2025-06-20 00:30:57,424 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:30:57,473 - Finished with child num after mutate ['RAB40AL', 'CLU', 'NSF', 'CTSC'] 
+2025-06-20 00:30:57,528 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'PUM1'] 
+2025-06-20 00:30:57,528 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:30:57,582 - Finished with child num after mutate ['MAPK1', 'PUM1', 'CADPS2'] 
+2025-06-20 00:30:57,632 - Finished with child num after mutate ['NFKBIE', 'AGO2', 'YTHDC2', 'CTSC'] 
+2025-06-20 00:30:57,633 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:30:57,688 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'ARL16'] 
+2025-06-20 00:30:57,743 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'CAPSL'] 
+2025-06-20 00:30:57,743 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:30:57,797 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'HNRNPR'] 
+2025-06-20 00:30:57,853 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'APPL2', 'CTSC'] 
+2025-06-20 00:30:57,853 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:30:57,909 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'IRF8'] 
+2025-06-20 00:30:57,964 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PPP2R5B', 'CTSC'] 
+2025-06-20 00:30:57,964 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:30:58,019 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'SLC44A5', 'CTSC'] 
+2025-06-20 00:30:58,073 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'MMP1'] 
+2025-06-20 00:30:58,074 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:30:58,131 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'SUPT20H'] 
+2025-06-20 00:30:58,189 - Finished with child num after mutate ['AGO2', 'CTSC', 'NFKBIE', 'MAPK1', 'FOXB1'] 
+2025-06-20 00:30:58,189 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:30:58,244 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'BMP1'] 
+2025-06-20 00:30:58,299 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PPP2R5B', 'CTSC', 'CDK7'] 
+2025-06-20 00:30:58,299 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:30:58,354 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSC', 'CTSK'] 
+2025-06-20 00:30:58,408 - Finished with child num after mutate ['MAPK1', 'PLCB2', 'ARHGAP9'] 
+2025-06-20 00:30:58,408 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:30:58,463 - Finished with child num after mutate ['MAPK1', 'ARHGAP9', 'CTSC', 'IGFBP3'] 
+2025-06-20 00:30:58,518 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'ZHX2'] 
+2025-06-20 00:30:58,518 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:30:58,583 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PPP2R5B', 'CTSC', 'ODC1'] 
+2025-06-20 00:30:58,637 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'BAG6'] 
+2025-06-20 00:30:58,637 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:30:58,692 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'UNC5C'] 
+2025-06-20 00:30:58,747 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'E2F6'] 
+2025-06-20 00:30:58,747 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:30:58,802 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'CYP1B1'] 
+2025-06-20 00:30:58,856 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'BCR'] 
+2025-06-20 00:30:58,856 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:30:58,910 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'BAG6', 'CTSC', 'TUBB8'] 
+2025-06-20 00:30:58,967 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'BOLL'] 
+2025-06-20 00:30:58,967 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:30:59,022 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PPP2R5B', 'CTSC', 'IRS4'] 
+2025-06-20 00:30:59,079 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'PPP2R5B', 'CTSC', 'SCGB1A1'] 
+2025-06-20 00:30:59,079 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:30:59,136 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'VDAC3'] 
+2025-06-20 00:30:59,190 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'CNTF'] 
+2025-06-20 00:30:59,190 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:30:59,248 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'MTA1'] 
+2025-06-20 00:30:59,304 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'AGO2', 'CTSC', 'GNG8'] 
+2025-06-20 00:30:59,304 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:30:59,358 - Finished with child num after mutate ['CX3CR1', 'MAPK1', 'PPP2R5B', 'CTSK'] 
+2025-06-20 00:30:59,414 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSC', 'ANKRD53'] 
+2025-06-20 00:30:59,414 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:30:59,468 - Finished with child num after mutate ['MAPK1', 'CTSK', 'GPX1', 'CTSC'] 
+2025-06-20 00:30:59,523 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'IGFBP3', 'CTSC', 'NOG'] 
+2025-06-20 00:30:59,523 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:30:59,577 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'MMP9'] 
+2025-06-20 00:30:59,631 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'MUC4'] 
+2025-06-20 00:30:59,631 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:30:59,685 - Finished with child num after mutate ['CTSC', 'MAPK1', 'GPX1', 'CTSK', 'MYL12A'] 
+2025-06-20 00:30:59,739 - Finished with child num after mutate ['CTSC', 'MAPK1', 'GPX1', 'CTSK', 'ACTR2'] 
+2025-06-20 00:30:59,739 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:30:59,793 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'DAZL'] 
+2025-06-20 00:30:59,848 - Finished with child num after mutate ['CTSK', 'CTSC', 'MAPK1', 'ACTR2', 'ADAM15'] 
+2025-06-20 00:30:59,848 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:30:59,902 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSC', 'IGFBP2'] 
+2025-06-20 00:30:59,957 - Finished with child num after mutate ['MAPK1', 'RAD1', 'CTSK'] 
+2025-06-20 00:30:59,957 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:31:00,011 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'PRKAR2A'] 
+2025-06-20 00:31:00,067 - Finished with child num after mutate ['CTSC', 'MAPK1', 'GPX1', 'CTSK', 'ITGAX'] 
+2025-06-20 00:31:00,067 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:31:00,123 - Finished with child num after mutate ['CTSK', 'CTSC', 'MAPK1', 'ACTR2', 'ANKRD53'] 
+2025-06-20 00:31:00,179 - Finished with child num after mutate ['CTSK', 'CTSC', 'MAPK1', 'ACTR2', 'HNF4G'] 
+2025-06-20 00:31:00,179 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:31:00,236 - Finished with child num after mutate ['CTSC', 'CTSK', 'MAPK1', 'ACTR2', 'UBE2T'] 
+2025-06-20 00:31:00,291 - Finished with child num after mutate ['CTSC', 'CTSK', 'MAPK1', 'ACTR2', 'LDLR'] 
+2025-06-20 00:31:00,291 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:31:00,346 - Finished with child num after mutate ['MAPK1', 'CTSK', 'ACTR2', 'CTSC', 'KIDINS220'] 
+2025-06-20 00:31:00,398 - Finished with child num after mutate ['CTSK', 'KMT2C', 'CTSC', 'ACTR2', 'GPX1'] 
+2025-06-20 00:31:00,398 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:31:00,450 - Finished with child num after mutate ['CTSK', 'CST3', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:00,504 - Finished with child num after mutate ['LDLR', 'MAPK1', 'ACTR2', 'CTSC', 'CBX1'] 
+2025-06-20 00:31:00,504 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:31:00,558 - Finished with child num after mutate ['NFKBIE', 'MAPK1', 'CTSK', 'CTSC', 'BCL6'] 
+2025-06-20 00:31:00,612 - Finished with child num after mutate ['CTSK', 'CTSC', 'MAPK1', 'ACTR2', 'CSNK1G2'] 
+2025-06-20 00:31:00,612 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:31:00,667 - Finished with child num after mutate ['MAPK1', 'GPX1', 'ACTR2', 'CTSC', 'RASA3'] 
+2025-06-20 00:31:00,722 - Finished with child num after mutate ['LDLR', 'MAPK1', 'CTSK', 'CTSC', 'ACTR1A'] 
+2025-06-20 00:31:00,722 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:31:00,774 - Finished with child num after mutate ['CTSK', 'DNAJC3', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:00,828 - Finished with child num after mutate ['MAPK1', 'GPX1', 'CTSC', 'CLHC1'] 
+2025-06-20 00:31:00,828 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:31:00,889 - Finished with child num after mutate ['CTSK', 'CPM', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:00,965 - Finished with child num after mutate ['LDLR', 'MAPK1', 'ACTR2', 'CTSC', 'IL6'] 
+2025-06-20 00:31:00,965 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:31:01,049 - Finished with child num after mutate ['CTSK', 'SULF1', 'MAPK1', 'CTSC', 'ACTR2'] 
+2025-06-20 00:31:01,131 - Finished with child num after mutate ['CTSC', 'SREBF2', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,131 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:31:01,228 - Finished with child num after mutate ['CTSC', 'UBE2W', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,283 - Finished with child num after mutate ['CTSC', 'PDXK', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,283 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:31:01,339 - Finished with child num after mutate ['CTSC', 'TANC1', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,395 - Finished with child num after mutate ['CTSC', 'ITGA9', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,395 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:31:01,452 - Finished with child num after mutate ['APP', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,509 - Finished with child num after mutate ['HIPK3', 'ACTR2', 'MAPK1', 'CTSC'] 
+2025-06-20 00:31:01,509 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:31:01,566 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'S1PR4'] 
+2025-06-20 00:31:01,621 - Finished with child num after mutate ['CTSC', 'LDLR', 'CTSE', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,621 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:31:01,677 - Finished with child num after mutate ['ITGA5', 'MAPK1', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:01,735 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'AMHR2'] 
+2025-06-20 00:31:01,735 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:31:01,797 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'THRA'] 
+2025-06-20 00:31:01,853 - Finished with child num after mutate ['MAPK8', 'CTSC', 'LDLR', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:01,853 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:31:01,908 - Finished with child num after mutate ['CTSC', 'MAPK1', 'CTSK', 'PAK3'] 
+2025-06-20 00:31:01,964 - Finished with child num after mutate ['LDLR', 'MAPK1', 'ACTR2', 'CTSC', 'LEMD3'] 
+2025-06-20 00:31:01,964 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:31:02,023 - Finished with child num after mutate ['CARD8', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:02,090 - Finished with child num after mutate ['TGFBR2', 'ACTR2', 'MAPK1', 'CTSC'] 
+2025-06-20 00:31:02,090 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:31:02,163 - Finished with child num after mutate ['MAPK1', 'CTSK', 'ACTR2', 'CTSC', 'EVL'] 
+2025-06-20 00:31:02,234 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'RIT1'] 
+2025-06-20 00:31:02,234 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:31:02,321 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'ADCY5'] 
+2025-06-20 00:31:02,389 - Finished with child num after mutate ['CTSC', 'KLHL24', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:02,389 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:31:02,452 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'DOCK5', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:02,515 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'TSPYL1'] 
+2025-06-20 00:31:02,515 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:31:02,576 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'CRH'] 
+2025-06-20 00:31:02,637 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'BCR'] 
+2025-06-20 00:31:02,637 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:31:02,694 - Finished with child num after mutate ['S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'RASL10B'] 
+2025-06-20 00:31:02,750 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'ADCY5', 'ACTR2', 'MMP2'] 
+2025-06-20 00:31:02,750 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:31:02,806 - Finished with child num after mutate ['LRBA', 'MAPK1', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:02,860 - Finished with child num after mutate ['MARCO', 'IL6', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:02,860 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:31:02,921 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'DYNLL2'] 
+2025-06-20 00:31:02,980 - Finished with child num after mutate ['CTSC', 'MAPK1', 'ACTR2', 'PHACTR1'] 
+2025-06-20 00:31:02,980 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:31:03,041 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'GLRX', 'CTSC'] 
+2025-06-20 00:31:03,098 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'KCNAB1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:03,098 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:31:03,167 - Finished with child num after mutate ['CTSC', 'MAPK1', 'ACTR2', 'APOE'] 
+2025-06-20 00:31:03,249 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'PPIB'] 
+2025-06-20 00:31:03,249 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:31:03,321 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'SENP1'] 
+2025-06-20 00:31:03,379 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'MT1M'] 
+2025-06-20 00:31:03,379 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:31:03,439 - Finished with child num after mutate ['LDLR', 'MAPK1', 'ACTR2', 'CTSC', 'FGFR2'] 
+2025-06-20 00:31:03,500 - Finished with child num after mutate ['ALPP', 'APOE', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:03,500 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:31:03,570 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'MT1F'] 
+2025-06-20 00:31:03,665 - Finished with child num after mutate ['CTSC', 'FUCA1', 'MAPK1', 'IL6', 'ACTR2'] 
+2025-06-20 00:31:03,665 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:31:03,744 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'TES'] 
+2025-06-20 00:31:03,804 - Finished with child num after mutate ['CTSC', 'VCAM1', 'MAPK1', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:03,804 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:31:03,897 - Finished with child num after mutate ['GLRX', 'CTSC', 'MAPK1', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:03,983 - Finished with child num after mutate ['LIN28A', 'CTSC', 'MAPK1', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:03,983 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:31:04,079 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'STK40'] 
+2025-06-20 00:31:04,160 - Finished with child num after mutate ['FUCA1', 'FADS2', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:04,160 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:31:04,221 - Finished with child num after mutate ['CTSC', 'MAPK1', 'ACTR2', 'FUCA1', 'ATF1'] 
+2025-06-20 00:31:04,285 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'FIG4'] 
+2025-06-20 00:31:04,285 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:31:04,343 - Finished with child num after mutate ['ACTR2', 'TRIP13', 'CTSC'] 
+2025-06-20 00:31:04,400 - Finished with child num after mutate ['MAPK1', 'APOE', 'CTSC', 'BRK1'] 
+2025-06-20 00:31:04,400 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:31:04,455 - Finished with child num after mutate ['PIGG', 'CTSC', 'MAPK1', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:04,517 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'ITGAX'] 
+2025-06-20 00:31:04,518 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:31:04,570 - Finished with child num after mutate ['APOE', 'ACTR2', 'NAA11', 'CTSC'] 
+2025-06-20 00:31:04,627 - Finished with child num after mutate ['FUCA1', 'MAPK1', 'ACTR2', 'CTSC', 'MYH11'] 
+2025-06-20 00:31:04,627 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:31:04,695 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'HERC3', 'FUCA1'] 
+2025-06-20 00:31:04,791 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'COL4A2'] 
+2025-06-20 00:31:04,791 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:31:04,864 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'WDFY2'] 
+2025-06-20 00:31:04,969 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'ZBTB16'] 
+2025-06-20 00:31:04,970 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:31:05,033 - Finished with child num after mutate ['FUCA1', 'PLSCR2', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:05,099 - Finished with child num after mutate ['MAPK1', 'APOE', 'CTSC', 'CLHC1'] 
+2025-06-20 00:31:05,100 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:31:05,166 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'SEMA3D'] 
+2025-06-20 00:31:05,234 - Finished with child num after mutate ['S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'FGF17'] 
+2025-06-20 00:31:05,234 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:31:05,301 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'FZD1'] 
+2025-06-20 00:31:05,429 - Finished with child num after mutate ['RHBDF2', 'CTSC', 'MAPK1', 'APOE', 'FUCA1'] 
+2025-06-20 00:31:05,430 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:31:05,491 - Finished with child num after mutate ['ZNF185', 'CTSC', 'MAPK1', 'APOE', 'FUCA1'] 
+2025-06-20 00:31:05,552 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'PGS1'] 
+2025-06-20 00:31:05,552 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:31:05,612 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'MALT1', 'CTSC'] 
+2025-06-20 00:31:05,672 - Finished with child num after mutate ['CTSC', 'S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'ARL3'] 
+2025-06-20 00:31:05,672 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:31:05,743 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'ALPK1'] 
+2025-06-20 00:31:05,804 - Finished with child num after mutate ['PTPRF', 'CTSC', 'MAPK1', 'APOE', 'FUCA1'] 
+2025-06-20 00:31:05,804 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:31:05,865 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'THRA'] 
+2025-06-20 00:31:05,926 - Finished with child num after mutate ['S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'RBM23'] 
+2025-06-20 00:31:05,926 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:31:05,987 - Finished with child num after mutate ['MAPK1', 'MALT1', 'APOE', 'CTSC', 'ZNF384'] 
+2025-06-20 00:31:06,044 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'CD274'] 
+2025-06-20 00:31:06,044 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:31:06,102 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'ZAP70', 'CTSC'] 
+2025-06-20 00:31:06,182 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'CAP1'] 
+2025-06-20 00:31:06,182 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:31:06,249 - Finished with child num after mutate ['MAPK1', 'MALT1', 'ACTR2', 'CTSC', 'CHAT'] 
+2025-06-20 00:31:06,337 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'RIT2'] 
+2025-06-20 00:31:06,337 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:31:06,397 - Finished with child num after mutate ['KANK4', 'CTSC', 'S1PR4', 'MAPK1', 'IL6'] 
+2025-06-20 00:31:06,453 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'CTSC', 'CIT'] 
+2025-06-20 00:31:06,453 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:31:06,509 - Finished with child num after mutate ['FUCA1', 'MAPK1', 'VCAM1', 'CTSC', 'MAP4K1'] 
+2025-06-20 00:31:06,565 - Finished with child num after mutate ['S1PR4', 'MAPK1', 'IL6', 'ACTR2', 'AK2'] 
+2025-06-20 00:31:06,565 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:31:06,622 - Finished with child num after mutate ['FUCA1', 'MAPK1', 'IL6', 'CTSC', 'ARHGAP9'] 
+2025-06-20 00:31:06,678 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'CAP1', 'GRP'] 
+2025-06-20 00:31:06,678 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:31:06,735 - Finished with child num after mutate ['MAPK1', 'ACTR2', 'VCAM1', 'CTSC', 'RALYL'] 
+2025-06-20 00:31:06,789 - Finished with child num after mutate ['FUCA1', 'MAPK1', 'IL6', 'CTSC', 'CCDC124'] 
+2025-06-20 00:31:06,789 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:31:06,845 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'RUNX1T1'] 
+2025-06-20 00:31:06,901 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'SLC9A5'] 
+2025-06-20 00:31:06,901 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:31:06,956 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'FAM114A2'] 
+2025-06-20 00:31:07,011 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'HSP90AB1'] 
+2025-06-20 00:31:07,011 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:31:07,066 - Finished with child num after mutate ['CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'MOS'] 
+2025-06-20 00:31:07,122 - Finished with child num after mutate ['MAPK1', 'APOE', 'ACTR2', 'CTSC', 'BAG1'] 
+2025-06-20 00:31:07,123 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:31:07,180 - Finished with child num after mutate ['FUCA1', 'SCFD1', 'ACTR2', 'CTSC'] 
+2025-06-20 00:31:07,237 - Finished with child num after mutate ['MAPK1', 'APOE', 'CTSC', 'PTGER3'] 
+2025-06-20 00:31:07,237 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:31:07,298 - Finished with child num after mutate ['PRTN3', 'CTSC', 'MAPK1', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:07,354 - Finished with child num after mutate ['CAP1', 'CTSC', 'MAPK1', 'IL6', 'ACTR2', 'FUCA1', 'UBC'] 
+2025-06-20 00:31:07,354 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:31:07,410 - Finished with child num after mutate ['MAPK1', 'IL6', 'ACTR2', 'CTSC', 'THRA'] 
+2025-06-20 00:31:07,465 - Finished with child num after mutate ['CTSC', 'MAPK1', 'MUC4', 'ACTR2', 'FUCA1'] 
+2025-06-20 00:31:07,465 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:31:07,465 - Run 6 COMPLETED - Fitness: 0.452402 - Size: 5 - Duration: 0:00:14.226246

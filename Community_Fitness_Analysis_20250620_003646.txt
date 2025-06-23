@@ -1,0 +1,14 @@
+GENETIC ALGORITHM FITNESS ANALYSIS REPORT
+================================================================================
+Analysis Date: 2025-06-20 00:36:46
+Community: IRF1, TGFB1, MAPK1, MAPK12, JUN, MEF2C, STAT6, INS, ROCK2
+Size: 9 genes
+
+FITNESS RESULTS:
+----------------------------------------
+Average Interaction: 0.294222
+Average Similarity:  0.360102
+Final Fitness:       0.327162
+
+PAIR-BY-PAIR BREAKDOWN:
+----------------------------------------

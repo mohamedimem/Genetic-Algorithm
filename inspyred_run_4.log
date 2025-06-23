@@ -1,0 +1,302 @@
+2025-06-20 00:30:27,867 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:30:27,936 - Finished with child num after mutate ['CCND2', 'STAG3', 'POLR2D', 'ADCY3', 'ENPP1', 'AKT3', 'ANAPC10', 'PRPS1L1', 'MAPK12', 'PIK3R3', 'POLR1B', 'NFKBIA', 'NME6', 'CNOT2', 'CD19', 'ENO3', 'RPS6KA1', 'PAICS', 'RPS6KA6', 'PPP2R1B', 'NUDT5', 'PIK3CB', 'NFKB1', 'DCK', 'EXOSC8', 'PPP3CA', 'PPP2R1A'] 
+2025-06-20 00:30:28,025 - Finished with child num after mutate ['CDK1', 'ADCY10', 'CCNB2', 'PPP3R1', 'PIK3CD', 'PPP2R5B', 'IL3', 'ANAPC10', 'ADCY5', 'PRKACA', 'PIK3R1', 'ALLC', 'PARN', 'NT5C', 'BCL2', 'AK4', 'RASGRP3', 'CD22', 'ADCY6', 'EXOSC8', 'ENTPD6', 'CALML3'] 
+2025-06-20 00:30:28,025 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:30:28,080 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'TSSK6', 'LSM3', 'AR', 'PPP1CC', 'PIK3CD', 'NT5C3', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10'] 
+2025-06-20 00:30:28,131 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'ASB7', 'LSM3', 'AR', 'PPP1CC', 'PIK3CD', 'NT5C3', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10'] 
+2025-06-20 00:30:28,132 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:30:28,184 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'NME6', 'AR', 'PPP1CC', 'PIK3CD', 'NT5C3', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,236 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PPP1CC', 'PIK3CD', 'NT5C3', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,236 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:30:28,288 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,338 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'FHDC1', 'PPP1CC', 'PIK3CD', 'NT5C3', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,338 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:30:28,389 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'SRSF1', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,440 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PPP1CC', 'PIK3CD', 'BCR', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,440 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:30:28,491 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'FHDC1', 'PPP1CC', 'PIK3CD', 'ZNF33A', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,544 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PPP1CC', 'PIK3CD', 'BCR', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'CNN3', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,544 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:30:28,595 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'CDYL', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,646 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'FHDC1', 'PPP1CC', 'PIK3CD', 'ZNF33A', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'ERN2', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,647 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:30:28,729 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'CANX', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,830 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'ZNF512B', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:28,830 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:30:28,925 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PPP1CC', 'PIK3CD', 'TEC', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'POLR2K', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,021 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'CDC37', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,022 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:30:29,108 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'BAD', 'PPCDC', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,196 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'SPEG', 'PRKAR1B', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,196 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:30:29,299 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'BAD', 'ITGB2', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,388 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'BAD', 'GNGT1', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,388 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:30:29,475 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'PRKX', 'MAPK12', 'BAD', 'TXNDC2', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,576 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'NKPD1', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,577 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:30:29,644 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3CD', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'BAD', 'GNG13', 'TNFSF10', 'TSSK6'] 
+2025-06-20 00:30:29,705 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'DUSP8', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'BAD', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,705 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:30:29,763 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'PNPLA7', 'DUSP8', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,815 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'SMYD5', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,815 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:30:29,865 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'RAB12', 'DUSP8', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,917 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:29,917 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:30:29,969 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'MELK', 'DUSP8', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,023 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'MAD2L1BP', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,023 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:30:30,075 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'SMG1', 'AR', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,126 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIK3C2B', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'DUSP8', 'SLC9A2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,126 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:30:30,179 - Finished with child num after mutate ['UBE2C', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'SMG1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,229 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'MELK', 'AR', 'GNAT3', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'DUSP8', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,229 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:30:30,280 - Finished with child num after mutate ['PCBP3', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'SMG1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,331 - Finished with child num after mutate ['PTPN6', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,331 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:30:30,382 - Finished with child num after mutate ['FLI1', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'SMG1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,432 - Finished with child num after mutate ['LIMS2', 'DUSP7', 'FOS', 'PDE4D', 'AR', 'SMG1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,432 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:30:30,482 - Finished with child num after mutate ['DLG3', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,580 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'AR', 'SMG1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'LIMS2', 'GRIN1', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,581 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:30:30,638 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'RASGRF2', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SPEG', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,689 - Finished with child num after mutate ['RIOK1', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,690 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:30:30,741 - Finished with child num after mutate ['IKBKE', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,791 - Finished with child num after mutate ['TAB2', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,791 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:30:30,842 - Finished with child num after mutate ['SGTA', 'FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'SPEG', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,892 - Finished with child num after mutate ['FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'IKBKE', 'MAPK12', 'TNFSF10', 'ARID4A', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,892 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:30:30,946 - Finished with child num after mutate ['FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'IKBKE', 'MAPK12', 'TNFSF10', 'DIRAS1', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,996 - Finished with child num after mutate ['FOS', 'PDE4D', 'DUSP7', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'IKBKE', 'MAPK12', 'TNFSF10', 'BCL6', 'AGAP2', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:30,996 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:30:31,050 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'ZNF280A', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,101 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'AR', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'TONSL', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,101 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:30:31,153 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'PIK3C2G', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,203 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'AR', 'SGTA', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'HSF1', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,203 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:30:31,254 - Finished with child num after mutate ['DUSP7', 'FOS', 'ANKRD54', 'AR', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'HSF1', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,305 - Finished with child num after mutate ['DUSP7', 'FOS', 'GCAT', 'AR', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'HSF1', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,305 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:30:31,355 - Finished with child num after mutate ['ANKRD54', 'DUSP7', 'FOS', 'AR', 'SGTA', 'POLR3A', 'NFKBID', 'CDC37', 'PRKX', 'MAPK12', 'HSF1', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,406 - Finished with child num after mutate ['ANKRD54', 'DUSP7', 'FOS', 'AR', 'SGTA', 'POLR3A', 'ADCY3', 'CDC37', 'PRKX', 'MAPK12', 'HSF1', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,406 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:30:31,456 - Finished with child num after mutate ['ANKRD54', 'DUSP7', 'FOS', 'AR', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'ANKRD29', 'HSF1', 'AGAP2', 'TNFSF10', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,507 - Finished with child num after mutate ['DUSP7', 'FOS', 'PCBP1', 'AR', 'SGTA', 'PIH1D1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,507 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:30:31,557 - Finished with child num after mutate ['DUSP7', 'FOS', 'ATP2C2', 'AR', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'HSF1', 'ITGB2', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,608 - Finished with child num after mutate ['DUSP7', 'FOS', 'PDE4D', 'AR', 'SGTA', 'PIH1D1', 'POLR3A', 'NT5C', 'GNG5', 'CDC37', 'PRKX', 'MAPK12', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,608 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:30:31,658 - Finished with child num after mutate ['DUSP7', 'FOS', 'AR', 'PIH1D1', 'PCBP1', 'POLR3A', 'LMNTD2', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,709 - Finished with child num after mutate ['ANKRD54', 'DUSP7', 'FOS', 'AR', 'POLR3A', 'ERBB4', 'CDC37', 'PRKX', 'MAPK12', 'HSF1', 'AGAP2', 'TNFSF10', 'TSSK6', 'ITGB2'] 
+2025-06-20 00:30:31,709 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:30:31,760 - Finished with child num after mutate ['DUSP7', 'FOS', 'AR', 'PIH1D1', 'PCBP1', 'POLR3A', 'NT5C', 'CDC37', 'PRKX', 'MAPK12', 'PRKG1', 'AGAP2', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:31,811 - Finished with child num after mutate ['DUSP7', 'FOS', 'CCNG1', 'AR', 'PIH1D1', 'PCBP1', 'POLR3A', 'CDC37', 'PRKX', 'MAPK12', 'AGAP2', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:31,811 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:30:31,862 - Finished with child num after mutate ['SOX9', 'FOS', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'POLR3A', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'AGAP2', 'SGTA'] 
+2025-06-20 00:30:31,913 - Finished with child num after mutate ['CDK9', 'FOS', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'POLR3A', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'AGAP2', 'SGTA'] 
+2025-06-20 00:30:31,913 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:30:31,966 - Finished with child num after mutate ['FOS', 'CDK9', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'BCL6', 'CDC37', 'PRKX', 'MAPK12', 'AGAP2', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,020 - Finished with child num after mutate ['DUSP7', 'FOS', 'TEAD1', 'AR', 'PIH1D1', 'PCBP1', 'POLR3A', 'CDC37', 'PRKX', 'MAPK12', 'AGAP2', 'TNFSF10', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:32,021 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:30:32,072 - Finished with child num after mutate ['DUSP7', 'FOS', 'AR', 'PIH1D1', 'PCBP1', 'POLR3A', 'NT5C', 'PRKG1', 'CDC37', 'PRKX', 'MAPK12', 'MAPRE3', 'TSSK6', 'SGTA'] 
+2025-06-20 00:30:32,121 - Finished with child num after mutate ['FOS', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'PIK3CG', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'AGAP2', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,122 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:30:32,173 - Finished with child num after mutate ['FOS', 'PIK3CG', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SOX9', 'MYLK2', 'SGTA'] 
+2025-06-20 00:30:32,225 - Finished with child num after mutate ['FOS', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'SOX1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'AGAP2', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,225 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:30:32,277 - Finished with child num after mutate ['FOS', 'CDK9', 'BCL6', 'PIH1D1', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'ARL6', 'SGTA'] 
+2025-06-20 00:30:32,329 - Finished with child num after mutate ['PIK3CG', 'FOS', 'AR', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SOX9', 'ANKRD50', 'SGTA'] 
+2025-06-20 00:30:32,329 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:30:32,380 - Finished with child num after mutate ['PIK3CG', 'FOS', 'AR', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'LRRK1', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,431 - Finished with child num after mutate ['FOS', 'CDK9', 'BCL6', 'PIH1D1', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TC2N', 'SOX9', 'SGTA'] 
+2025-06-20 00:30:32,431 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:30:32,481 - Finished with child num after mutate ['PIK3CG', 'FOS', 'AR', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'CAPN9', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,531 - Finished with child num after mutate ['FOS', 'PIK3CG', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'IKZF5', 'SOX9', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,531 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:30:32,581 - Finished with child num after mutate ['PIK3CG', 'FOS', 'AR', 'EGFR', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,632 - Finished with child num after mutate ['FOS', 'PIK3CG', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'TBX3', 'AGAP2', 'SGTA'] 
+2025-06-20 00:30:32,633 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:30:32,683 - Finished with child num after mutate ['AGAP1', 'FOS', 'AR', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,733 - Finished with child num after mutate ['PIK3CG', 'FOS', 'AR', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'GNAT2', 'SOX9', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,733 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:30:32,784 - Finished with child num after mutate ['FOS', 'AR', 'PIH1D1', 'CCNG1', 'PCBP1', 'POLR3A', 'CDC37', 'PCDHGA8', 'SOX9', 'AGAP2', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:32,834 - Finished with child num after mutate ['FOS', 'AR', 'PCBP1', 'ELK3', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:32,834 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:30:32,885 - Finished with child num after mutate ['FOS', 'AR', 'PCBP1', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'HIPK3'] 
+2025-06-20 00:30:32,936 - Finished with child num after mutate ['CDKN2C', 'FOS', 'AR', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:32,936 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:30:32,987 - Finished with child num after mutate ['FOS', 'AR', 'PDK3', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,041 - Finished with child num after mutate ['FOS', 'AR', 'PLCD4', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,041 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:30:33,091 - Finished with child num after mutate ['FOS', 'AR', 'MAP3K19', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,142 - Finished with child num after mutate ['FOS', 'AR', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA', 'PIAS2'] 
+2025-06-20 00:30:33,142 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:30:33,193 - Finished with child num after mutate ['FOS', 'AR', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA', 'SOX1'] 
+2025-06-20 00:30:33,243 - Finished with child num after mutate ['FOS', 'AR', 'BMPR1B', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,243 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:30:33,293 - Finished with child num after mutate ['PIK3CG', 'FOS', 'RABL2A', 'AR', 'CCNG1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:33,343 - Finished with child num after mutate ['PIK3CG', 'FOS', 'LRRK1', 'AR', 'NKPD1', 'PCBP1', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'TNFSF10', 'SGTA'] 
+2025-06-20 00:30:33,343 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:30:33,394 - Finished with child num after mutate ['FOS', 'AR', 'NOX3', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,444 - Finished with child num after mutate ['FOS', 'AR', 'GNAQ', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,445 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:30:33,495 - Finished with child num after mutate ['FOS', 'AR', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA', 'PPP1CA'] 
+2025-06-20 00:30:33,545 - Finished with child num after mutate ['FOS', 'AR', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'ATF7', 'SGTA'] 
+2025-06-20 00:30:33,545 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:30:33,595 - Finished with child num after mutate ['FOS', 'AR', 'PFDN2', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,645 - Finished with child num after mutate ['FOS', 'AR', 'ATP2B1', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,645 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:30:33,695 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,748 - Finished with child num after mutate ['FOS', 'AR', 'RASD2', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,748 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:30:33,800 - Finished with child num after mutate ['MCM5', 'FOS', 'AR', 'CDC37', 'ELK3', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,850 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'CDC37', 'ELK3', 'TUBA3D', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,850 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:30:33,903 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'HUWE1', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,953 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'TRIM23', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:33,953 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:30:34,009 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,061 - Finished with child num after mutate ['FOS', 'AR', 'AGFG1', 'TCF3', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,062 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:30:34,112 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'RRAD', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,163 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'CDC37', 'ELK3', 'TUBD1', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,163 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:30:34,214 - Finished with child num after mutate ['FOS', 'AR', 'TCF3', 'CDC37', 'ELK3', 'ZNF789', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,264 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'NEK4', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,264 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:30:34,315 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'ACTN2', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,364 - Finished with child num after mutate ['FOS', 'AR', 'HDAC1', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,364 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:30:34,415 - Finished with child num after mutate ['PDGFRL', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,465 - Finished with child num after mutate ['ADAP2', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,465 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:30:34,516 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'HDAC7', 'ELK3', 'SUGT1', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,567 - Finished with child num after mutate ['AURKC', 'AR', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,567 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:30:34,618 - Finished with child num after mutate ['FOS', 'AR', 'DYRK3', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,669 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'DUSP23', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,669 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:30:34,719 - Finished with child num after mutate ['AR', 'PSTPIP2', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,774 - Finished with child num after mutate ['MYH3', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,774 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:30:34,840 - Finished with child num after mutate ['AR', 'CEP78', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,899 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'RALGPS1', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:34,899 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:30:34,957 - Finished with child num after mutate ['DNAJC6', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,011 - Finished with child num after mutate ['TYK2', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,011 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:30:35,064 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'RBM34', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,116 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'THBS4', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,116 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:30:35,170 - Finished with child num after mutate ['FOS', 'GNG4', 'AR', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,267 - Finished with child num after mutate ['FOS', 'AR', 'MRPS23', 'HDAC7', 'CDC37', 'PRKX', 'MAPK12', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,268 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:30:35,326 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'JAK1', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,384 - Finished with child num after mutate ['CAMK2A', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,384 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:30:35,434 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'AFF4', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,485 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'FES', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,486 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:30:35,537 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'ARL5C', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,595 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'DUSP3', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,595 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:30:35,653 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'MYO5A', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,713 - Finished with child num after mutate ['CSNK1A1L', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,713 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:30:35,765 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'BRD4', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,815 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'TYRO3', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,815 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:30:35,865 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'RIPK4', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,916 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'TYK2', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:35,916 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:30:35,972 - Finished with child num after mutate ['SLC2A8', 'AR', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,044 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'HDAC7', 'ELK3', 'ADAP1', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,044 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:30:36,103 - Finished with child num after mutate ['SH3BP5', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,155 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'CDK7', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,156 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:30:36,206 - Finished with child num after mutate ['ZNF236', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,265 - Finished with child num after mutate ['SOX6', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,265 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:30:36,326 - Finished with child num after mutate ['FOS', 'SOX9', 'AR', 'CDC37', 'ELK3', 'PPP1R27', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,384 - Finished with child num after mutate ['RRAS', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,385 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:30:36,435 - Finished with child num after mutate ['AR', 'AKT1', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,485 - Finished with child num after mutate ['AR', 'PSMC6', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,485 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:30:36,535 - Finished with child num after mutate ['AR', 'HDAC7', 'BIN1', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,585 - Finished with child num after mutate ['AR', 'HDAC7', 'KCNK6', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,585 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:30:36,637 - Finished with child num after mutate ['MAPT', 'AR', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,695 - Finished with child num after mutate ['AR', 'HDAC7', 'CHUK', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,695 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:30:36,756 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'CCNE1', 'SGTA'] 
+2025-06-20 00:30:36,811 - Finished with child num after mutate ['AR', 'HDAC7', 'CIC', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,811 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:30:36,863 - Finished with child num after mutate ['AR', 'HDAC7', 'TP53', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,915 - Finished with child num after mutate ['AR', 'CCNI', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:36,915 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:30:36,965 - Finished with child num after mutate ['AR', 'HDAC7', 'SMYD2', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,016 - Finished with child num after mutate ['AR', 'BMPR1B', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,016 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:30:37,071 - Finished with child num after mutate ['FOS', 'CDK7', 'ARF4', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,121 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'DUSP5', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,121 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:30:37,177 - Finished with child num after mutate ['FOS', 'CDK7', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'PRKCH', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:37,254 - Finished with child num after mutate ['AR', 'GSR', 'HDAC7', 'CDC37', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR'] 
+2025-06-20 00:30:37,255 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:30:37,331 - Finished with child num after mutate ['FOS', 'CDK7', 'POU3F1', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:37,383 - Finished with child num after mutate ['AR', 'HDAC7', 'CHEK1', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,384 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:30:37,444 - Finished with child num after mutate ['AR', 'HDAC7', 'TADA2B', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,499 - Finished with child num after mutate ['FOS', 'CDK7', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'BUB1B', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,499 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:30:37,555 - Finished with child num after mutate ['AR', 'HDAC7', 'SMYD1', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,612 - Finished with child num after mutate ['FOS', 'CDK7', 'CEP55', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:37,613 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:30:37,669 - Finished with child num after mutate ['AR', 'HDAC7', 'ANK2', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,725 - Finished with child num after mutate ['FOS', 'CDK7', 'BPGM', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:37,725 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:30:37,777 - Finished with child num after mutate ['FOS', 'CDK7', 'NLN', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:37,835 - Finished with child num after mutate ['AR', 'HDAC7', 'BRD2', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,836 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:30:37,900 - Finished with child num after mutate ['AR', 'HDAC7', 'E2F6', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:37,960 - Finished with child num after mutate ['FOS', 'CDK7', 'PRKCH', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'TESC', 'SGTA'] 
+2025-06-20 00:30:37,960 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:30:38,022 - Finished with child num after mutate ['AR', 'HDAC7', 'COX5B', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,079 - Finished with child num after mutate ['FOS', 'CDK7', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'PLCL1', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,079 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:30:38,137 - Finished with child num after mutate ['FOS', 'CDK7', 'CDC37', 'ELK3', 'MAPK12', 'KIF5C', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,209 - Finished with child num after mutate ['AR', 'HDAC7', 'NUDT12', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,209 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:30:38,300 - Finished with child num after mutate ['FOS', 'CDK7', 'PTPRC', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:38,386 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'INA', 'SGTA'] 
+2025-06-20 00:30:38,386 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:30:38,476 - Finished with child num after mutate ['AR', 'HDAC7', 'PATZ1', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,571 - Finished with child num after mutate ['AR', 'HDAC7', 'TSPYL4', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,571 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:30:38,699 - Finished with child num after mutate ['TBX19', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'SOX9', 'EGFR', 'BRD2', 'SGTA'] 
+2025-06-20 00:30:38,752 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'PPP6C', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,752 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:30:38,805 - Finished with child num after mutate ['FOS', 'EPHA3', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:38,857 - Finished with child num after mutate ['HDLBP', 'AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,858 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:30:38,910 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'MAPK12', 'HDAC1', 'KDM6B', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,963 - Finished with child num after mutate ['FOS', 'CDK7', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'HSF4', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:38,963 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:30:39,018 - Finished with child num after mutate ['FOS', 'CDK7', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'MAPRE3', 'RASD2', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:39,083 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'ELK3', 'MAPK12', 'HDAC1', 'SOX9', 'EGFR', 'SPATA5L1', 'SGTA'] 
+2025-06-20 00:30:39,083 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:30:39,146 - Finished with child num after mutate ['ISOC1', 'AR', 'CDC37', 'MAPK12', 'HDAC1', 'KDM6B', 'SOX9', 'EGFR', 'SGTA'] 
+2025-06-20 00:30:39,207 - Finished with child num after mutate ['FOS', 'PRKCH', 'DUSP6', 'AKT1', 'CDC37', 'ELK3', 'MAPK12', 'RASD2', 'SGTA'] 
+2025-06-20 00:30:39,208 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:30:39,259 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'MAPK12', 'HDAC1', 'KDM6B', 'SOX9', 'CIB4', 'SGTA'] 
+2025-06-20 00:30:39,311 - Finished with child num after mutate ['AR', 'HDAC7', 'CDC37', 'MAPK12', 'HDAC1', 'KDM6B', 'SOX9', 'FOXO3', 'SGTA'] 
+2025-06-20 00:30:39,312 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:30:39,312 - Run 4 COMPLETED - Fitness: 0.245870 - Size: 9 - Duration: 0:00:13.082651

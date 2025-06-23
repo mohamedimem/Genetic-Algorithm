@@ -1,0 +1,302 @@
+2025-06-20 00:32:58,368 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:32:58,517 - Finished with child num after mutate ['PDE4D', 'HPRT1', 'BMP15', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'CASP9', 'IRAK1', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:58,577 - Finished with child num after mutate ['BUB1', 'PTTG1', 'GART', 'KIF24', 'PRIM1', 'PAPOLA', 'DFFA', 'CD81', 'AURKA', 'NFAT5', 'PPP2R5A', 'CDK2', 'ADCY3', 'POLR3GL', 'AKT3', 'PRPS1L1', 'MAP2K1', 'LSM4', 'NME6', 'PRKACB', 'PDE6C', 'CDC20', 'CAMK2G', 'POLR1E', 'CNOT6L', 'PDE8A', 'AK5', 'PRKAR2A', 'RPS6KA6', 'GUCY2F', 'SKP1', 'NGF', 'NFKB1', 'PIK3CB', 'GMPR2', 'PRHOXNB', 'CALM1', 'PDE3B', 'BTK'] 
+2025-06-20 00:32:58,578 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:32:58,642 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'MYO1G', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'CASP9', 'IRAK1', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:58,796 - Finished with child num after mutate ['TRAF2', 'PRKACA', 'PIK3CG', 'GSK3B', 'RAD21', 'PRIM1', 'MAPK3', 'AURKA', 'PDE11A', 'IL3', 'PIK3R5', 'BIRC2', 'POLR3B', 'NFATC3', 'CDC26', 'HRAS', 'CNOT3', 'CASP9', 'IMPDH1', 'POLR2G', 'JUN', 'POLR3A', 'PDE1C', 'BLNK', 'NME3', 'PRKAR1B', 'PDE6H', 'PPP2R1B', 'PDE4C', 'CALM3', 'CCNB1', 'PPP3CB', 'PPP3CA', 'PPP2R1A', 'NME5'] 
+2025-06-20 00:32:58,798 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:32:58,860 - Finished with child num after mutate ['PTTG1', 'GART', 'UCHL5', 'PRIM1', 'PAPOLA', 'DFFA', 'CD81', 'AURKA', 'NFAT5', 'PPP2R5A', 'CDK2', 'ADCY3', 'POLR3GL', 'AKT3', 'PRPS1L1', 'MAP2K1', 'PDE9A', 'LSM4', 'NME6', 'PRKACB', 'CASP9', 'PDE6C', 'CDC20', 'CAMK2G', 'POLR1E', 'CNOT6L', 'PDE8A', 'AK5', 'PRKAR2A', 'RPS6KA6', 'GUCY2F', 'SKP1', 'NFKB1', 'PIK3CB', 'GMPR2', 'PRHOXNB', 'CALM1', 'PDE3B', 'BTK'] 
+2025-06-20 00:32:58,918 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKAIP1', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'IRAK1', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:58,919 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:32:58,978 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'AURKAIP1', 'AUNIP', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,048 - Finished with child num after mutate ['PDE4D', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'CASP9', 'STAG2', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BMP15', 'BTRC', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,049 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:32:59,114 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'AURKAIP1', 'EEF2', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,176 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'AURKAIP1', 'GSK3A', 'PDE7A', 'AKT1', 'PPAT', 'WDR61', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,177 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:32:59,233 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'PPP2R5D', 'GSK3A', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'RUVBL2', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,290 - Finished with child num after mutate ['PDE4D', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'CASP9', 'PDE7A', 'AKT1', 'PPAT', 'HSPD1', 'TNFRSF10D', 'FBXO43', 'BMP15', 'BTRC', 'STAG2', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,290 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:32:59,348 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'MCRS1', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,405 - Finished with child num after mutate ['PDE4D', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'IKBKB', 'CASP9', 'PDE7A', 'AKT1', 'PPAT', 'TNS1', 'TNFRSF10D', 'FBXO43', 'BMP15', 'BTRC', 'STAG2', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,405 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:32:59,461 - Finished with child num after mutate ['PDE4D', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'CASP9', 'PDE7A', 'AKT1', 'PPAT', 'RIPK4', 'TNFRSF10D', 'FBXO43', 'BMP15', 'BTRC', 'STAG2', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,518 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'NUP133', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,518 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:32:59,575 - Finished with child num after mutate ['PDE4D', 'TNS1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'IKBKB', 'CASP9', 'PDE7A', 'AKT1', 'PPAT', 'UBB', 'FBXO43', 'BMP15', 'BTRC', 'STAG2', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,645 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'NME2', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'OTUD7B', 'TNFRSF10D', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,646 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:32:59,704 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'OTUD7B', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'NME2', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'PBRM1', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,763 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'SRSF9', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,764 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:32:59,820 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'PRDM10', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,876 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'MAP2K4', 'AKT1', 'PPAT', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,876 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:32:59,932 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'OOEP', 'AKT1', 'PPAT', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,998 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'IKBKB', 'AURKAIP1', 'PDE7A', 'AKT1', 'PPAT', 'CHFR', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:32:59,998 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:33:00,091 - Finished with child num after mutate ['PDE4D', 'TNS1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'PDE9A', 'NME2', 'IKBKB', 'CASP9', 'STAMBP', 'AKT1', 'PPAT', 'FBXO43', 'BMP15', 'BTRC', 'STAG2', 'GDA', 'UBB', 'ANAPC2'] 
+2025-06-20 00:33:00,149 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'PCSK9', 'OOEP', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,150 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:33:00,206 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CNTLN', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'OOEP', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,262 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'MCRS1', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'CDKL2', 'OOEP', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,263 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:33:00,320 - Finished with child num after mutate ['CSNK1E', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'OOEP', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,375 - Finished with child num after mutate ['SFXN1', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'OOEP', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,376 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:33:00,431 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'CCNB2', 'PPP3CC', 'AKT3', 'PPP2R5D', 'GSK3A', 'PDE9A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'STAT5A', 'OOEP', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,487 - Finished with child num after mutate ['MAP1A', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'OOEP', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,488 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:33:00,544 - Finished with child num after mutate ['PDE4D', 'BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'CCNB2', 'AKT3', 'PPP2R5D', 'GSK3A', 'EME1', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'OOEP', 'FBXO43', 'BTRC', 'NGF', 'STAT5A', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,619 - Finished with child num after mutate ['BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'CASP14', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:00,619 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:33:00,696 - Finished with child num after mutate ['BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'CNTLN', 'FBXO43', 'MAP2K3', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:00,754 - Finished with child num after mutate ['BUB1', 'HPRT1', 'AURKA', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'POU5F1', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:00,755 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:33:00,813 - Finished with child num after mutate ['BUB1', 'HPRT1', 'AURKA', 'PPP3CC', 'MCRS1', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'MAP1A', 'ORC3', 'CNTLN', 'FBXO43', 'BTRC', 'NGF', 'GDA', 'ANAPC2'] 
+2025-06-20 00:33:00,872 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'AKT1', 'CNTLN', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:00,872 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:33:00,946 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'UBE2D1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'CNTLN', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:01,003 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'MCRS1', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'SRSF9', 'CNTLN', 'CDCA3', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:01,003 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:33:01,062 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PDIK1L', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:01,121 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'AKT3', 'PCSK9', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'CCNE2', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'ANAPC2'] 
+2025-06-20 00:33:01,121 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:33:01,178 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'AKT3', 'PSMC3IP', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,237 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'AKT3', 'DRG2', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,237 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:33:01,386 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'AKT3', 'NUMB', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,469 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'PSMD7', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,469 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:33:01,551 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'DRG2', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'DCTN2', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,616 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'DRG2', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'KPNA2', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,617 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:33:01,701 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'YBX2', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,759 - Finished with child num after mutate ['ATRX', 'POU5F1', 'AURKAIP1', 'BUB1', 'BTRC', 'NGF', 'AKT1', 'HPRT1', 'AKT3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'GDA', 'CSNK1E', 'CPEB1', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,759 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:33:01,815 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'DRG2', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'ARL13B', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,873 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'PSMD7', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'CDCA7L', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,874 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:33:01,933 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'CBLN4', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,997 - Finished with child num after mutate ['POU5F1', 'BUB1', 'SNRPG', 'HPRT1', 'AURKA', 'PSMD7', 'AKT3', 'PPP2R5D', 'GSK3A', 'CPEB1', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:01,998 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:33:02,107 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'DRG2', 'AKT3', 'PPP2R5D', 'GSK3A', 'HNRNPF', 'AURKAIP1', 'AKT1', 'UBE2D1', 'DCTN2', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,174 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'MPHOSPH8', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,174 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:33:02,232 - Finished with child num after mutate ['POU5F1', 'BUB1', 'HPRT1', 'AURKA', 'PSMD7', 'AKT3', 'PPP2R5D', 'GSK3A', 'SLC2A4', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'GDA', 'SNRPG', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,322 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'PSMA5', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,322 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:33:02,432 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'MAD2L1', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,534 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'DCTN1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,534 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:33:02,592 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'RBBP4', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,663 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'DCTN1', 'PSMB11', 'BTRC', 'NGF', 'ZNF217', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,664 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:33:02,754 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'RBBP4', 'AURKAIP1', 'AKT1', 'UBE2D1', 'MAPK13', 'PSMB11', 'BTRC', 'NGF', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,823 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,823 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:33:02,883 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'PSMA5', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'LBR', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,963 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NOTCH3', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:02,964 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:33:03,022 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'POLQ', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'NGF', 'GDA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,079 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'ANK3', 'MAD2L1', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,079 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:33:03,138 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'HFE', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,202 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'RAB8A', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,202 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:33:03,260 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'IL6', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,343 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'RBBP4', 'AURKAIP1', 'AKT1', 'SMAD4', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,344 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:33:03,437 - Finished with child num after mutate ['POU5F1', 'YBX2', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'IL6', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'TAF3', 'UBE2D1', 'PSMB11', 'BTRC', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,551 - Finished with child num after mutate ['POU5F1', 'MAGOHB', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,551 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:33:03,635 - Finished with child num after mutate ['POU5F1', 'YBX2', 'ARHGEF39', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,696 - Finished with child num after mutate ['POU5F1', 'BUB1', 'AURKA', 'DRG2', 'PSMD7', 'PPP2R5D', 'GSK3A', 'CCNE2', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'KIFC3', 'ANAPC2'] 
+2025-06-20 00:33:03,696 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:33:03,753 - Finished with child num after mutate ['ATF7IP2', 'POU5F1', 'YBX2', 'MPHOSPH8', 'PSMB11', 'AURKAIP1', 'BUB1', 'BTRC', 'PSMD7', 'AKT1', 'PPP2R5D', 'GSK3A', 'CSNK1E', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:03,810 - Finished with child num after mutate ['POU5F1', 'YBX2', 'AURKAIP1', 'BUB1', 'BTRC', 'NGF', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PSMA5', 'HPGDS', 'CSNK1E', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:03,810 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:33:03,867 - Finished with child num after mutate ['POU5F1', 'MDP1', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,923 - Finished with child num after mutate ['POU5F1', 'VHL', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:03,924 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:33:03,989 - Finished with child num after mutate ['POU5F1', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PLK4', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,047 - Finished with child num after mutate ['POU5F1', 'MYL2', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,047 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:33:04,105 - Finished with child num after mutate ['GCK', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,184 - Finished with child num after mutate ['ATM', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,185 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:33:04,256 - Finished with child num after mutate ['ATM', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'PHOX2B', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,316 - Finished with child num after mutate ['MCM10', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,316 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:33:04,372 - Finished with child num after mutate ['HORMAD1', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,433 - Finished with child num after mutate ['PSMA6', 'AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,433 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:33:04,492 - Finished with child num after mutate ['AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'PSMA6', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'NFKBIE', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,548 - Finished with child num after mutate ['AURKA', 'DRG2', 'PSMD7', 'KIFC3', 'PPP2R5D', 'GSK3A', 'HSPA4', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'AKT1', 'UBE2D1', 'PSMB11', 'BTRC', 'PPP3CA', 'CSNK1E', 'MYL2', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:04,548 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:33:04,604 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'AURKAIP1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'ID4', 'PPP2R5D', 'GSK3A', 'CSNK1E', 'PPP3CA', 'AURKA', 'MYL2', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,663 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'CSF2', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,664 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:33:04,720 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'PRDM1', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,777 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'DNMT3A', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,777 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:33:04,834 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'PSMA6', 'BTRC', 'PDE4C', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,889 - Finished with child num after mutate ['KPNA3', 'MPHOSPH8', 'MAPK13', 'AURKAIP1', 'PSMA6', 'BTRC', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'CSNK1E', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:04,890 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:33:04,946 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'CRB2', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,002 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'PTBP1', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,003 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:33:05,059 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'E2F5', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,122 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'PSMA6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PDS5B', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,123 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:33:05,205 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'TUBGCP6', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,322 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'CHRAC1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,323 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:33:05,425 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'TUBB4B', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,483 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'HSPE1', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,483 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:33:05,540 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PPP3CA', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'FKBP5', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,596 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'HMGB3', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,597 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:33:05,654 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'ATAD2', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,714 - Finished with child num after mutate ['LRGUK', 'MPHOSPH8', 'MAPK13', 'PSMA6', 'BTRC', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'TUBB4B', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,714 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:33:05,771 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'AKT2', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,827 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'RBX1', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:05,827 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:33:05,883 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'SNRPF'] 
+2025-06-20 00:33:05,938 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'SMARCD1'] 
+2025-06-20 00:33:05,938 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:33:05,994 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'NFKBIE', 'TUBB4B', 'MYL10', 'AURKA', 'CCNE2', 'ANAPC2', 'DRG2'] 
+2025-06-20 00:33:06,050 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'PNP', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'NFKBIE', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,051 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:33:06,108 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'HNRNPK', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'NFKBIE', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,169 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'DONSON'] 
+2025-06-20 00:33:06,169 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:33:06,225 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'SIN3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,283 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'CSN2', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'NFKBIE', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,284 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:33:06,340 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'TP53BP1'] 
+2025-06-20 00:33:06,400 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'STK38', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,400 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:33:06,457 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KLHDC9', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,514 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'IDH2', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'NFKBIE', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,514 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:33:06,571 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'PBRM1', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,626 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'ALK'] 
+2025-06-20 00:33:06,627 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:33:06,687 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'DDX39A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,743 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'MIS18A'] 
+2025-06-20 00:33:06,744 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:33:06,801 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'HMGB3', 'RBX1', 'BTRC', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,857 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'PSMD7', 'AKT1', 'KIFC3', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'NUMA1', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:06,857 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:33:06,915 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2', 'VCP'] 
+2025-06-20 00:33:07,069 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'MYCBP', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,069 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:33:07,138 - Finished with child num after mutate ['PSMB11', 'TSSK2', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,214 - Finished with child num after mutate ['PSMB11', 'SNRPG', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,214 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:33:07,303 - Finished with child num after mutate ['PSMB11', 'CUL3', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,372 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'CFL2', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,372 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:33:07,433 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'ELF1', 'PPP2R5D', 'GSK3A', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,492 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'AURKA', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'FBXO5', 'PPP3CA', 'STK38', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,493 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:33:07,558 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'UBE2D1', 'PIF1', 'PPP2R5D', 'GSK3A', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,614 - Finished with child num after mutate ['PSMB11', 'CENPC', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,614 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:33:07,670 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PRMT5', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,729 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'NFKBIE', 'STK38', 'TOX', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:07,730 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:33:07,786 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'E2F3', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,842 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'RNF4', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:07,842 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:33:07,899 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'MAPK13', 'RBX1', 'BTRC', 'ACTL6B', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,955 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'GTF3C2', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:07,955 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:33:08,011 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'CDADC1', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,066 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'GSK3B', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'NFKBIE', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,067 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:33:08,123 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'FEN1', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:08,180 - Finished with child num after mutate ['PSMB11', 'MPHOSPH8', 'ELF1', 'MAPK13', 'RBX1', 'BTRC', 'PSMD7', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'PPP3CA', 'AURKA', 'CCNE2', 'ANAPC2'] 
+2025-06-20 00:33:08,180 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:33:08,235 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PSMB9', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,300 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'PPP2R5D', 'GSK3A', 'NFKBIE', 'STK38', 'CD34', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,300 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:33:08,356 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CSNK2A1', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,411 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'KRT5', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,412 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:33:08,468 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'MYCBP', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,526 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CLASP1', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,527 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:33:08,586 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'LRRC23', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,644 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'MYBL1', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,644 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:33:08,701 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'BMI1', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,761 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'NIPBL', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,761 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:33:08,818 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'RBM47', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,875 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'EPCAM', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:08,875 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:33:08,949 - Finished with child num after mutate ['PSMB11', 'NES', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,044 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'HDAC5', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,044 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:33:09,129 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'BUB3', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,213 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'MYL9', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:09,213 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:33:09,272 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'PCGF6', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,330 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'KAT6B', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,330 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:33:09,398 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'CDK8', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:09,454 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'SLC1A5', 'GSK3A', 'STK38', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,454 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:33:09,510 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'KRT8', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,566 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'PTX3', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:09,566 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:33:09,630 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'LEF1', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CCNE2', 'GSK3A', 'AURKA', 'CSNK2A1', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,724 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'CEP164', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,724 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:33:09,799 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'BCL2L11', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:09,865 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CCNE2', 'GSK3A', 'FBXL22', 'AURKA', 'CSNK2A1', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:09,866 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:33:09,944 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'MGMT', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CCNE2', 'GSK3A', 'AURKA', 'CSNK2A1', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,011 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'TUBGCP2', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:10,011 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:33:10,086 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'CCNE2', 'GSK3A', 'STK38', 'AURKA', 'CSNK2A1', 'SUMO3', 'FBXO5'] 
+2025-06-20 00:33:10,150 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'CEP76', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,150 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:33:10,207 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'APC', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,270 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'JUN', 'UBE2D1', 'GSK3A', 'ANAPC2', 'STK38', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:10,270 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:33:10,425 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'PYCR1', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,489 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'RMI1', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,489 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:33:10,546 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'PDE4C', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,601 - Finished with child num after mutate ['PSMB11', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'VCP', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'ANAPC2', 'PTX3', 'AURKA', 'CSNK2A1', 'CCNE2', 'FBXO5'] 
+2025-06-20 00:33:10,601 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:33:10,660 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'PDCD5', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,716 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'SERPINB2', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,716 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:33:10,778 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'FUS', 'PSMD7', 'AKT1', 'UBE2D1', 'GSK3A', 'AURKA', 'CCNE2', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,835 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'GSK3B', 'RBX1', 'BTRC', 'CEP164', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,835 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:33:10,893 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'DCTD', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:10,948 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'FBXO5', 'AURKA', 'ANAPC2', 'BIK'] 
+2025-06-20 00:33:10,948 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:33:11,007 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'ZMAT3', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:11,068 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'GSK3B', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'SLC2A4', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:11,068 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:33:11,144 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'MAPK13', 'GSK3B', 'RBX1', 'BTRC', 'PSMD7', 'CHCHD2', 'UBE2D1', 'APC', 'GSK3A', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:11,206 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'RCC2', 'AURKA', 'FBXO5'] 
+2025-06-20 00:33:11,207 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:33:11,264 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'KMT2E', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'FBXO5'] 
+2025-06-20 00:33:11,321 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'SSRP1', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'FBXO5'] 
+2025-06-20 00:33:11,321 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:33:11,378 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'HSPE1', 'AURKA', 'ANAPC2', 'FBXO5'] 
+2025-06-20 00:33:11,434 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'RBX1', 'BTRC', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'FBXO5', 'AURKA', 'PPP3CC'] 
+2025-06-20 00:33:11,434 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:33:11,493 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'RBX1', 'PSMD7', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'SHC1', 'AURKA', 'FBXO5'] 
+2025-06-20 00:33:11,588 - Finished with child num after mutate ['PSMB11', 'PSMB9', 'UBE2A', 'RBX1', 'BTRC', 'AKT1', 'UBE2D1', 'APC', 'GSK3A', 'AURKA', 'FBXO5'] 
+2025-06-20 00:33:11,588 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:33:11,588 - Run 14 COMPLETED - Fitness: 0.299894 - Size: 12 - Duration: 0:00:15.012897

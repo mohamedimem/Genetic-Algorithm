@@ -1,0 +1,302 @@
+2025-06-20 00:30:01,910 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:30:01,966 - Finished with child num after mutate ['PI4K2A', 'FBXW11', 'PIK3R2', 'NUDT9', 'RPS6KA2', 'PPP2CA', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,044 - Finished with child num after mutate ['MX1', 'PLK1', 'ADCY7', 'NME4', 'ENTPD3', 'NFKBIA', 'ADCY10', 'NME2', 'ADCY6', 'ADSL', 'TNFRSF10D'] 
+2025-06-20 00:30:02,044 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:30:02,128 - Finished with child num after mutate ['FGFR2', 'PIK3R2', 'NUDT9', 'RPS6KA2', 'PI4K2A', 'PPP2CA', 'ANAPC13', 'SOS1', 'ADCY6'] 
+2025-06-20 00:30:02,184 - Finished with child num after mutate ['PLK1', 'MX1', 'ADCY7', 'NME4', 'NFKBIA', 'ADCY10', 'SREBF1', 'TNFRSF10D', 'ADSL', 'ENTPD3'] 
+2025-06-20 00:30:02,184 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:30:02,235 - Finished with child num after mutate ['ANKRD46', 'FBXW11', 'PIK3R2', 'RPS6KA2', 'PPP2CA', 'ANAPC13', 'NFKBIA', 'SOS1', 'TNFRSF10D'] 
+2025-06-20 00:30:02,321 - Finished with child num after mutate ['CD79A', 'PGR', 'PPP3R1', 'ADCY8', 'HDAC10', 'GRB2', 'POLR3F', 'PRPS1L1', 'PDE9A', 'NPR2', 'ITPR2', 'POLR2C', 'PPP2R5A', 'CCNE2'] 
+2025-06-20 00:30:02,321 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:30:02,371 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'HGS', 'RPS6KA2', 'PI4K2A', 'PPP2CA', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,421 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'NTSR2', 'RPS6KA2', 'PI4K2A', 'PPP2CA', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,421 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:30:02,472 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'NTSR2', 'PI4K2A', 'RPS6KA2', 'PI4K2B', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,522 - Finished with child num after mutate ['TRIB3', 'FBXW11', 'PIK3R2', 'RPS6KA2', 'PPP2CA', 'ANAPC13', 'NFKBIA', 'SOS1', 'TNFRSF10D'] 
+2025-06-20 00:30:02,522 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:30:02,572 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'PI4K2A', 'RPS6KA2', 'THRB', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,631 - Finished with child num after mutate ['GNG5', 'FBXW11', 'PIK3R2', 'RPS6KA2', 'PPP2CA', 'ANAPC13', 'HGS', 'NFKBIA', 'SOS1', 'TNFRSF10D'] 
+2025-06-20 00:30:02,631 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:30:02,726 - Finished with child num after mutate ['FBXW11', 'LIF', 'PI4K2A', 'RPS6KA2', 'PPP2CA', 'ANAPC13', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,816 - Finished with child num after mutate ['FBXW11', 'THRB', 'PIK3R2', 'RPS6KA2', 'PPP2R5D', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,817 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:30:02,906 - Finished with child num after mutate ['FBXW11', 'THRB', 'PIK3R2', 'RPS6KA2', 'NPFF', 'NFKBIA'] 
+2025-06-20 00:30:02,993 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'NTSR2', 'PI4K2A', 'VAV3', 'PI4K2B', 'PPP2R5D', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:02,993 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:30:03,073 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'THRB', 'RPS6KA2', 'PI4K2A', 'PDK1', 'NFKBIA'] 
+2025-06-20 00:30:03,162 - Finished with child num after mutate ['NPFF', 'GNAI2', 'THRB', 'PIK3R2', 'RPS6KA2', 'ANAPC13'] 
+2025-06-20 00:30:03,163 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:30:03,261 - Finished with child num after mutate ['GNG3', 'FBXW11', 'THRB', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:03,342 - Finished with child num after mutate ['FBXW11', 'THRB', 'PIK3R2', 'RPS6KA2', 'PPP2R5D', 'MYH14', 'NFKBIA'] 
+2025-06-20 00:30:03,342 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:30:03,426 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'THRB', 'RPS6KA2', 'BMP7', 'NFKBIA'] 
+2025-06-20 00:30:03,483 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'THRB', 'RPS6KA2', 'PA2G4', 'NFKBIA'] 
+2025-06-20 00:30:03,483 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:30:03,542 - Finished with child num after mutate ['FCER1G', 'FBXW11', 'PIK3R2', 'THRB', 'GNG3', 'NFKBIA'] 
+2025-06-20 00:30:03,605 - Finished with child num after mutate ['IL11', 'THRB', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:03,605 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:30:03,659 - Finished with child num after mutate ['FBXW11', 'THRB', 'PIK3R2', 'PI4K2A', 'MYH14', 'SOS1', 'NFKBIA'] 
+2025-06-20 00:30:03,710 - Finished with child num after mutate ['FCER1G', 'FBXW11', 'PIK3R2', 'RPS6KA2', 'PIK3CA', 'NFKBIA'] 
+2025-06-20 00:30:03,710 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:30:03,760 - Finished with child num after mutate ['FBXW11', 'PIK3R2', 'THRB', 'RPS6KA2', 'PIP5KL1', 'NFKBIA'] 
+2025-06-20 00:30:03,810 - Finished with child num after mutate ['FCER1G', 'RARA', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:03,810 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:30:03,861 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'RAP1B', 'NFKBIA'] 
+2025-06-20 00:30:03,911 - Finished with child num after mutate ['FCER1G', 'BAX', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:03,911 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:30:03,975 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'IL5', 'NFKBIA'] 
+2025-06-20 00:30:04,068 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'HLA-E', 'NFKBIA'] 
+2025-06-20 00:30:04,068 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:30:04,157 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:04,242 - Finished with child num after mutate ['FCER1G', 'CRH', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:04,242 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:30:04,333 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'ARHGAP4', 'NFKBIA'] 
+2025-06-20 00:30:04,415 - Finished with child num after mutate ['FCER1G', 'RABEP1', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'NFKBIA'] 
+2025-06-20 00:30:04,415 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:30:04,497 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'ARHGAP18'] 
+2025-06-20 00:30:04,590 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'RPS6KA2', 'NMU', 'NFKBIA'] 
+2025-06-20 00:30:04,591 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:30:04,679 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'ITK', 'NFKBIA'] 
+2025-06-20 00:30:04,759 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'ITGB1'] 
+2025-06-20 00:30:04,759 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:30:04,810 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'GSK3A'] 
+2025-06-20 00:30:04,860 - Finished with child num after mutate ['PIP4K2A', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'ITK', 'NFKBIA'] 
+2025-06-20 00:30:04,860 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:30:04,910 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'APP'] 
+2025-06-20 00:30:04,961 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'CCKBR'] 
+2025-06-20 00:30:04,961 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:30:05,009 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'GLO1'] 
+2025-06-20 00:30:05,059 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'BHLHA15'] 
+2025-06-20 00:30:05,059 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:30:05,109 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'ETS1', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:05,160 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'EPHA4'] 
+2025-06-20 00:30:05,160 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:30:05,210 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'PRKCB'] 
+2025-06-20 00:30:05,261 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'KCNJ14'] 
+2025-06-20 00:30:05,261 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:30:05,311 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA'] 
+2025-06-20 00:30:05,360 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'ARHGAP5'] 
+2025-06-20 00:30:05,360 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:30:05,408 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'GDNF'] 
+2025-06-20 00:30:05,459 - Finished with child num after mutate ['APP', 'ROCK2', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:05,459 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:30:05,508 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'CYSLTR1', 'NFKBIA'] 
+2025-06-20 00:30:05,556 - Finished with child num after mutate ['CXCR5', 'PIK3CA', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2'] 
+2025-06-20 00:30:05,556 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:30:05,605 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'INPP4B'] 
+2025-06-20 00:30:05,657 - Finished with child num after mutate ['PRPF39', 'FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:05,657 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:30:05,707 - Finished with child num after mutate ['APP', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2', 'GMEB1'] 
+2025-06-20 00:30:05,755 - Finished with child num after mutate ['FGF13', 'PIK3CA', 'IL5', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:05,755 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:30:05,803 - Finished with child num after mutate ['AREG', 'PIK3CA', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2'] 
+2025-06-20 00:30:05,853 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'RIPK2', 'GSK3A', 'NFKBIA', 'TUSC2'] 
+2025-06-20 00:30:05,854 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:30:05,903 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2', 'KRT5'] 
+2025-06-20 00:30:05,955 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2', 'PPP3CA'] 
+2025-06-20 00:30:05,956 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:30:06,005 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'GSK3B'] 
+2025-06-20 00:30:06,053 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'CASP9'] 
+2025-06-20 00:30:06,054 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:30:06,102 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'ATAD2B'] 
+2025-06-20 00:30:06,149 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'CD5'] 
+2025-06-20 00:30:06,150 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:30:06,200 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2', 'NMB'] 
+2025-06-20 00:30:06,247 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'ITPKB'] 
+2025-06-20 00:30:06,248 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:30:06,298 - Finished with child num after mutate ['FCER1G', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'GSK3A', 'ROCK2', 'PIK3C3'] 
+2025-06-20 00:30:06,348 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'NFKBIA', 'SH3PXD2B'] 
+2025-06-20 00:30:06,348 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:30:06,398 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'TUBB6'] 
+2025-06-20 00:30:06,449 - Finished with child num after mutate ['THRB', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA'] 
+2025-06-20 00:30:06,449 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:30:06,497 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'SCGB2A1'] 
+2025-06-20 00:30:06,546 - Finished with child num after mutate ['FYN', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA'] 
+2025-06-20 00:30:06,546 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:30:06,595 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'GAPDH'] 
+2025-06-20 00:30:06,648 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'ITGA2'] 
+2025-06-20 00:30:06,648 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:30:06,698 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'PRKCB'] 
+2025-06-20 00:30:06,749 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'PKDCC'] 
+2025-06-20 00:30:06,749 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:30:06,799 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'FGF8'] 
+2025-06-20 00:30:06,848 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'GRIA1'] 
+2025-06-20 00:30:06,848 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:30:06,897 - Finished with child num after mutate ['COG3', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA'] 
+2025-06-20 00:30:06,951 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'KHDRBS2'] 
+2025-06-20 00:30:06,951 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:30:07,000 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'ARHGAP21'] 
+2025-06-20 00:30:07,048 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'DHFR'] 
+2025-06-20 00:30:07,049 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:30:07,099 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'ARL14EP'] 
+2025-06-20 00:30:07,149 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'NFKBIA', 'ROCK2', 'GPR137'] 
+2025-06-20 00:30:07,149 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:30:07,198 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'YWHAZ'] 
+2025-06-20 00:30:07,248 - Finished with child num after mutate ['LYN', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'NFKBIA'] 
+2025-06-20 00:30:07,248 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:30:07,296 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'LYN', 'RIPK2', 'NFKBIA', 'PPP3CA'] 
+2025-06-20 00:30:07,346 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'HOXA5'] 
+2025-06-20 00:30:07,346 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:30:07,395 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA', 'SHC1'] 
+2025-06-20 00:30:07,445 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'NMBR'] 
+2025-06-20 00:30:07,445 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:30:07,495 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'ITGAM'] 
+2025-06-20 00:30:07,546 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'CIAPIN1'] 
+2025-06-20 00:30:07,546 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:30:07,595 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'DOLPP1'] 
+2025-06-20 00:30:07,644 - Finished with child num after mutate ['ITGB1', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'NFKBIA'] 
+2025-06-20 00:30:07,644 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:30:07,695 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'POLR2J'] 
+2025-06-20 00:30:07,744 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'EIF4EBP1'] 
+2025-06-20 00:30:07,744 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:30:07,794 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MTMR8', 'NFKBIA'] 
+2025-06-20 00:30:07,843 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'FIG4'] 
+2025-06-20 00:30:07,843 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:30:07,893 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'OR14A16', 'NFKBIA'] 
+2025-06-20 00:30:07,947 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'JUN', 'NFKBIA'] 
+2025-06-20 00:30:07,947 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:30:07,996 - Finished with child num after mutate ['APP', 'PIK3CA', 'PIK3R2', 'IL5', 'NFKBIA', 'RIPK2', 'ROCK2', 'LPAR6'] 
+2025-06-20 00:30:08,045 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'GNG12'] 
+2025-06-20 00:30:08,045 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:30:08,095 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'FIG4'] 
+2025-06-20 00:30:08,146 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'PI4K2B'] 
+2025-06-20 00:30:08,146 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:30:08,195 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'SDC1'] 
+2025-06-20 00:30:08,243 - Finished with child num after mutate ['FCER1G', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'NFKBIA', 'CFP'] 
+2025-06-20 00:30:08,243 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:30:08,292 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'KCNJ11'] 
+2025-06-20 00:30:08,342 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'MTMR1'] 
+2025-06-20 00:30:08,342 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:30:08,391 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'NFKBIA', 'DDX17'] 
+2025-06-20 00:30:08,440 - Finished with child num after mutate ['LPAR5', 'PIK3CA', 'PIK3R2', 'IL5', 'EGF', 'FYN'] 
+2025-06-20 00:30:08,440 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:30:08,492 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'PRKCB'] 
+2025-06-20 00:30:08,541 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'BMP7'] 
+2025-06-20 00:30:08,541 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:30:08,591 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'FYN', 'GAPDH', 'NFKBIA', 'PDK4'] 
+2025-06-20 00:30:08,655 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'GSK3A', 'FYN', 'NFKBIA', 'MYH14'] 
+2025-06-20 00:30:08,655 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:30:08,718 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'JUN', 'RIPK2', 'GSK3A', 'MEOX2'] 
+2025-06-20 00:30:08,776 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'SDC1'] 
+2025-06-20 00:30:08,776 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:30:08,836 - Finished with child num after mutate ['PIK3CA', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'ELF3', 'GAPDH', 'NFKBIA'] 
+2025-06-20 00:30:08,887 - Finished with child num after mutate ['PIK3R2', 'GSK3B', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'PLCD1'] 
+2025-06-20 00:30:08,887 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:30:08,940 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'FLRT1'] 
+2025-06-20 00:30:08,992 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'MAPK14'] 
+2025-06-20 00:30:08,992 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:30:09,043 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'NFKBIA', 'KRT5'] 
+2025-06-20 00:30:09,093 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'EPS8'] 
+2025-06-20 00:30:09,093 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:30:09,155 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'NPRL2'] 
+2025-06-20 00:30:09,218 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'TGFB1I1'] 
+2025-06-20 00:30:09,218 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:30:09,270 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'SYP'] 
+2025-06-20 00:30:09,325 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'MRPS16'] 
+2025-06-20 00:30:09,325 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:30:09,375 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RHOBTB2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA'] 
+2025-06-20 00:30:09,426 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'IL5', 'LYN', 'RIPK2', 'NFKBIA', 'MAL'] 
+2025-06-20 00:30:09,426 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:30:09,478 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'ARF6'] 
+2025-06-20 00:30:09,527 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'KCNJ12', 'GSK3A', 'FYN', 'NFKBIA'] 
+2025-06-20 00:30:09,527 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:30:09,578 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'ERG'] 
+2025-06-20 00:30:09,628 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'GSK3A', 'FYN', 'NFKBIA', 'PIK3CD'] 
+2025-06-20 00:30:09,629 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:30:09,681 - Finished with child num after mutate ['SHC1', 'PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA'] 
+2025-06-20 00:30:09,732 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'TXNDC2'] 
+2025-06-20 00:30:09,732 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:30:09,781 - Finished with child num after mutate ['PIK3R2', 'GSK3B', 'IL5', 'SHC1', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'PRKACA'] 
+2025-06-20 00:30:09,835 - Finished with child num after mutate ['PIK3CA', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'UPK1A'] 
+2025-06-20 00:30:09,836 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:30:09,886 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'HDAC9'] 
+2025-06-20 00:30:09,936 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'IL5', 'SHC1', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'RPS6'] 
+2025-06-20 00:30:09,936 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:30:09,987 - Finished with child num after mutate ['PRKACA', 'PIK3R2', 'GSK3B', 'SHC1', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'MET'] 
+2025-06-20 00:30:10,039 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'ASB9'] 
+2025-06-20 00:30:10,039 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:30:10,089 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'PI3'] 
+2025-06-20 00:30:10,141 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'PRKAR1A'] 
+2025-06-20 00:30:10,141 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:30:10,193 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'OGT', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:10,243 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'NOTCH1', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:10,243 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:30:10,294 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'ROR2'] 
+2025-06-20 00:30:10,344 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'GNAL'] 
+2025-06-20 00:30:10,344 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:30:10,395 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'NOTCH1', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'CDC42'] 
+2025-06-20 00:30:10,446 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'ANKRD7'] 
+2025-06-20 00:30:10,446 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:30:10,497 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'CDC42', 'NOTCH1', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'RAPGEF1'] 
+2025-06-20 00:30:10,548 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'NLRP2'] 
+2025-06-20 00:30:10,548 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:30:10,598 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'PI3', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'TNS3'] 
+2025-06-20 00:30:10,647 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'HCRTR1'] 
+2025-06-20 00:30:10,647 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:30:10,701 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'KAT2B', 'JUN', 'RIPK2', 'GSK3A', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:10,753 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GAPDH', 'MAPK14', 'NFKBIA', 'MAP1B'] 
+2025-06-20 00:30:10,753 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:30:10,805 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'RAVER1'] 
+2025-06-20 00:30:10,856 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'MYL7'] 
+2025-06-20 00:30:10,856 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:30:10,907 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'CLDN2'] 
+2025-06-20 00:30:10,963 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'KLHL24'] 
+2025-06-20 00:30:10,963 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:30:11,012 - Finished with child num after mutate ['PIK3R2', 'GSK3B', 'IL5', 'SHC1', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'PTK7'] 
+2025-06-20 00:30:11,063 - Finished with child num after mutate ['PIK3CA', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'MYH1'] 
+2025-06-20 00:30:11,064 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:30:11,115 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'RPS6KA3'] 
+2025-06-20 00:30:11,167 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'CAMK1D'] 
+2025-06-20 00:30:11,167 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:30:11,217 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'CARD16', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:11,268 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'ARMC12'] 
+2025-06-20 00:30:11,269 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:30:11,319 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'UBE2D4', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:11,369 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'TLR5', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:11,369 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:30:11,420 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'UBE2D4', 'GAPDH', 'MAPK14', 'NFKBIA', 'TANC2'] 
+2025-06-20 00:30:11,470 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'ALDH1A2', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:11,470 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:30:11,522 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'MYOD1'] 
+2025-06-20 00:30:11,572 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'CDC42', 'NOTCH1', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'CXCL3'] 
+2025-06-20 00:30:11,573 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:30:11,624 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'UBE2D4', 'GAPDH', 'MAPK14', 'NFKBIA', 'NTRK2'] 
+2025-06-20 00:30:11,674 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'MYL4'] 
+2025-06-20 00:30:11,674 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:30:11,731 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'GAR1'] 
+2025-06-20 00:30:11,781 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'CFLAR', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14'] 
+2025-06-20 00:30:11,782 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:30:11,833 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'RUNX2'] 
+2025-06-20 00:30:11,884 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'ACAT1', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA'] 
+2025-06-20 00:30:11,885 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:30:11,941 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'RIPK2', 'GSK3A', 'UBE2D4', 'GAPDH', 'MAPK14', 'NFKBIA', 'TNFRSF10A'] 
+2025-06-20 00:30:11,991 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'ZFAND2A'] 
+2025-06-20 00:30:11,992 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:30:12,043 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'HLA-B'] 
+2025-06-20 00:30:12,095 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'ARL15'] 
+2025-06-20 00:30:12,095 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:30:12,145 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'TLR5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'CDKN3'] 
+2025-06-20 00:30:12,197 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'CBX1'] 
+2025-06-20 00:30:12,197 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:30:12,248 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'BIRC8'] 
+2025-06-20 00:30:12,300 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'YWHAE'] 
+2025-06-20 00:30:12,300 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:30:12,351 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'TUBD1'] 
+2025-06-20 00:30:12,402 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'EPOR'] 
+2025-06-20 00:30:12,402 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:30:12,454 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'MECOM'] 
+2025-06-20 00:30:12,504 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'EPOR', 'NFKBIA', 'STAT2'] 
+2025-06-20 00:30:12,504 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:30:12,555 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'ZKSCAN4'] 
+2025-06-20 00:30:12,604 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'IL5', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'NFKBIA', 'PTPRF'] 
+2025-06-20 00:30:12,604 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:30:12,655 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'AIF1'] 
+2025-06-20 00:30:12,706 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'UBE3C'] 
+2025-06-20 00:30:12,706 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:30:12,761 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'ANKRD10', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14'] 
+2025-06-20 00:30:12,812 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'INPP5D'] 
+2025-06-20 00:30:12,812 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:30:12,863 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'RIPK2', 'GSK3A', 'FYN', 'GAPDH', 'MAPK14', 'NFKBIA', 'MDM4'] 
+2025-06-20 00:30:12,914 - Finished with child num after mutate ['PIK3CA', 'PIK3R2', 'GSK3B', 'JUN', 'NOTCH1', 'RIPK2', 'GSK3A', 'GAPDH', 'MAPK14', 'NFKBIA', 'PAK6'] 
+2025-06-20 00:30:12,914 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:30:12,915 - Run 2 COMPLETED - Fitness: 0.380025 - Size: 10 - Duration: 0:00:12.704917

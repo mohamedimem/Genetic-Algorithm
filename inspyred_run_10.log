@@ -1,0 +1,302 @@
+2025-06-20 00:31:54,328 - ------ ----- ----- Generation num ----- ----- ----- 0
+2025-06-20 00:31:54,413 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'EXOSC1', 'ADCY9', 'POLD3', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:54,477 - Finished with child num after mutate ['PPP3R1', 'SQSTM1', 'EXOSC1', 'ADCY9', 'POLD3', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:54,477 - ------ ----- ----- Generation num ----- ----- ----- 1
+2025-06-20 00:31:54,548 - Finished with child num after mutate ['PGR', 'AXL', 'CASP9', 'ADCY4', 'CD79B', 'ADCY9', 'ENTPD4', 'CD22', 'POLR3K', 'SOS1', 'MAPK1', 'PIK3R5', 'DCP1A', 'CFLAR', 'CDC27', 'ANAPC2', 'POLR3C'] 
+2025-06-20 00:31:54,617 - Finished with child num after mutate ['PPP3R1', 'SLC9A1', 'EXOSC1', 'POLD3', 'PRKX', 'CD72', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:54,618 - ------ ----- ----- Generation num ----- ----- ----- 2
+2025-06-20 00:31:54,689 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'MPHOSPH6', 'POLD3', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:54,753 - Finished with child num after mutate ['ENO1', 'EIF3E', 'LYN', 'EXOSC6', 'ADCY9', 'GDA', 'TTC37'] 
+2025-06-20 00:31:54,754 - ------ ----- ----- Generation num ----- ----- ----- 3
+2025-06-20 00:31:54,836 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PI4KB', 'EGFLAM', 'POLD3', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:54,912 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PI4KB', 'FOXC2', 'POLD3', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:54,912 - ------ ----- ----- Generation num ----- ----- ----- 4
+2025-06-20 00:31:54,967 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FOXC2', 'PPP3CC', 'PI4KB', 'AMIGO1', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:55,025 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'EGFLAM', 'CSMD1', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:55,026 - ------ ----- ----- Generation num ----- ----- ----- 5
+2025-06-20 00:31:55,114 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FOXC2', 'PI4KB', 'FKBP14', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:55,214 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PI4KB', 'EGFLAM', 'PRKX', 'ANAPC2', 'MYO1G', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:55,215 - ------ ----- ----- Generation num ----- ----- ----- 6
+2025-06-20 00:31:55,285 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'EGFLAM', 'MTRR', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:55,343 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'IGSF21', 'PPP3CC', 'PI4KB', 'FKBP14', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:55,343 - ------ ----- ----- Generation num ----- ----- ----- 7
+2025-06-20 00:31:55,433 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PI4KB', 'PIK3R1', 'FKBP14', 'PRKX', 'ANAPC2', 'MYH1', 'PPP3CC'] 
+2025-06-20 00:31:55,526 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FOXC2', 'PI4KB', 'ATP1A3', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:55,527 - ------ ----- ----- Generation num ----- ----- ----- 8
+2025-06-20 00:31:55,604 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FOXC2', 'PI4KB', 'KCNQ5', 'PRKX', 'ANAPC2', 'PIK3R1', 'PPP3CC'] 
+2025-06-20 00:31:55,737 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'EGFLAM', 'PIK3R1', 'PRKX', 'RHOU', 'ANAPC2'] 
+2025-06-20 00:31:55,737 - ------ ----- ----- Generation num ----- ----- ----- 9
+2025-06-20 00:31:55,863 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'FKBP14', 'TBXAS1', 'MYH1', 'ANAPC2'] 
+2025-06-20 00:31:55,986 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'PPP3CC', 'FKBP14', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:55,987 - ------ ----- ----- Generation num ----- ----- ----- 10
+2025-06-20 00:31:56,177 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FOXC2', 'PPP3CC', 'PI4KB', 'PRKX', 'ATP13A4', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:56,263 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'HSP90AA1', 'PPP3CC', 'PI4KB', 'FKBP14', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:56,263 - ------ ----- ----- Generation num ----- ----- ----- 11
+2025-06-20 00:31:56,336 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PRKX', 'ANAPC2', 'SFI1', 'PPP3CC'] 
+2025-06-20 00:31:56,415 - Finished with child num after mutate ['PPP3R1', 'PPID', 'PPIAL4D', 'PI4KB', 'FKBP14', 'ANAPC2', 'MYH1', 'PPP3CC'] 
+2025-06-20 00:31:56,416 - ------ ----- ----- Generation num ----- ----- ----- 12
+2025-06-20 00:31:56,478 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'ACTL6B', 'PPP3CC', 'PI4KB', 'FKBP14', 'PRKX', 'PIK3R1', 'ANAPC2'] 
+2025-06-20 00:31:56,557 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'SFI1', 'FKBP14', 'DUSP16', 'ANAPC2'] 
+2025-06-20 00:31:56,557 - ------ ----- ----- Generation num ----- ----- ----- 13
+2025-06-20 00:31:56,634 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'UNC13A', 'FKBP1B', 'FKBP14', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:56,719 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'SFI1', 'PRKX', 'ANAPC2', 'BTG1', 'PPP3CC'] 
+2025-06-20 00:31:56,719 - ------ ----- ----- Generation num ----- ----- ----- 14
+2025-06-20 00:31:56,796 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'PI4KB', 'PPID', 'FKBP14', 'MYH1', 'MOGS'] 
+2025-06-20 00:31:56,875 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PRKX', 'ANAPC2', 'GOLPH3L', 'PPP3CC'] 
+2025-06-20 00:31:56,875 - ------ ----- ----- Generation num ----- ----- ----- 15
+2025-06-20 00:31:56,959 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'SVEP1', 'FKBP1B', 'FKBP14', 'ANAPC2'] 
+2025-06-20 00:31:57,032 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'ZBED9', 'FKBP1B', 'FKBP14', 'ANAPC2'] 
+2025-06-20 00:31:57,032 - ------ ----- ----- Generation num ----- ----- ----- 16
+2025-06-20 00:31:57,107 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'CD209', 'FKBP1B', 'FKBP14', 'ANAPC2'] 
+2025-06-20 00:31:57,179 - Finished with child num after mutate ['PPP3R1', 'PIP5K1C', 'PPIAL4D', 'PI4KB', 'FKBP14', 'ANAPC2', 'MYH1', 'PPP3CC'] 
+2025-06-20 00:31:57,179 - ------ ----- ----- Generation num ----- ----- ----- 17
+2025-06-20 00:31:57,245 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'EIF2A', 'FKBP14', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:57,317 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'SFI1', 'FKBP14', 'AQP5', 'ANAPC2'] 
+2025-06-20 00:31:57,317 - ------ ----- ----- Generation num ----- ----- ----- 18
+2025-06-20 00:31:57,373 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'UNC13A', 'FKBP14', 'RACGAP1', 'ANAPC2'] 
+2025-06-20 00:31:57,432 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'FCER2'] 
+2025-06-20 00:31:57,432 - ------ ----- ----- Generation num ----- ----- ----- 19
+2025-06-20 00:31:57,507 - Finished with child num after mutate ['PPP3R1', 'MYO16', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:57,585 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'BMP1', 'FKBP1B', 'FKBP14', 'ANAPC2'] 
+2025-06-20 00:31:57,585 - ------ ----- ----- Generation num ----- ----- ----- 20
+2025-06-20 00:31:57,652 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'ATP8B3', 'ANAPC2'] 
+2025-06-20 00:31:57,732 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'CAMK1D', 'ANAPC2'] 
+2025-06-20 00:31:57,732 - ------ ----- ----- Generation num ----- ----- ----- 21
+2025-06-20 00:31:57,815 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'ZNF682', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:57,888 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FGF4', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:31:57,888 - ------ ----- ----- Generation num ----- ----- ----- 22
+2025-06-20 00:31:57,961 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'ATP8B3', 'FKBP1B', 'FKBP14', 'RASIP1', 'PPP3CC'] 
+2025-06-20 00:31:58,043 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'SRBD1', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:58,043 - ------ ----- ----- Generation num ----- ----- ----- 23
+2025-06-20 00:31:58,123 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'ATP8B3', 'FKBP1B', 'FKBP14', 'RCAN1', 'PPP3CC'] 
+2025-06-20 00:31:58,198 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'FGF16', 'ANAPC2', 'PPP3CC'] 
+2025-06-20 00:31:58,198 - ------ ----- ----- Generation num ----- ----- ----- 24
+2025-06-20 00:31:58,261 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'RASGRP1', 'FKBP1B', 'FKBP14', 'ANAPC2'] 
+2025-06-20 00:31:58,382 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'RASIP1', 'GUCY2D'] 
+2025-06-20 00:31:58,382 - ------ ----- ----- Generation num ----- ----- ----- 25
+2025-06-20 00:31:58,481 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'RASIP1', 'CAMKK2'] 
+2025-06-20 00:31:58,596 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP3CC', 'FKBP1B', 'FKBP14', 'RCAN1', 'BSN'] 
+2025-06-20 00:31:58,596 - ------ ----- ----- Generation num ----- ----- ----- 26
+2025-06-20 00:31:58,726 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'CDC14A', 'FKBP14', 'RASIP1', 'PPP3CC'] 
+2025-06-20 00:31:58,870 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP2R5C', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:31:58,870 - ------ ----- ----- Generation num ----- ----- ----- 27
+2025-06-20 00:31:59,010 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PFKP', 'PPP3CC'] 
+2025-06-20 00:31:59,122 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'CHMP6', 'PPP3CC'] 
+2025-06-20 00:31:59,122 - ------ ----- ----- Generation num ----- ----- ----- 28
+2025-06-20 00:31:59,187 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PTPDC1', 'PPP3CC'] 
+2025-06-20 00:31:59,298 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'ACTR3B', 'PPP3CC'] 
+2025-06-20 00:31:59,298 - ------ ----- ----- Generation num ----- ----- ----- 29
+2025-06-20 00:31:59,383 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'CLEC2D', 'PPP3CC'] 
+2025-06-20 00:31:59,448 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'CLEC12A', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:31:59,448 - ------ ----- ----- Generation num ----- ----- ----- 30
+2025-06-20 00:31:59,522 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'AQP3', 'PPP3CC'] 
+2025-06-20 00:31:59,598 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'MBP', 'PPP3CC'] 
+2025-06-20 00:31:59,599 - ------ ----- ----- Generation num ----- ----- ----- 31
+2025-06-20 00:31:59,673 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'MAP3K2', 'PPP3CC'] 
+2025-06-20 00:31:59,748 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'RHOJ', 'PPP3CC'] 
+2025-06-20 00:31:59,748 - ------ ----- ----- Generation num ----- ----- ----- 32
+2025-06-20 00:31:59,819 - Finished with child num after mutate ['PPP3R1', 'PRKAB1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:31:59,917 - Finished with child num after mutate ['PPP3R1', 'FLNC', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:31:59,917 - ------ ----- ----- Generation num ----- ----- ----- 33
+2025-06-20 00:31:59,980 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'MAPK13', 'PPP3CC'] 
+2025-06-20 00:32:00,070 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'ANXA5', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,071 - ------ ----- ----- Generation num ----- ----- ----- 34
+2025-06-20 00:32:00,135 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'MAPK7', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,224 - Finished with child num after mutate ['PPP3R1', 'CAMK2A', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,225 - ------ ----- ----- Generation num ----- ----- ----- 35
+2025-06-20 00:32:00,320 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'TSSK3', 'PPP3CC'] 
+2025-06-20 00:32:00,388 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'NCBP2L', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,388 - ------ ----- ----- Generation num ----- ----- ----- 36
+2025-06-20 00:32:00,451 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'PPP4R1', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,519 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'BAZ2B', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,519 - ------ ----- ----- Generation num ----- ----- ----- 37
+2025-06-20 00:32:00,611 - Finished with child num after mutate ['PPP3R1', 'CDK12', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:00,686 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'PPP4R1', 'MEF2C', 'PPP3CC'] 
+2025-06-20 00:32:00,686 - ------ ----- ----- Generation num ----- ----- ----- 38
+2025-06-20 00:32:00,740 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'RYR3', 'PPP3CC'] 
+2025-06-20 00:32:00,805 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'ITPR3', 'PPP3CC'] 
+2025-06-20 00:32:00,805 - ------ ----- ----- Generation num ----- ----- ----- 39
+2025-06-20 00:32:00,930 - Finished with child num after mutate ['PPP3R1', 'PRKAB1', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,098 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FKBP1B', 'FKBP14', 'MAP3K19', 'PPP3CC'] 
+2025-06-20 00:32:01,098 - ------ ----- ----- Generation num ----- ----- ----- 40
+2025-06-20 00:32:01,204 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'MMGT1', 'CAMK2A', 'PPP3CC'] 
+2025-06-20 00:32:01,293 - Finished with child num after mutate ['PPP3R1', 'PNO1', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,294 - ------ ----- ----- Generation num ----- ----- ----- 41
+2025-06-20 00:32:01,367 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'GJB1', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,422 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'AMIGO1', 'FKBP1B', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,422 - ------ ----- ----- Generation num ----- ----- ----- 42
+2025-06-20 00:32:01,509 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FKBP1B', 'FKBP14', 'GRIN2C', 'PPP3CC'] 
+2025-06-20 00:32:01,589 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'RNASEL', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,589 - ------ ----- ----- Generation num ----- ----- ----- 43
+2025-06-20 00:32:01,774 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'MAPK12', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:01,900 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'PRKX', 'PPP3CC'] 
+2025-06-20 00:32:01,900 - ------ ----- ----- Generation num ----- ----- ----- 44
+2025-06-20 00:32:01,997 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'ABCB7', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:02,082 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'MAGI3', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:02,082 - ------ ----- ----- Generation num ----- ----- ----- 45
+2025-06-20 00:32:02,247 - Finished with child num after mutate ['PPP3R1', 'PNO1', 'FKBP14', 'ADCY6', 'PPP3CC'] 
+2025-06-20 00:32:02,430 - Finished with child num after mutate ['PPP3R1', 'FKBP14', 'FKBP1B', 'PPP3CC', 'CDC73'] 
+2025-06-20 00:32:02,430 - ------ ----- ----- Generation num ----- ----- ----- 46
+2025-06-20 00:32:02,554 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'CABP5', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:02,631 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'SIK1', 'PPP3CC'] 
+2025-06-20 00:32:02,631 - ------ ----- ----- Generation num ----- ----- ----- 47
+2025-06-20 00:32:02,703 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'NOS2', 'PPP3CC'] 
+2025-06-20 00:32:02,787 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'CPT1A', 'PPP3CC'] 
+2025-06-20 00:32:02,787 - ------ ----- ----- Generation num ----- ----- ----- 48
+2025-06-20 00:32:02,855 - Finished with child num after mutate ['PPP3R1', 'MRC1', 'FKBP14', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:02,921 - Finished with child num after mutate ['PPP3R1', 'FKBP14', 'FKBP1B', 'PPP3CC', 'LAYN'] 
+2025-06-20 00:32:02,921 - ------ ----- ----- Generation num ----- ----- ----- 49
+2025-06-20 00:32:02,986 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'GNG11', 'PPP3CC'] 
+2025-06-20 00:32:03,183 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'MPP1', 'PPP3CC'] 
+2025-06-20 00:32:03,183 - ------ ----- ----- Generation num ----- ----- ----- 50
+2025-06-20 00:32:03,304 - Finished with child num after mutate ['PPP3R1', 'TSSK4', 'FKBP14', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:03,411 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'KCNN2', 'PPP3CC'] 
+2025-06-20 00:32:03,411 - ------ ----- ----- Generation num ----- ----- ----- 51
+2025-06-20 00:32:03,507 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'CLEC1B', 'PPP3CC'] 
+2025-06-20 00:32:03,593 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'TRIB1', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:03,593 - ------ ----- ----- Generation num ----- ----- ----- 52
+2025-06-20 00:32:03,673 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'ATP2A1', 'PPP3CC'] 
+2025-06-20 00:32:03,736 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'SPTA1', 'PPP3CC'] 
+2025-06-20 00:32:03,736 - ------ ----- ----- Generation num ----- ----- ----- 53
+2025-06-20 00:32:03,799 - Finished with child num after mutate ['PPP3R1', 'ITGA7', 'FKBP14', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:03,866 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'DNM3', 'FKBP14', 'PPP3CC'] 
+2025-06-20 00:32:03,866 - ------ ----- ----- Generation num ----- ----- ----- 54
+2025-06-20 00:32:03,951 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'VPS36', 'PPP3CC'] 
+2025-06-20 00:32:04,035 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'CASP3', 'PPP3CC'] 
+2025-06-20 00:32:04,036 - ------ ----- ----- Generation num ----- ----- ----- 55
+2025-06-20 00:32:04,109 - Finished with child num after mutate ['PPP3R1', 'RCSD1', 'MAPK13', 'FKBP1B', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:04,195 - Finished with child num after mutate ['PPP3R1', 'FKBP14', 'PPP3CC', 'IL5'] 
+2025-06-20 00:32:04,195 - ------ ----- ----- Generation num ----- ----- ----- 56
+2025-06-20 00:32:04,260 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'HNRNPAB', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:04,353 - Finished with child num after mutate ['PPP3R1', 'FKBP14', 'VAMP1', 'CABP5', 'PPP3CC'] 
+2025-06-20 00:32:04,353 - ------ ----- ----- Generation num ----- ----- ----- 57
+2025-06-20 00:32:04,422 - Finished with child num after mutate ['PPP3R1', 'FKBP14', 'FKBP1B', 'PPP3CC', 'SEMA4B'] 
+2025-06-20 00:32:04,477 - Finished with child num after mutate ['PPP3R1', 'PPIAL4D', 'FGF21', 'FKBP14', 'CABP5', 'PPP3CC'] 
+2025-06-20 00:32:04,477 - ------ ----- ----- Generation num ----- ----- ----- 58
+2025-06-20 00:32:04,531 - Finished with child num after mutate ['PPP3R1', 'FKBP1B', 'FKBP14', 'PPP4R4', 'PPP3CC'] 
+2025-06-20 00:32:04,586 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'MYLK4', 'RCSD1', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:04,586 - ------ ----- ----- Generation num ----- ----- ----- 59
+2025-06-20 00:32:04,650 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'MAPK12', 'PPP3CC', 'FA2H'] 
+2025-06-20 00:32:04,707 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'CCNA2', 'MAPK12', 'MYLK4'] 
+2025-06-20 00:32:04,707 - ------ ----- ----- Generation num ----- ----- ----- 60
+2025-06-20 00:32:04,764 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'PTPRG'] 
+2025-06-20 00:32:04,822 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'KSR1'] 
+2025-06-20 00:32:04,823 - ------ ----- ----- Generation num ----- ----- ----- 61
+2025-06-20 00:32:04,879 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'PPP3CC', 'LGALS1'] 
+2025-06-20 00:32:04,961 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'PPP3CC', 'ACTB'] 
+2025-06-20 00:32:04,961 - ------ ----- ----- Generation num ----- ----- ----- 62
+2025-06-20 00:32:05,023 - Finished with child num after mutate ['PPP3R1', 'CFL1', 'FKBP1B', 'PPP3CC'] 
+2025-06-20 00:32:05,089 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'ACTB', 'PHKG2', 'MAPK12'] 
+2025-06-20 00:32:05,090 - ------ ----- ----- Generation num ----- ----- ----- 63
+2025-06-20 00:32:05,155 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'ACTB', 'MAPK12', 'PPP3CC', 'AGFG1'] 
+2025-06-20 00:32:05,223 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'FANCM'] 
+2025-06-20 00:32:05,224 - ------ ----- ----- Generation num ----- ----- ----- 64
+2025-06-20 00:32:05,328 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'ACTB', 'ARID4A', 'MYLK4'] 
+2025-06-20 00:32:05,387 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'PPP3CC', 'ARL9'] 
+2025-06-20 00:32:05,387 - ------ ----- ----- Generation num ----- ----- ----- 65
+2025-06-20 00:32:05,450 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'CASP2'] 
+2025-06-20 00:32:05,523 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'MAPK12', 'PPP3CC', 'CDK4'] 
+2025-06-20 00:32:05,523 - ------ ----- ----- Generation num ----- ----- ----- 66
+2025-06-20 00:32:05,581 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'CDK4', 'FHOD1'] 
+2025-06-20 00:32:05,641 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'STIP1', 'FA2H', 'PPP3CC'] 
+2025-06-20 00:32:05,642 - ------ ----- ----- Generation num ----- ----- ----- 67
+2025-06-20 00:32:05,697 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'PPP3CC', 'RASGRF2'] 
+2025-06-20 00:32:05,751 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'ABTB1'] 
+2025-06-20 00:32:05,752 - ------ ----- ----- Generation num ----- ----- ----- 68
+2025-06-20 00:32:05,809 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'MRAS'] 
+2025-06-20 00:32:05,881 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'DUSP13'] 
+2025-06-20 00:32:05,881 - ------ ----- ----- Generation num ----- ----- ----- 69
+2025-06-20 00:32:05,939 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'ACTB', 'PPP3CC', 'QKI'] 
+2025-06-20 00:32:05,993 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:05,993 - ------ ----- ----- Generation num ----- ----- ----- 70
+2025-06-20 00:32:06,057 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'DLGAP5'] 
+2025-06-20 00:32:06,115 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'ZNF688'] 
+2025-06-20 00:32:06,115 - ------ ----- ----- Generation num ----- ----- ----- 71
+2025-06-20 00:32:06,187 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'FBXL12'] 
+2025-06-20 00:32:06,262 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'CREB5'] 
+2025-06-20 00:32:06,262 - ------ ----- ----- Generation num ----- ----- ----- 72
+2025-06-20 00:32:06,345 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'CRY1'] 
+2025-06-20 00:32:06,410 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'CDK4', 'WWTR1'] 
+2025-06-20 00:32:06,410 - ------ ----- ----- Generation num ----- ----- ----- 73
+2025-06-20 00:32:06,471 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'ACTB', 'PPP3CC', 'CIB3'] 
+2025-06-20 00:32:06,543 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'ZNF500', 'PPP3CC'] 
+2025-06-20 00:32:06,543 - ------ ----- ----- Generation num ----- ----- ----- 74
+2025-06-20 00:32:06,614 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'IKZF5'] 
+2025-06-20 00:32:06,701 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'PPM1F'] 
+2025-06-20 00:32:06,701 - ------ ----- ----- Generation num ----- ----- ----- 75
+2025-06-20 00:32:06,773 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'SLC6A7'] 
+2025-06-20 00:32:06,864 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'STK17A'] 
+2025-06-20 00:32:06,864 - ------ ----- ----- Generation num ----- ----- ----- 76
+2025-06-20 00:32:06,931 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MYH2'] 
+2025-06-20 00:32:06,990 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'EGR1'] 
+2025-06-20 00:32:06,990 - ------ ----- ----- Generation num ----- ----- ----- 77
+2025-06-20 00:32:07,051 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAZ', 'MAPK12', 'MYLK4'] 
+2025-06-20 00:32:07,127 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'ACTB', 'MAPK12', 'PPP3CC', 'POTEF'] 
+2025-06-20 00:32:07,127 - ------ ----- ----- Generation num ----- ----- ----- 78
+2025-06-20 00:32:07,200 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'SUB1'] 
+2025-06-20 00:32:07,279 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'GUCA1B'] 
+2025-06-20 00:32:07,279 - ------ ----- ----- Generation num ----- ----- ----- 79
+2025-06-20 00:32:07,379 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'CABP7'] 
+2025-06-20 00:32:07,448 - Finished with child num after mutate ['PPP3R1', 'TXNDC2', 'MAPK12', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:07,448 - ------ ----- ----- Generation num ----- ----- ----- 80
+2025-06-20 00:32:07,506 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'RPS6KB1', 'PPP3CC'] 
+2025-06-20 00:32:07,571 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'ACTB', 'PPP3CC', 'LIMS3'] 
+2025-06-20 00:32:07,571 - ------ ----- ----- Generation num ----- ----- ----- 81
+2025-06-20 00:32:07,646 - Finished with child num after mutate ['PPP3R1', 'ROR2', 'MAPK12', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:07,703 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'TRIB2'] 
+2025-06-20 00:32:07,704 - ------ ----- ----- Generation num ----- ----- ----- 82
+2025-06-20 00:32:07,794 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'PVALB'] 
+2025-06-20 00:32:07,867 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MYL10'] 
+2025-06-20 00:32:07,868 - ------ ----- ----- Generation num ----- ----- ----- 83
+2025-06-20 00:32:07,922 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'TCF7L1'] 
+2025-06-20 00:32:07,987 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'SPAG9'] 
+2025-06-20 00:32:07,987 - ------ ----- ----- Generation num ----- ----- ----- 84
+2025-06-20 00:32:08,051 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MXRA5'] 
+2025-06-20 00:32:08,155 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MKKS'] 
+2025-06-20 00:32:08,155 - ------ ----- ----- Generation num ----- ----- ----- 85
+2025-06-20 00:32:08,229 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'RRAS'] 
+2025-06-20 00:32:08,314 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'WWTR1'] 
+2025-06-20 00:32:08,315 - ------ ----- ----- Generation num ----- ----- ----- 86
+2025-06-20 00:32:08,379 - Finished with child num after mutate ['PPP3R1', 'DUSP13', 'MAPK13', 'MAPK12', 'PPP3CC', 'NCBP2L'] 
+2025-06-20 00:32:08,437 - Finished with child num after mutate ['PPP3R1', 'CDK4', 'MAP3K8', 'MAPK12', 'PPP3CC'] 
+2025-06-20 00:32:08,437 - ------ ----- ----- Generation num ----- ----- ----- 87
+2025-06-20 00:32:08,501 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'ROR1'] 
+2025-06-20 00:32:08,562 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'RPS6KB1', 'PPP3CC', 'MAP2K5'] 
+2025-06-20 00:32:08,562 - ------ ----- ----- Generation num ----- ----- ----- 88
+2025-06-20 00:32:08,627 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'CSK'] 
+2025-06-20 00:32:08,694 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'CDK7'] 
+2025-06-20 00:32:08,694 - ------ ----- ----- Generation num ----- ----- ----- 89
+2025-06-20 00:32:08,754 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'SOS2', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:08,822 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'SMYD2'] 
+2025-06-20 00:32:08,822 - ------ ----- ----- Generation num ----- ----- ----- 90
+2025-06-20 00:32:08,896 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'RNF4'] 
+2025-06-20 00:32:08,953 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MLH1'] 
+2025-06-20 00:32:08,953 - ------ ----- ----- Generation num ----- ----- ----- 91
+2025-06-20 00:32:09,020 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'FA2H', 'MAPK12', 'PPP3CC', 'ITSN1'] 
+2025-06-20 00:32:09,160 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'MAPK12', 'PPP3CC', 'PPARGC1A'] 
+2025-06-20 00:32:09,160 - ------ ----- ----- Generation num ----- ----- ----- 92
+2025-06-20 00:32:09,265 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'PLCG1', 'SOS2', 'MAPK12'] 
+2025-06-20 00:32:09,360 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'ZNF442'] 
+2025-06-20 00:32:09,360 - ------ ----- ----- Generation num ----- ----- ----- 93
+2025-06-20 00:32:09,445 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAPK12', 'SOS2', 'RBMX2'] 
+2025-06-20 00:32:09,501 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'ITIH1', 'MAPK12', 'PLCG1'] 
+2025-06-20 00:32:09,501 - ------ ----- ----- Generation num ----- ----- ----- 94
+2025-06-20 00:32:09,556 - Finished with child num after mutate ['PPP3R1', 'MAPK12', 'MAPK13', 'PPP3CC', 'RBM34'] 
+2025-06-20 00:32:09,611 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CDK4', 'PLCG1', 'PPP3CC', 'CYP3A4'] 
+2025-06-20 00:32:09,611 - ------ ----- ----- Generation num ----- ----- ----- 95
+2025-06-20 00:32:09,678 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'CHEK2', 'MAPK12', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:09,747 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAPK12', 'SOS2', 'SIPA1'] 
+2025-06-20 00:32:09,747 - ------ ----- ----- Generation num ----- ----- ----- 96
+2025-06-20 00:32:09,804 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'RUVBL2', 'MAPK12', 'PLCG1', 'PPP3CC'] 
+2025-06-20 00:32:09,858 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAPK12', 'SOS2', 'CAPN15'] 
+2025-06-20 00:32:09,858 - ------ ----- ----- Generation num ----- ----- ----- 97
+2025-06-20 00:32:09,913 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MLH1'] 
+2025-06-20 00:32:09,997 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'MAPK14'] 
+2025-06-20 00:32:09,997 - ------ ----- ----- Generation num ----- ----- ----- 98
+2025-06-20 00:32:10,081 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAPK12', 'PLCG1', 'SOS2', 'PPP1R13B'] 
+2025-06-20 00:32:10,146 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PPP3CC', 'MAPK12', 'PLCG1', 'SOS2', 'ARL5B'] 
+2025-06-20 00:32:10,147 - ------ ----- ----- Generation num ----- ----- ----- 99
+2025-06-20 00:32:10,213 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'MAPK14', 'PLCG1', 'PPP3CC', 'MYL2'] 
+2025-06-20 00:32:10,306 - Finished with child num after mutate ['PPP3R1', 'MAPK13', 'PLCG1', 'PPP3CC', 'LRRC7'] 
+2025-06-20 00:32:10,306 - ------ ----- ----- Generation num ----- ----- ----- 100
+2025-06-20 00:32:10,307 - Run 10 COMPLETED - Fitness: 0.353551 - Size: 5 - Duration: 0:00:17.985992

@@ -1,0 +1,78 @@
+ORIGINAL GENETIC ALGORITHM - 20 RUNS EXPERIMENT RESULTS
+========================================================================================================================
+Start Time: 2025-06-20 00:29:45
+Fitness Function: 0.5 * AVG_SIMILARITY + 0.5 * AVG_INTERACTION
+Population Size: 30 | Max Generations: 100 | Community Size: 5-40 genes (random)
+========================================================================================================================
+
+RUN RESULTS TABLE:
+------------------------------------------------------------------------------------------------------------------------
+RUN | FITNESS  | SIZE | AVG_SIM  | AVG_INT  |   DURATION   | SOLUTION (GENES)
+------------------------------------------------------------------------------------------------------------------------
+ 1 | 0.399732 |  6 | 0.405702 | 0.393762 | 0:00:14.452738 | UBA52, TPI1, RPL18A, EXOSC5, UMPS, RPS12
+ 2 | 0.380025 | 10 | 0.428469 | 0.331582 | 0:00:12.704917 | PIK3CA, PIK3R2, GSK3B, JUN, RIPK2, GSK3A, FYN, GAPDH, NFKBIA, MAPK14
+ 3 | 0.340681 |  6 | 0.348505 | 0.332857 | 0:00:13.311244 | NFKB1, PPIF, UBB, GAPDH, NFKBIB, TAB1
+ 4 | 0.245870 |  9 | 0.302473 | 0.189267 | 0:00:13.082651 | AR, HDAC7, CDC37, MAPK12, HDAC1, KDM6B, SOX9, EGFR, SGTA
+ 5 | 0.343759 |  9 | 0.280651 | 0.406867 | 0:00:13.924346 | CMPK2, ADK, NT5C1A, PDE1B, DCK, NT5C, GMPS, UMPS, GMPR
+ 6 | 0.452402 |  5 | 0.356337 | 0.548467 | 0:00:14.226246 | PRTN3, CTSC, MAPK1, ACTR2, FUCA1
+ 7 | 0.371628 | 11 | 0.396272 | 0.346985 | 0:00:14.342678 | PIK3R2, PIK3CA, MTOR, NFKB1, SOS2, PDK4, MAPK14, INS, EPOR, SIRT1, NFKBIA
+ 8 | 0.478268 |  6 | 0.426394 | 0.530143 | 0:00:14.727623 | SF3A1, CPSF4, SRSF9, POLR2I, DHX16, SF3A3
+ 9 | 0.300664 |  7 | 0.321364 | 0.279964 | 0:00:15.780459 | PPP3R1, CALM3, PVALB, GUCY2F, PDE1B, PDE1A, HPCA
+10 | 0.353551 |  5 | 0.339902 | 0.367200 | 0:00:17.985992 | PPP3R1, MAPK13, PLCG1, PPP3CC, MAPK14
+11 | 0.313729 |  6 | 0.283983 | 0.343476 | 0:00:16.208574 | ENO1, VAT1, GRN, S100A7, MAPK1, MAN2B1
+12 | 0.394530 |  7 | 0.372668 | 0.416393 | 0:00:14.949484 | RUVBL2, POLR2L, ELL2, POLR2F, PABPN1, RPA3, POLR2C
+13 | 0.360992 |  4 | 0.340784 | 0.381200 | 0:00:15.105308 | RIPK3, FAS, NFKBIA, DUSP1
+14 | 0.299894 | 12 | 0.266531 | 0.333256 | 0:00:15.012897 | PSMB11, PSMB9, RBX1, BTRC, PSMD7, AKT1, UBE2D1, APC, GSK3A, FBXO5, AURKA, PPP3CC
+15 | 0.567288 |  9 | 0.461199 | 0.673378 | 0:00:14.680431 | PSMD10, SKP1, PSMD7, PSMA3, CDKN1B, CDC6, AURKA, ANAPC7, PSME2
+16 | 0.306112 |  5 | 0.269357 | 0.342867 | 0:00:14.038382 | MAPK13, CTTNBP2, PPP2CB, STK24, CCT2
+17 | 0.194597 | 26 | 0.234060 | 0.155134 | 0:00:14.671761 | IRF8, MYH9, UBE2I, CDK1, SUMO1, NR3C1, PPP3R1, ATAD2B, IRF3, MMP2, CAT, UBA2, NFKBIA, EGR2, TNFRSF1A, NTRK1, PTEN, CD69, HPGDS, BLNK, RELB, BCL10, FN1, SKP1, PPARG, NFKBIB
+18 | 0.327162 |  9 | 0.360102 | 0.294222 | 0:00:14.810883 | IRF1, TGFB1, MAPK1, MAPK12, JUN, MEF2C, STAT6, INS, ROCK2
+19 | 0.457605 |  8 | 0.371266 | 0.543944 | 0:00:14.909327 | RBX1, PSMD12, CUL1, PPP2R5B, PSME2, FBXO30, DVL2, SKP1
+20 | 0.295113 |  5 | 0.295892 | 0.294333 | 0:00:18.625565 | PRKACG, ARHGDIB, MAPK1, AP2S1, RASD2
+
+------------------------------------------------------------------------------------------------------------------------
+
+ANALYSIS SUMMARY:
+----------------------------------------
+Completed runs: 20/20
+Best fitness:   0.567288 (Run 15, Size: 9 genes)
+Worst fitness:  0.194597 (Run 17, Size: 26 genes)
+Average fitness: 0.359180
+Average community size: 8.2 genes
+
+FITNESS RANKING (Top 10):
+----------------------------------------
+ 1. Run 15 - Fitness: 0.567288 - Size:  9 genes
+ 2. Run  8 - Fitness: 0.478268 - Size:  6 genes
+ 3. Run 19 - Fitness: 0.457605 - Size:  8 genes
+ 4. Run  6 - Fitness: 0.452402 - Size:  5 genes
+ 5. Run  1 - Fitness: 0.399732 - Size:  6 genes
+ 6. Run 12 - Fitness: 0.394530 - Size:  7 genes
+ 7. Run  2 - Fitness: 0.380025 - Size: 10 genes
+ 8. Run  7 - Fitness: 0.371628 - Size: 11 genes
+ 9. Run 13 - Fitness: 0.360992 - Size:  4 genes
+10. Run 10 - Fitness: 0.353551 - Size:  5 genes
+
+SIZE DISTRIBUTION ANALYSIS:
+----------------------------------------
+Size  4: 1 runs, Avg Fitness: 0.360992, Best: 0.360992
+Size  5: 4 runs, Avg Fitness: 0.351794, Best: 0.452402
+Size  6: 4 runs, Avg Fitness: 0.383103, Best: 0.478268
+Size  7: 2 runs, Avg Fitness: 0.347597, Best: 0.394530
+Size  8: 1 runs, Avg Fitness: 0.457605, Best: 0.457605
+Size  9: 4 runs, Avg Fitness: 0.371020, Best: 0.567288
+Size 10: 1 runs, Avg Fitness: 0.380025, Best: 0.380025
+Size 11: 1 runs, Avg Fitness: 0.371628, Best: 0.371628
+Size 12: 1 runs, Avg Fitness: 0.299894, Best: 0.299894
+Size 26: 1 runs, Avg Fitness: 0.194597, Best: 0.194597
+
+COMPONENT ANALYSIS:
+----------------------------------------
+Best Run (15) Details:
+  Similarity Component: 0.461199 (weight: 0.5)
+  Interaction Component: 0.673378 (weight: 0.5)
+  Combined Fitness: 0.567288
+  Genes: PSMD10, SKP1, PSMD7, PSMA3, CDKN1B, CDC6, AURKA, ANAPC7, PSME2
+
+========================================================================================================================
+Experiment completed at: 2025-06-20 00:34:43
